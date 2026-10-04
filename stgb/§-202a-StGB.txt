@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 202a — Ausspähen von Daten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE056103377
+Normseite: https://www.gesetze-im-internet.de/stgb/__202a.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer unbefugt sich oder einem anderen Zugang zu Daten, die nicht für ihn bestimmt und die gegen unberechtigten Zugang besonders gesichert sind, unter Überwindung der Zugangssicherung verschafft, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+(2) Daten im Sinne des Absatzes 1 sind nur solche, die elektronisch, magnetisch oder sonst nicht unmittelbar wahrnehmbar gespeichert sind oder übermittelt werden.

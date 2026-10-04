@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1077 — Kündigung und Zahlung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE111402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1077.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Schuldner kann das Kapital nur an den Nießbraucher und den Gläubiger gemeinschaftlich zahlen. Jeder von beiden kann verlangen, dass an sie gemeinschaftlich gezahlt wird; jeder kann statt der Zahlung die Hinterlegung für beide fordern.
+(2) Der Nießbraucher und der Gläubiger können nur gemeinschaftlich kündigen. Die Kündigung des Schuldners ist nur wirksam, wenn sie dem Nießbraucher und dem Gläubiger erklärt wird.

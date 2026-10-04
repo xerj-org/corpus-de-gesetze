@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 2305 — Zusatzpflichtteil
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE225103140
+Normseite: https://www.gesetze-im-internet.de/bgb/__2305.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ist einem Pflichtteilsberechtigten ein Erbteil hinterlassen, der geringer ist als die Hälfte des gesetzlichen Erbteils, so kann der Pflichtteilsberechtigte von den Miterben als Pflichtteil den Wert des an der Hälfte fehlenden Teils verlangen. Bei der Berechnung des Wertes bleiben Beschränkungen und Beschwerungen der in § 2306 bezeichneten Art außer Betracht.

@@ -1,0 +1,10 @@
+Strafgesetzbuch (StGB) — § 45a — Eintritt und Berechnung des Verlustes
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE011302307
+Normseite: https://www.gesetze-im-internet.de/stgb/__45a.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Verlust der Fähigkeiten, Rechtsstellungen und Rechte wird mit der Rechtskraft des Urteils wirksam.
+(2) Die Dauer des Verlustes einer Fähigkeit oder eines Rechts wird von dem Tage an gerechnet, an dem die Freiheitsstrafe verbüßt, verjährt oder erlassen ist. Ist neben der Freiheitsstrafe eine freiheitsentziehende Maßregel der Besserung und Sicherung angeordnet worden, so wird die Frist erst von dem Tage an gerechnet, an dem auch die Maßregel erledigt ist.
+(3) War die Vollstreckung der Strafe, des Strafrestes oder der Maßregel zur Bewährung oder im Gnadenweg ausgesetzt, so wird in die Frist die Bewährungszeit eingerechnet, wenn nach deren Ablauf die Strafe oder der Strafrest erlassen wird oder die Maßregel erledigt ist.

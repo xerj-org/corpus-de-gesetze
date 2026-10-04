@@ -1,0 +1,9 @@
+Grundgesetz für die Bundesrepublik Deutschland (GG) — Art 43
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-05-06
+Dokumentnummer: BJNR000010949BJNE006100314
+Normseite: https://www.gesetze-im-internet.de/gg/art_43.html
+Quell-Zip: https://www.gesetze-im-internet.de/gg/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Bundestag und seine Ausschüsse können die Anwesenheit jedes Mitgliedes der Bundesregierung verlangen.
+(2) Die Mitglieder des Bundesrates und der Bundesregierung sowie ihre Beauftragten haben zu allen Sitzungen des Bundestages und seiner Ausschüsse Zutritt. Sie müssen jederzeit gehört werden.

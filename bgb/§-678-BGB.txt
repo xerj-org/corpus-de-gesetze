@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 678 — Geschäftsführung gegen den Willen des Geschäftsherrn
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE070502377
+Normseite: https://www.gesetze-im-internet.de/bgb/__678.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Steht die Übernahme der Geschäftsführung mit dem wirklichen oder dem mutmaßlichen Willen des Geschäftsherrn in Widerspruch und musste der Geschäftsführer dies erkennen, so ist er dem Geschäftsherrn zum Ersatz des aus der Geschäftsführung entstehenden Schadens auch dann verpflichtet, wenn ihm ein sonstiges Verschulden nicht zur Last fällt.

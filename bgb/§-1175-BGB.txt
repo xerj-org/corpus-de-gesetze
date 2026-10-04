@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1175 — Verzicht auf die Gesamthypothek
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE121202377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1175.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Verzichtet der Gläubiger auf die Gesamthypothek, so fällt sie den Eigentümern der belasteten Grundstücke gemeinschaftlich zu; die Vorschriften des § 1172 Abs. 2 finden Anwendung. Verzichtet der Gläubiger auf die Hypothek an einem der Grundstücke, so erlischt die Hypothek an diesem.
+(2) Das Gleiche gilt, wenn der Gläubiger nach § 1170 mit seinem Recht ausgeschlossen wird.

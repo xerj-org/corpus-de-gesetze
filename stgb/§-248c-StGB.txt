@@ -1,0 +1,11 @@
+Strafgesetzbuch (StGB) — § 248c — Entziehung elektrischer Energie
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE043803307
+Normseite: https://www.gesetze-im-internet.de/stgb/__248c.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer einer elektrischen Anlage oder Einrichtung fremde elektrische Energie mittels eines Leiters entzieht, der zur ordnungsmäßigen Entnahme von Energie aus der Anlage oder Einrichtung nicht bestimmt ist, wird, wenn er die Handlung in der Absicht begeht, die elektrische Energie sich oder einem Dritten rechtswidrig zuzueignen, mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(2) Der Versuch ist strafbar.
+(3) Die §§ 247 und 248a gelten entsprechend.
+(4) Wird die in Absatz 1 bezeichnete Handlung in der Absicht begangen, einem anderen rechtswidrig Schaden zuzufügen, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe. Die Tat wird nur auf Antrag verfolgt.

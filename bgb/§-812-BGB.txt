@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 812 — Herausgabeanspruch
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE084102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__812.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer durch die Leistung eines anderen oder in sonstiger Weise auf dessen Kosten etwas ohne rechtlichen Grund erlangt, ist ihm zur Herausgabe verpflichtet. Diese Verpflichtung besteht auch dann, wenn der rechtliche Grund später wegfällt oder der mit einer Leistung nach dem Inhalt des Rechtsgeschäfts bezweckte Erfolg nicht eintritt.
+(2) Als Leistung gilt auch die durch Vertrag erfolgte Anerkennung des Bestehens oder des Nichtbestehens eines Schuldverhältnisses.

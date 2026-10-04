@@ -1,0 +1,12 @@
+Strafgesetzbuch (StGB) — § 268 — Fälschung technischer Aufzeichnungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE046103307
+Normseite: https://www.gesetze-im-internet.de/stgb/__268.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer zur Täuschung im Rechtsverkehr 1. eine unechte technische Aufzeichnung herstellt oder eine technische Aufzeichnung verfälscht oder  2. eine unechte oder verfälschte technische Aufzeichnung gebraucht,  wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(2) Technische Aufzeichnung ist eine Darstellung von Daten, Meß- oder Rechenwerten, Zuständen oder Geschehensabläufen, die durch ein technisches Gerät ganz oder zum Teil selbsttätig bewirkt wird, den Gegenstand der Aufzeichnung allgemein oder für Eingeweihte erkennen läßt und zum Beweis einer rechtlich erheblichen Tatsache bestimmt ist, gleichviel ob ihr die Bestimmung schon bei der Herstellung oder erst später gegeben wird.
+(3) Der Herstellung einer unechten technischen Aufzeichnung steht es gleich, wenn der Täter durch störende Einwirkung auf den Aufzeichnungsvorgang das Ergebnis der Aufzeichnung beeinflußt.
+(4) Der Versuch ist strafbar.
+(5) § 267 Abs. 3 und 4 gilt entsprechend.

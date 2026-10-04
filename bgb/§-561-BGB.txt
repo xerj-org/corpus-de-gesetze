@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 561 — Sonderkündigungsrecht des Mieters nach Mieterhöhung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE056502377
+Normseite: https://www.gesetze-im-internet.de/bgb/__561.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Macht der Vermieter eine Mieterhöhung nach § 558 oder § 559 geltend, so kann der Mieter bis zum Ablauf des zweiten Monats nach dem Zugang der Erklärung des Vermieters das Mietverhältnis außerordentlich zum Ablauf des übernächsten Monats kündigen. Kündigt der Mieter, so tritt die Mieterhöhung nicht ein.
+(2) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.

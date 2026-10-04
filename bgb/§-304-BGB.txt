@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 304 — Ersatz von Mehraufwendungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE029702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__304.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Schuldner kann im Falle des Verzugs des Gläubigers Ersatz der Mehraufwendungen verlangen, die er für das erfolglose Angebot sowie für die Aufbewahrung und Erhaltung des geschuldeten Gegenstands machen musste.

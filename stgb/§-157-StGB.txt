@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 157 — Aussagenotstand
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE031402307
+Normseite: https://www.gesetze-im-internet.de/stgb/__157.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Hat ein Zeuge oder Sachverständiger sich eines Meineids oder einer falschen uneidlichen Aussage schuldig gemacht, so kann das Gericht die Strafe nach seinem Ermessen mildern (§ 49 Abs. 2) und im Falle uneidlicher Aussage auch ganz von Strafe absehen, wenn der Täter die Unwahrheit gesagt hat, um von einem Angehörigen oder von sich selbst die Gefahr abzuwenden, bestraft oder einer freiheitsentziehenden Maßregel der Besserung und Sicherung unterworfen zu werden.
+(2) Das Gericht kann auch dann die Strafe nach seinem Ermessen mildern (§ 49 Abs. 2) oder ganz von Strafe absehen, wenn ein noch nicht Eidesmündiger uneidlich falsch ausgesagt hat.

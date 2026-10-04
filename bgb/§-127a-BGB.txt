@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 127a — Gerichtlicher Vergleich
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE011902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__127a.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Die notarielle Beurkundung wird bei einem gerichtlichen Vergleich durch die Aufnahme der Erklärungen in ein nach den Vorschriften der Zivilprozessordnung errichtetes Protokoll ersetzt.

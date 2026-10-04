@@ -1,0 +1,9 @@
+Grundgesetz für die Bundesrepublik Deutschland (GG) — Art 8
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-05-06
+Dokumentnummer: BJNR000010949BJNE002400314
+Normseite: https://www.gesetze-im-internet.de/gg/art_8.html
+Quell-Zip: https://www.gesetze-im-internet.de/gg/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Alle Deutschen haben das Recht, sich ohne Anmeldung oder Erlaubnis friedlich und ohne Waffen zu versammeln.
+(2) Für Versammlungen unter freiem Himmel kann dieses Recht durch Gesetz oder auf Grund eines Gesetzes beschränkt werden.

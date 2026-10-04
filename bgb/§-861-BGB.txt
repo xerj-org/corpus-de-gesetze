@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 861 — Anspruch wegen Besitzentziehung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE089002377
+Normseite: https://www.gesetze-im-internet.de/bgb/__861.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wird der Besitz durch verbotene Eigenmacht dem Besitzer entzogen, so kann dieser die Wiedereinräumung des Besitzes von demjenigen verlangen, welcher ihm gegenüber fehlerhaft besitzt.
+(2) Der Anspruch ist ausgeschlossen, wenn der entzogene Besitz dem gegenwärtigen Besitzer oder dessen Rechtsvorgänger gegenüber fehlerhaft war und in dem letzten Jahre vor der Entziehung erlangt worden ist.

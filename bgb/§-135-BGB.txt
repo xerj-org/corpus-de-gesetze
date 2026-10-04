@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 135 — Gesetzliches Veräußerungsverbot
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE012702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__135.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Verstößt die Verfügung über einen Gegenstand gegen ein gesetzliches Veräußerungsverbot, das nur den Schutz bestimmter Personen bezweckt, so ist sie nur diesen Personen gegenüber unwirksam. Der rechtsgeschäftlichen Verfügung steht eine Verfügung gleich, die im Wege der Zwangsvollstreckung oder der Arrestvollziehung erfolgt.
+(2) Die Vorschriften zugunsten derjenigen, welche Rechte von einem Nichtberechtigten herleiten, finden entsprechende Anwendung.

@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 67b — Aussetzung zugleich mit der Anordnung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE014902307
+Normseite: https://www.gesetze-im-internet.de/stgb/__67b.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Ordnet das Gericht die Unterbringung in einem psychiatrischen Krankenhaus oder einer Entziehungsanstalt an, so setzt es zugleich deren Vollstreckung zur Bewährung aus, wenn besondere Umstände die Erwartung rechtfertigen, daß der Zweck der Maßregel auch dadurch erreicht werden kann. Die Aussetzung unterbleibt, wenn der Täter noch Freiheitsstrafe zu verbüßen hat, die gleichzeitig mit der Maßregel verhängt und nicht zur Bewährung ausgesetzt wird.
+(2) Mit der Aussetzung tritt Führungsaufsicht ein.

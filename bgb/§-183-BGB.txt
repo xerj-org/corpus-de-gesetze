@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 183 — Widerruflichkeit der Einwilligung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE017502377
+Normseite: https://www.gesetze-im-internet.de/bgb/__183.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Die vorherige Zustimmung (Einwilligung) ist bis zur Vornahme des Rechtsgeschäfts widerruflich, soweit nicht aus dem ihrer Erteilung zugrunde liegenden Rechtsverhältnis sich ein anderes ergibt. Der Widerruf kann sowohl dem einen als dem anderen Teil gegenüber erklärt werden.

@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 2177 — Anfall bei einer Bedingung oder Befristung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE213102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2177.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ist das Vermächtnis unter einer aufschiebenden Bedingung oder unter Bestimmung eines Anfangstermins angeordnet und tritt die Bedingung oder der Termin erst nach dem Erbfall ein, so erfolgt der Anfall des Vermächtnisses mit dem Eintritt der Bedingung oder des Termins.

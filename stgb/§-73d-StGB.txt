@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 73d — Bestimmung des Wertes des Erlangten; Schätzung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE058404123
+Normseite: https://www.gesetze-im-internet.de/stgb/__73d.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Bei der Bestimmung des Wertes des Erlangten sind die Aufwendungen des Täters, Teilnehmers oder des anderen abzuziehen. Außer Betracht bleibt jedoch das, was für die Begehung der Tat oder für ihre Vorbereitung aufgewendet oder eingesetzt worden ist, soweit es sich nicht um Leistungen zur Erfüllung einer Verbindlichkeit gegenüber dem Verletzten der Tat handelt.
+(2) Umfang und Wert des Erlangten einschließlich der abzuziehenden Aufwendungen können geschätzt werden.

@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 320 — Einrede des nicht erfüllten Vertrags
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE031302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__320.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer aus einem gegenseitigen Vertrag verpflichtet ist, kann die ihm obliegende Leistung bis zur Bewirkung der Gegenleistung verweigern, es sei denn, dass er vorzuleisten verpflichtet ist. Hat die Leistung an mehrere zu erfolgen, so kann dem einzelnen der ihm gebührende Teil bis zur Bewirkung der ganzen Gegenleistung verweigert werden. Die Vorschrift des § 273 Abs. 3 findet keine Anwendung.
+(2) Ist von der einen Seite teilweise geleistet worden, so kann die Gegenleistung insoweit nicht verweigert werden, als die Verweigerung nach den Umständen, insbesondere wegen verhältnismäßiger Geringfügigkeit des rückständigen Teils, gegen Treu und Glauben verstoßen würde.

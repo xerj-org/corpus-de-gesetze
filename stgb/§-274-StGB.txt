@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 274 — Urkundenunterdrückung; Veränderung einer Grenzbezeichnung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE046703307
+Normseite: https://www.gesetze-im-internet.de/stgb/__274.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer 1. eine Urkunde oder eine technische Aufzeichnung, welche ihm entweder überhaupt nicht oder nicht ausschließlich gehört, in der Absicht, einem anderen Nachteil zuzufügen, vernichtet, beschädigt oder unterdrückt,  2. beweiserhebliche Daten (§ 202a Abs. 2), über die er nicht oder nicht ausschließlich verfügen darf, in der Absicht, einem anderen Nachteil zuzufügen, löscht, unterdrückt, unbrauchbar macht oder verändert oder  3. einen Grenzstein oder ein anderes zur Bezeichnung einer Grenze oder eines Wasserstandes bestimmtes Merkmal in der Absicht, einem anderen Nachteil zuzufügen, wegnimmt, vernichtet, unkenntlich macht, verrückt oder fälschlich setzt.
+(2) Der Versuch ist strafbar.

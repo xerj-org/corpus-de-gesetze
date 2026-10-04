@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 202c — Vorbereiten des Ausspähens und Abfangens von Daten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE065901308
+Normseite: https://www.gesetze-im-internet.de/stgb/__202c.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer eine Straftat nach § 202a oder § 202b vorbereitet, indem er 1. Passwörter oder sonstige Sicherungscodes, die den Zugang zu Daten (§ 202a Abs. 2) ermöglichen, oder 2. Computerprogramme, deren Zweck die Begehung einer solchen Tat ist, herstellt, sich oder einem anderen verschafft, verkauft, einem anderen überlässt, verbreitet oder sonst zugänglich macht, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+(2) § 149 Abs. 2 und 3 gilt entsprechend.

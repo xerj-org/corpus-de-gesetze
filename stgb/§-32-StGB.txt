@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 32 — Notwehr
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE009902307
+Normseite: https://www.gesetze-im-internet.de/stgb/__32.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer eine Tat begeht, die durch Notwehr geboten ist, handelt nicht rechtswidrig.
+(2) Notwehr ist die Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff von sich oder einem anderen abzuwenden.

@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 2025 — Haftung bei unerlaubter Handlung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE197702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2025.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Hat der Erbschaftsbesitzer einen Erbschaftsgegenstand durch eine Straftat oder eine zur Erbschaft gehörende Sache durch verbotene Eigenmacht erlangt, so haftet er nach den Vorschriften über den Schadensersatz wegen unerlaubter Handlungen. Ein gutgläubiger Erbschaftsbesitzer haftet jedoch wegen verbotener Eigenmacht nach diesen Vorschriften nur, wenn der Erbe den Besitz der Sache bereits tatsächlich ergriffen hatte.

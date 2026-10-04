@@ -1,0 +1,11 @@
+Bürgerliches Gesetzbuch (BGB) — § 129 — Öffentliche Beglaubigung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE012104129
+Normseite: https://www.gesetze-im-internet.de/bgb/__129.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Ist für eine Erklärung durch Gesetz öffentliche Beglaubigung vorgeschrieben, so muss die Erklärung 1. in schriftlicher Form abgefasst und die Unterschrift des Erklärenden von einem Notar beglaubigt werden oder 2. in elektronischer Form abgefasst und die qualifizierte elektronische Signatur des Erklärenden von einem Notar beglaubigt werden. In dem Gesetz kann vorgesehen werden, dass eine Erklärung nur nach Satz 1 Nummer 1 oder nach Satz 1 Nummer 2 öffentlich beglaubigt werden kann.
+(2) Wurde eine Erklärung in schriftlicher Form von dem Erklärenden mittels notariell beglaubigten Handzeichens unterzeichnet, so erfüllt die Erklärung auch die Anforderungen nach Absatz 1 Satz 1 Nummer 1.
+(3) Wurde eine Erklärung in einem elektronischen Dokument von dem Erklärenden mit einer notariell beglaubigten eigenhändigen elektronischen Namensunterschrift oder einem notariell beglaubigten eigenhändigen elektronischen Handzeichen versehen, so gilt sie als öffentlich beglaubigte Erklärung.
+(4) Die öffentliche Beglaubigung wird durch die notarielle Beurkundung ersetzt.

@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 2075 — Auflösende Bedingung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE202802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2075.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Hat der Erblasser eine letztwillige Zuwendung unter der Bedingung gemacht, dass der Bedachte während eines Zeitraums von unbestimmter Dauer etwas unterlässt oder fortgesetzt tut, so ist, wenn das Unterlassen oder das Tun lediglich in der Willkür des Bedachten liegt, im Zweifel anzunehmen, dass die Zuwendung von der auflösenden Bedingung abhängig sein soll, dass der Bedachte die Handlung vornimmt oder das Tun unterlässt.

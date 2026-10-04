@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 1220 — Androhung der Versteigerung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE125902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1220.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Versteigerung des Pfandes ist erst zulässig, nachdem sie dem Verpfänder angedroht worden ist; die Androhung darf unterbleiben, wenn das Pfand dem Verderb ausgesetzt und mit dem Aufschub der Versteigerung Gefahr verbunden ist. Im Falle der Wertminderung ist außer der Androhung erforderlich, dass der Pfandgläubiger dem Verpfänder zur Leistung anderweitiger Sicherheit eine angemessene Frist bestimmt hat und diese verstrichen ist.
+(2) Der Pfandgläubiger hat den Verpfänder von der Versteigerung unverzüglich zu benachrichtigen; im Falle der Unterlassung ist er zum Schadensersatz verpflichtet.
+(3) Die Androhung, die Fristbestimmung und die Benachrichtigung dürfen unterbleiben, wenn sie untunlich sind.

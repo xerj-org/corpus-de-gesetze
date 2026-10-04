@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 73a — Erweiterte Einziehung von Taterträgen bei Tätern und Teilnehmern
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE017203123
+Normseite: https://www.gesetze-im-internet.de/stgb/__73a.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Ist eine rechtswidrige Tat begangen worden, so ordnet das Gericht die Einziehung von Gegenständen des Täters oder Teilnehmers auch dann an, wenn diese Gegenstände durch andere rechtswidrige Taten oder für sie erlangt worden sind.
+(2) Hat sich der Täter oder Teilnehmer vor der Anordnung der Einziehung nach Absatz 1 an einer anderen rechtswidrigen Tat beteiligt und ist erneut über die Einziehung seiner Gegenstände zu entscheiden, berücksichtigt das Gericht hierbei die bereits ergangene Anordnung.

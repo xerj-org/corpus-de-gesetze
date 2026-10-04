@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 650v — Abschlagszahlungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE278500123
+Normseite: https://www.gesetze-im-internet.de/bgb/__650v.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Unternehmer kann von dem Besteller Abschlagszahlungen nur verlangen, soweit sie gemäß einer Verordnung auf Grund von Artikel 244 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vereinbart sind.

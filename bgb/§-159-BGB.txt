@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 159 — Rückbeziehung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE015102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__159.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Sollen nach dem Inhalt des Rechtsgeschäfts die an den Eintritt der Bedingung geknüpften Folgen auf einen früheren Zeitpunkt zurückbezogen werden, so sind im Falle des Eintritts der Bedingung die Beteiligten verpflichtet, einander zu gewähren, was sie haben würden, wenn die Folgen in dem früheren Zeitpunkt eingetreten wären.

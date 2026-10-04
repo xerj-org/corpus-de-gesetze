@@ -1,0 +1,10 @@
+Strafgesetzbuch (StGB) — § 324 — Gewässerverunreinigung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE054303307
+Normseite: https://www.gesetze-im-internet.de/stgb/__324.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer unbefugt ein Gewässer verunreinigt oder sonst dessen Eigenschaften nachteilig verändert, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(2) Der Versuch ist strafbar.
+(3) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.

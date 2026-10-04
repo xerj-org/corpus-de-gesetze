@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1060 — Zusammentreffen mehrerer Nutzungsrechte
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE109702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1060.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Trifft ein Nießbrauch mit einem anderen Nießbrauch oder mit einem sonstigen Nutzungsrecht an der Sache dergestalt zusammen, dass die Rechte nebeneinander nicht oder nicht vollständig ausgeübt werden können, und haben die Rechte gleichen Rang, so findet die Vorschrift des § 1024 Anwendung.

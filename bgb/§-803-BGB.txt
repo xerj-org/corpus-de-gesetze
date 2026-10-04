@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 803 — Zinsscheine
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE083102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__803.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Werden für eine Schuldverschreibung auf den Inhaber Zinsscheine ausgegeben, so bleiben die Scheine, sofern sie nicht eine gegenteilige Bestimmung enthalten, in Kraft, auch wenn die Hauptforderung erlischt oder die Verpflichtung zur Verzinsung aufgehoben oder geändert wird.
+(2) Werden solche Zinsscheine bei der Einlösung der Hauptschuldverschreibung nicht zurückgegeben, so ist der Aussteller berechtigt, den Betrag zurückzubehalten, den er nach Absatz 1 für die Scheine zu zahlen verpflichtet ist.

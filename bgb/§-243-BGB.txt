@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 243 — Gattungsschuld
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE023602377
+Normseite: https://www.gesetze-im-internet.de/bgb/__243.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer eine nur der Gattung nach bestimmte Sache schuldet, hat eine Sache von mittlerer Art und Güte zu leisten.
+(2) Hat der Schuldner das zur Leistung einer solchen Sache seinerseits Erforderliche getan, so beschränkt sich das Schuldverhältnis auf diese Sache.

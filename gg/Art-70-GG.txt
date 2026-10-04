@@ -1,0 +1,9 @@
+Grundgesetz für die Bundesrepublik Deutschland (GG) — Art 70
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-05-06
+Dokumentnummer: BJNR000010949BJNE009300314
+Normseite: https://www.gesetze-im-internet.de/gg/art_70.html
+Quell-Zip: https://www.gesetze-im-internet.de/gg/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Länder haben das Recht der Gesetzgebung, soweit dieses Grundgesetz nicht dem Bunde Gesetzgebungsbefugnisse verleiht.
+(2) Die Abgrenzung der Zuständigkeit zwischen Bund und Ländern bemißt sich nach den Vorschriften dieses Grundgesetzes über die ausschließliche und die konkurrierende Gesetzgebung.

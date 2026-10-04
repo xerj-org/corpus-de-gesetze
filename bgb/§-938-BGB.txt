@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 938 — Vermutung des Eigenbesitzes
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE097002377
+Normseite: https://www.gesetze-im-internet.de/bgb/__938.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Hat jemand eine Sache am Anfang und am Ende eines Zeitraums im Eigenbesitz gehabt, so wird vermutet, dass sein Eigenbesitz auch in der Zwischenzeit bestanden habe.

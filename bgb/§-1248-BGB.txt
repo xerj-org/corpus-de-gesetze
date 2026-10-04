@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1248 — Eigentumsvermutung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE128702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1248.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Bei dem Verkauf des Pfandes gilt zugunsten des Pfandgläubigers der Verpfänder als der Eigentümer, es sei denn, dass der Pfandgläubiger weiß, dass der Verpfänder nicht der Eigentümer ist.

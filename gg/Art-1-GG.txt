@@ -1,0 +1,10 @@
+Grundgesetz für die Bundesrepublik Deutschland (GG) — Art 1
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-05-06
+Dokumentnummer: BJNR000010949BJNE001700314
+Normseite: https://www.gesetze-im-internet.de/gg/art_1.html
+Quell-Zip: https://www.gesetze-im-internet.de/gg/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.
+(2) Das Deutsche Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt.
+(3) Die nachfolgenden Grundrechte binden Gesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht.

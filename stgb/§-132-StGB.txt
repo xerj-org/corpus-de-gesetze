@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 132 — Amtsanmaßung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE028402307
+Normseite: https://www.gesetze-im-internet.de/stgb/__132.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Wer unbefugt sich mit der Ausübung eines öffentlichen Amtes befaßt oder eine Handlung vornimmt, welche nur kraft eines öffentlichen Amtes vorgenommen werden darf, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.

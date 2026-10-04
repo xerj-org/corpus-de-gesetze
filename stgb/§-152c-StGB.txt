@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 152c — Vorbereitung des Diebstahls und der Unterschlagung von Zahlungskarten, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE069100360
+Normseite: https://www.gesetze-im-internet.de/stgb/__152c.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer eine Straftat nach § 242 oder § 246, die auf die Erlangung inländischer oder ausländischer Zahlungskarten, Schecks, Wechsel oder anderer körperlicher unbarer Zahlungsinstrumente gerichtet ist, vorbereitet, indem er 1. Computerprogramme oder Vorrichtungen, deren Zweck die Begehung einer solchen Tat ist, herstellt, sich oder einem anderen verschafft oder einem anderen überlässt oder 2. Passwörter oder sonstige Sicherungscodes, die zur Begehung einer solchen Tat geeignet sind, herstellt, sich oder einem anderen verschafft oder einem anderen überlässt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+(2) § 149 Absatz 2 und 3 gilt entsprechend. § 152a Absatz 4 ist anwendbar.

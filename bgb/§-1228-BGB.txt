@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1228 — Befriedigung durch Pfandverkauf
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE126702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1228.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Befriedigung des Pfandgläubigers aus dem Pfande erfolgt durch Verkauf.
+(2) Der Pfandgläubiger ist zum Verkauf berechtigt, sobald die Forderung ganz oder zum Teil fällig ist. Besteht der geschuldete Gegenstand nicht in Geld, so ist der Verkauf erst zulässig, wenn die Forderung in eine Geldforderung übergegangen ist.

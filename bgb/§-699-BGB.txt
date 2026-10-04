@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 699 — Fälligkeit der Vergütung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE072602377
+Normseite: https://www.gesetze-im-internet.de/bgb/__699.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Hinterleger hat die vereinbarte Vergütung bei der Beendigung der Aufbewahrung zu entrichten. Ist die Vergütung nach Zeitabschnitten bemessen, so ist sie nach dem Ablauf der einzelnen Zeitabschnitte zu entrichten.
+(2) Endigt die Aufbewahrung vor dem Ablauf der für sie bestimmten Zeit, so kann der Verwahrer einen seinen bisherigen Leistungen entsprechenden Teil der Vergütung verlangen, sofern nicht aus der Vereinbarung über die Vergütung sich ein anderes ergibt.

@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 270 — Täuschung im Rechtsverkehr bei Datenverarbeitung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE046303307
+Normseite: https://www.gesetze-im-internet.de/stgb/__270.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Täuschung im Rechtsverkehr steht die fälschliche Beeinflussung einer Datenverarbeitung im Rechtsverkehr gleich.

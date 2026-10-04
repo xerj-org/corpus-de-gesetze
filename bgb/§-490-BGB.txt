@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 490 — Außerordentliches Kündigungsrecht
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE048403140
+Normseite: https://www.gesetze-im-internet.de/bgb/__490.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wenn in den Vermögensverhältnissen des Darlehensnehmers oder in der Werthaltigkeit einer für das Darlehen gestellten Sicherheit eine wesentliche Verschlechterung eintritt oder einzutreten droht, durch die die Rückzahlung des Darlehens, auch unter Verwertung der Sicherheit, gefährdet wird, kann der Darlehensgeber den Darlehensvertrag vor Auszahlung des Darlehens im Zweifel stets, nach Auszahlung nur in der Regel fristlos kündigen.
+(2) Der Darlehensnehmer kann einen Darlehensvertrag, bei dem der Sollzinssatz gebunden und das Darlehen durch ein Grund- oder Schiffspfandrecht gesichert ist, unter Einhaltung der Fristen des § 488 Abs. 3 Satz 2 vorzeitig kündigen, wenn seine berechtigten Interessen dies gebieten und seit dem vollständigen Empfang des Darlehens sechs Monate abgelaufen sind. Ein solches Interesse liegt insbesondere vor, wenn der Darlehensnehmer ein Bedürfnis nach einer anderweitigen Verwertung der zur Sicherung des Darlehens beliehenen Sache hat. Der Darlehensnehmer hat dem Darlehensgeber denjenigen Schaden zu ersetzen, der diesem aus der vorzeitigen Kündigung entsteht (Vorfälligkeitsentschädigung).
+(3) Die Vorschriften der §§ 313 und 314 bleiben unberührt.

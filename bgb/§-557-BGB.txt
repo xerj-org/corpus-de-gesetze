@@ -1,0 +1,11 @@
+Bürgerliches Gesetzbuch (BGB) — § 557 — Mieterhöhungen nach Vereinbarung oder Gesetz
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE056002377
+Normseite: https://www.gesetze-im-internet.de/bgb/__557.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Während des Mietverhältnisses können die Parteien eine Erhöhung der Miete vereinbaren.
+(2) Künftige Änderungen der Miethöhe können die Vertragsparteien als Staffelmiete nach § 557a oder als Indexmiete nach § 557b vereinbaren.
+(3) Im Übrigen kann der Vermieter Mieterhöhungen nur nach Maßgabe der §§ 558 bis 560 verlangen, soweit nicht eine Erhöhung durch Vereinbarung ausgeschlossen ist oder sich der Ausschluss aus den Umständen ergibt.
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.

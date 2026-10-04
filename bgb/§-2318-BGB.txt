@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 2318 — Pflichtteilslast bei Vermächtnissen und Auflagen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE226402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2318.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Erbe kann die Erfüllung eines ihm auferlegten Vermächtnisses soweit verweigern, dass die Pflichtteilslast von ihm und dem Vermächtnisnehmer verhältnismäßig getragen wird. Das Gleiche gilt von einer Auflage.
+(2) Einem pflichtteilsberechtigten Vermächtnisnehmer gegenüber ist die Kürzung nur soweit zulässig, dass ihm der Pflichtteil verbleibt.
+(3) Ist der Erbe selbst pflichtteilsberechtigt, so kann er wegen der Pflichtteilslast das Vermächtnis und die Auflage soweit kürzen, dass ihm sein eigener Pflichtteil verbleibt.

@@ -1,0 +1,9 @@
+Grundgesetz für die Bundesrepublik Deutschland (GG) — Art 10
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-05-06
+Dokumentnummer: BJNR000010949BJNE002600314
+Normseite: https://www.gesetze-im-internet.de/gg/art_10.html
+Quell-Zip: https://www.gesetze-im-internet.de/gg/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis sind unverletzlich.
+(2) Beschränkungen dürfen nur auf Grund eines Gesetzes angeordnet werden. Dient die Beschränkung dem Schutze der freiheitlichen demokratischen Grundordnung oder des Bestandes oder der Sicherung des Bundes oder eines Landes, so kann das Gesetz bestimmen, daß sie dem Betroffenen nicht mitgeteilt wird und daß an die Stelle des Rechtsweges die Nachprüfung durch von der Volksvertretung bestellte Organe und Hilfsorgane tritt.

@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 2165 — Belastungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE211802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2165.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Ist ein zur Erbschaft gehörender Gegenstand vermacht, so kann der Vermächtnisnehmer im Zweifel nicht die Beseitigung der Rechte verlangen, mit denen der Gegenstand belastet ist. Steht dem Erblasser ein Anspruch auf die Beseitigung zu, so erstreckt sich im Zweifel das Vermächtnis auf diesen Anspruch.
+(2) Ruht auf einem vermachten Grundstück eine Hypothek, Grundschuld oder Rentenschuld, die dem Erblasser selbst zusteht, so ist aus den Umständen zu entnehmen, ob die Hypothek, Grundschuld oder Rentenschuld als mitvermacht zu gelten hat.

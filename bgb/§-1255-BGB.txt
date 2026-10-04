@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1255 — Aufhebung des Pfandrechts
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE129402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1255.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Zur Aufhebung des Pfandrechts durch Rechtsgeschäft genügt die Erklärung des Pfandgläubigers gegenüber dem Verpfänder oder dem Eigentümer, dass er das Pfandrecht aufgebe.
+(2) Ist das Pfandrecht mit dem Recht eines Dritten belastet, so ist die Zustimmung des Dritten erforderlich. Die Zustimmung ist demjenigen gegenüber zu erklären, zu dessen Gunsten sie erfolgt; sie ist unwiderruflich.

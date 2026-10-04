@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 165 — Beschränkt geschäftsfähiger Vertreter
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE015702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__165.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Die Wirksamkeit einer von oder gegenüber einem Vertreter abgegebenen Willenserklärung wird nicht dadurch beeinträchtigt, dass der Vertreter in der Geschäftsfähigkeit beschränkt ist.

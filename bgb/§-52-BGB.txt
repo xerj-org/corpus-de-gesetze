@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 52 — Sicherung für Gläubiger
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE004302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__52.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Meldet sich ein bekannter Gläubiger nicht, so ist der geschuldete Betrag, wenn die Berechtigung zur Hinterlegung vorhanden ist, für den Gläubiger zu hinterlegen.
+(2) Ist die Berichtigung einer Verbindlichkeit zur Zeit nicht ausführbar oder ist eine Verbindlichkeit streitig, so darf das Vermögen den Anfallberechtigten nur ausgeantwortet werden, wenn dem Gläubiger Sicherheit geleistet ist.

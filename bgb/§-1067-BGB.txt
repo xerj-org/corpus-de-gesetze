@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1067 — Nießbrauch an verbrauchbaren Sachen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE110402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1067.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Sind verbrauchbare Sachen Gegenstand des Nießbrauchs, so wird der Nießbraucher Eigentümer der Sachen; nach der Beendigung des Nießbrauchs hat er dem Besteller den Wert zu ersetzen, den die Sachen zur Zeit der Bestellung hatten. Sowohl der Besteller als der Nießbraucher kann den Wert auf seine Kosten durch Sachverständige feststellen lassen.
+(2) Der Besteller kann Sicherheitsleistung verlangen, wenn der Anspruch auf Ersatz des Wertes gefährdet ist.

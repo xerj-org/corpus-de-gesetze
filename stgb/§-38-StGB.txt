@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 38 — Dauer der Freiheitsstrafe
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE010502307
+Normseite: https://www.gesetze-im-internet.de/stgb/__38.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Freiheitsstrafe ist zeitig, wenn das Gesetz nicht lebenslange Freiheitsstrafe androht.
+(2) Das Höchstmaß der zeitigen Freiheitsstrafe ist fünfzehn Jahre, ihr Mindestmaß ein Monat.

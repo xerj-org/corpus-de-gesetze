@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1866 — Prüfung der Rechnung durch das Betreuungsgericht
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE282000360
+Normseite: https://www.gesetze-im-internet.de/bgb/__1866.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Das Betreuungsgericht hat die Rechnung sachlich und rechnerisch zu prüfen und, soweit erforderlich, ihre Berichtigung und Ergänzung durch den Betreuer herbeizuführen.
+(2) Die Möglichkeit der Geltendmachung streitig gebliebener Ansprüche zwischen Betreuer und Betreutem im Rechtsweg bleibt unberührt. Die Ansprüche können schon vor der Beendigung der Betreuung geltend gemacht werden.

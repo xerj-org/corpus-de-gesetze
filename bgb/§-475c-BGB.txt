@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 475c — Sachmangel einer Ware mit digitalen Elementen bei dauerhafter Bereitstellung der digitalen Elemente
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE286300360
+Normseite: https://www.gesetze-im-internet.de/bgb/__475c.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Ist beim Kauf einer Ware mit digitalen Elementen eine dauerhafte Bereitstellung für die digitalen Elemente vereinbart, so gelten ergänzend die Regelungen dieser Vorschrift. Haben die Parteien nicht bestimmt, wie lange die Bereitstellung andauern soll, so ist § 475b Absatz 4 Nummer 2 entsprechend anzuwenden.
+(2) Der Unternehmer haftet über die §§ 434 und 475b hinaus auch dafür, dass die digitalen Elemente während des Bereitstellungszeitraums, mindestens aber für einen Zeitraum von zwei Jahren ab der Ablieferung der Ware, den Anforderungen des § 475b Absatz 2 entsprechen.

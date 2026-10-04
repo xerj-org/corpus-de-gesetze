@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 675r — Ausführung eines Zahlungsvorgangs anhand von Kundenkennungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE267301123
+Normseite: https://www.gesetze-im-internet.de/bgb/__675r.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die beteiligten Zahlungsdienstleister sind berechtigt, einen Zahlungsvorgang ausschließlich anhand der von dem Zahlungsdienstnutzer angegebenen Kundenkennung auszuführen. Wird ein Zahlungsauftrag in Übereinstimmung mit dieser Kundenkennung ausgeführt, so gilt er im Hinblick auf den durch die Kundenkennung bezeichneten Zahlungsempfänger als ordnungsgemäß ausgeführt.
+(2) Eine Kundenkennung ist eine Abfolge aus Buchstaben, Zahlen oder Symbolen, die dem Zahlungsdienstnutzer vom Zahlungsdienstleister mitgeteilt wird und die der Zahlungsdienstnutzer angeben muss, damit ein anderer am Zahlungsvorgang beteiligter Zahlungsdienstnutzer oder dessen Zahlungskonto für einen Zahlungsvorgang zweifelsfrei ermittelt werden kann.
+(3) Ist eine vom Zahler angegebene Kundenkennung für den Zahlungsdienstleister des Zahlers erkennbar keinem Zahlungsempfänger oder keinem Zahlungskonto zuzuordnen, ist dieser verpflichtet, den Zahler unverzüglich hierüber zu unterrichten und ihm gegebenenfalls den Zahlungsbetrag wieder herauszugeben.

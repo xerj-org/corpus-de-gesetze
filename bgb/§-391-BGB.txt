@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 391 — Aufrechnung bei Verschiedenheit der Leistungsorte
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE038402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__391.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Aufrechnung wird nicht dadurch ausgeschlossen, dass für die Forderungen verschiedene Leistungs- oder Ablieferungsorte bestehen. Der aufrechnende Teil hat jedoch den Schaden zu ersetzen, den der andere Teil dadurch erleidet, dass er infolge der Aufrechnung die Leistung nicht an dem bestimmten Orte erhält oder bewirken kann.
+(2) Ist vereinbart, dass die Leistung zu einer bestimmten Zeit an einem bestimmten Orte erfolgen soll, so ist im Zweifel anzunehmen, dass die Aufrechnung einer Forderung, für die ein anderer Leistungsort besteht, ausgeschlossen sein soll.

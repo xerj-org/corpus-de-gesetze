@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 675n — Zugang von Zahlungsaufträgen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE266900140
+Normseite: https://www.gesetze-im-internet.de/bgb/__675n.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Ein Zahlungsauftrag wird wirksam, wenn er dem Zahlungsdienstleister des Zahlers zugeht. Fällt der Zeitpunkt des Zugangs nicht auf einen Geschäftstag des Zahlungsdienstleisters des Zahlers, gilt der Zahlungsauftrag als am darauf folgenden Geschäftstag zugegangen. Der Zahlungsdienstleister kann festlegen, dass Zahlungsaufträge, die nach einem bestimmten Zeitpunkt nahe am Ende eines Geschäftstags zugehen, für die Zwecke des § 675s Abs. 1 als am darauf folgenden Geschäftstag zugegangen gelten. Geschäftstag ist jeder Tag, an dem der an der Ausführung eines Zahlungsvorgangs beteiligte Zahlungsdienstleister den für die Ausführung von Zahlungsvorgängen erforderlichen Geschäftsbetrieb unterhält.
+(2) Vereinbaren der Zahlungsdienstnutzer, der einen Zahlungsvorgang auslöst oder über den ein Zahlungsvorgang ausgelöst wird, und sein Zahlungsdienstleister, dass die Ausführung des Zahlungsauftrags an einem bestimmten Tag oder am Ende eines bestimmten Zeitraums oder an dem Tag, an dem der Zahler dem Zahlungsdienstleister den zur Ausführung erforderlichen Geldbetrag zur Verfügung gestellt hat, beginnen soll, so gilt der vereinbarte Termin für die Zwecke des § 675s Abs. 1 als Zeitpunkt des Zugangs. Fällt der vereinbarte Termin nicht auf einen Geschäftstag des Zahlungsdienstleisters des Zahlers, so gilt für die Zwecke des § 675s Abs. 1 der darauf folgende Geschäftstag als Zeitpunkt des Zugangs.

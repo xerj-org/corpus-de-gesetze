@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 92 — Verbrauchbare Sachen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE008302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__92.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Verbrauchbare Sachen im Sinne des Gesetzes sind bewegliche Sachen, deren bestimmungsmäßiger Gebrauch in dem Verbrauch oder in der Veräußerung besteht.
+(2) Als verbrauchbar gelten auch bewegliche Sachen, die zu einem Warenlager oder zu einem sonstigen Sachinbegriff gehören, dessen bestimmungsmäßiger Gebrauch in der Veräußerung der einzelnen Sachen besteht.

@@ -1,0 +1,82 @@
+Straßenverkehrs-Ordnung (StVO) — Anlage 1 — (zu § 40 Absatz 6 und 7)
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-05-27
+Dokumentnummer: BJNR036710013BJNE005700000
+Normseite: https://www.gesetze-im-internet.de/stvo_2013/anlage_1.html
+Quell-Zip: https://www.gesetze-im-internet.de/stvo_2013/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(Fundstelle: BGBl. I 2013, 390 - 393)
+1 | 2 | 3
+lfd. Nr. | Zeichen | Erläuterungen
+Abschnitt 1 Allgemeine Gefahrzeichen (zu § 40 Absatz 6)
+1 | Zeichen 101
+[Bild: bgbl1_2013_j0367-1_0280.jpg]
+ Gefahrstelle | Ein Zusatzzeichen kann die Gefahr näher bezeichnen.
+2 | Zeichen 102
+[Bild: bgbl1_2013_j0367-1_0290.jpg]
+ Kreuzung oder Einmündung | Kreuzung oder Einmündung mit Vorfahrt von rechts
+3 | Zeichen 103
+[Bild: bgbl1_2013_j0367-1_0300.jpg]
+ Kurve |
+4 | Zeichen 105
+[Bild: bgbl1_2013_j0367-1_0310.jpg]
+ Doppelkurve |
+5 | Zeichen 108
+[Bild: bgbl1_2013_j0367-1_0320.jpg]
+ Gefälle |
+6 | Zeichen 110
+[Bild: bgbl1_2013_j0367-1_0330.jpg]
+ Steigung |
+7 | Zeichen 112
+[Bild: bgbl1_2013_j0367-1_0340.jpg]
+ Unebene Fahrbahn |
+8 | Zeichen 114
+[Bild: bgbl1_2013_j0367-1_0350.jpg]
+ Schleuder- oder Rutschgefahr | Schleuder- oder Rutschgefahr bei Nässe oder Schmutz
+9 | Zeichen 117
+[Bild: bgbl1_2013_j0367-1_0360.jpg]
+ Seitenwind |
+10 | Zeichen 120
+[Bild: bgbl1_2013_j0367-1_0370.jpg]
+ Verengte Fahrbahn |
+11 | Zeichen 121
+[Bild: bgbl1_2013_j0367-1_0380.jpg]
+ Einseitig verengte Fahrbahn |
+12 | Zeichen 123
+[Bild: bgbl1_2013_j0367-1_0390.jpg]
+ Arbeitsstelle |
+13 | Zeichen 124
+[Bild: bgbl1_2013_j0367-1_0400.jpg]
+ Stau |
+14 | Zeichen 125
+[Bild: bgbl1_2013_j0367-1_0410.jpg]
+ Gegenverkehr |
+15 | Zeichen 131
+[Bild: bgbl1_2013_j0367-1_0420.jpg]
+ Lichtzeichenanlage |
+16 | Zeichen 133
+[Bild: bgbl1_2013_j0367-1_0430.jpg]
+ Fußgänger |
+17 | Zeichen 136
+[Bild: bgbl1_2013_j0367-1_0440.jpg]
+ Kinder |
+18 | Zeichen 138
+[Bild: bgbl1_2013_j0367-1_0450.jpg]
+ Radverkehr |
+19 | Zeichen 142
+[Bild: bgbl1_2013_j0367-1_0460.jpg]
+ Wildwechsel |
+Abschnitt 2 Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang (zu § 40 Absatz 7)
+20 | Zeichen 151
+[Bild: bgbl1_2013_j0367-1_0470.jpg]
+ Bahnübergang |
+21 | Zeichen 156
+[Bild: bgbl1_2013_j0367-1_0480.jpg]
+ Bahnübergang mit
+ dreistreifiger Bake | Bahnübergang mit dreistreifiger Bake etwa 240 m vor dem Bahnübergang. Die Angabe erheblich abweichender Abstände kann an der dreistreifigen, zweistreifigen und einstreifigen Bake oberhalb der Schrägstreifen in schwarzen Ziffern erfolgen.
+22 | Zeichen 159
+[Bild: bgbl1_2013_j0367-1_0490.jpg]
+ Zweistreifige Bake | Zweistreifige Bake etwa 160 m vor dem Bahnübergang
+23 | Zeichen 162
+[Bild: bgbl1_2013_j0367-1_0500.jpg]
+ Einstreifige Bake | Einstreifige Bake etwa 80 m vor dem Bahnübergang

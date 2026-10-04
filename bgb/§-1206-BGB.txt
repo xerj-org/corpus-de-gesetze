@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1206 — Übergabeersatz durch Einräumung des Mitbesitzes
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE124502377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1206.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Anstelle der Übergabe der Sache genügt die Einräumung des Mitbesitzes, wenn sich die Sache unter dem Mitverschluss des Gläubigers befindet oder, falls sie im Besitz eines Dritten ist, die Herausgabe nur an den Eigentümer und den Gläubiger gemeinschaftlich erfolgen kann.

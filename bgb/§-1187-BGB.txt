@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1187 — Sicherungshypothek für Inhaber- und Orderpapiere
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE122602377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1187.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Für die Forderung aus einer Schuldverschreibung auf den Inhaber, aus einem Wechsel oder aus einem anderen Papier, das durch Indossament übertragen werden kann, kann nur eine Sicherungshypothek bestellt werden. Die Hypothek gilt als Sicherungshypothek, auch wenn sie im Grundbuch nicht als solche bezeichnet ist. Die Vorschrift des § 1154 Abs. 3 findet keine Anwendung. Ein Anspruch auf Löschung der Hypothek nach den §§ 1179a, 1179b besteht nicht.

@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 312e — Verletzung von Informationspflichten über Kosten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE271002360
+Normseite: https://www.gesetze-im-internet.de/bgb/__312e.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Unternehmer kann von dem Verbraucher Fracht-, Liefer- oder Versandkosten und sonstige Kosten nur verlangen, soweit er den Verbraucher über diese Kosten entsprechend den Anforderungen aus § 312d Absatz 1 in Verbindung mit Artikel 246a § 1 Absatz 1 Satz 1 Nummer 7 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche informiert hat.

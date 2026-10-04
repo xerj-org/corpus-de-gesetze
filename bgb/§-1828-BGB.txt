@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 1828 — Gespräch zur Feststellung des Patientenwillens
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE179604360
+Normseite: https://www.gesetze-im-internet.de/bgb/__1828.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der behandelnde Arzt prüft, welche ärztliche Maßnahme im Hinblick auf den Gesamtzustand und die Prognose des Patienten indiziert ist. Er und der Betreuer erörtern diese Maßnahme unter Berücksichtigung des Patientenwillens als Grundlage für die nach § 1827 zu treffende Entscheidung.
+(2) Bei der Feststellung des Patientenwillens nach § 1827 Absatz 1 oder der Behandlungswünsche oder des mutmaßlichen Willens nach § 1827 Absatz 2 soll nahen Angehörigen und sonstigen Vertrauenspersonen des Betreuten Gelegenheit zur Äußerung gegeben werden, sofern dies ohne erhebliche Verzögerung möglich ist.
+(3) Die Absätze 1 und 2 gelten für Bevollmächtigte entsprechend.

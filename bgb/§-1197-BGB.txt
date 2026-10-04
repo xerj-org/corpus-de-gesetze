@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1197 — Abweichungen von der Fremdgrundschuld
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE123602377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1197.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Ist der Eigentümer der Gläubiger, so kann er nicht die Zwangsvollstreckung zum Zwecke seiner Befriedigung betreiben.
+(2) Zinsen gebühren dem Eigentümer nur, wenn das Grundstück auf Antrag eines anderen zum Zwecke der Zwangsverwaltung in Beschlag genommen ist, und nur für die Dauer der Zwangsverwaltung.

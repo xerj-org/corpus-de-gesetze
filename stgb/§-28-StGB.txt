@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 28 — Besondere persönliche Merkmale
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE009502307
+Normseite: https://www.gesetze-im-internet.de/stgb/__28.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Fehlen besondere persönliche Merkmale (§ 14 Abs. 1), welche die Strafbarkeit des Täters begründen, beim Teilnehmer (Anstifter oder Gehilfe), so ist dessen Strafe nach § 49 Abs. 1 zu mildern.
+(2) Bestimmt das Gesetz, daß besondere persönliche Merkmale die Strafe schärfen, mildern oder ausschließen, so gilt das nur für den Beteiligten (Täter oder Teilnehmer), bei dem sie vorliegen.

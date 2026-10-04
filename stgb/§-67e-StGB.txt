@@ -1,0 +1,14 @@
+Strafgesetzbuch (StGB) — § 67e — Überprüfung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE015204377
+Normseite: https://www.gesetze-im-internet.de/stgb/__67e.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Das Gericht kann jederzeit prüfen, ob die weitere Vollstreckung der Unterbringung zur Bewährung auszusetzen oder für erledigt zu erklären ist. Es muß dies vor Ablauf bestimmter Fristen prüfen.
+(2) Die Fristen betragen bei der Unterbringung 
+in einer Entziehungsanstalt sechs Monate, 
+in einem psychiatrischen Krankenhaus ein Jahr, 
+in der Sicherungsverwahrung ein Jahr, nach dem Vollzug von zehn Jahren der Unterbringung neun Monate.
+(3) Das Gericht kann die Fristen kürzen. Es kann im Rahmen der gesetzlichen Prüfungsfristen auch Fristen festsetzen, vor deren Ablauf ein Antrag auf Prüfung unzulässig ist.
+(4) Die Fristen laufen vom Beginn der Unterbringung an. Lehnt das Gericht die Aussetzung oder Erledigungserklärung ab, so beginnen die Fristen mit der Entscheidung von neuem.

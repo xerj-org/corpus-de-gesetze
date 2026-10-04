@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 544 — Vertrag über mehr als 30 Jahre
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE053902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__544.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Wird ein Mietvertrag für eine längere Zeit als 30 Jahre geschlossen, so kann jede Vertragspartei nach Ablauf von 30 Jahren nach Überlassung der Mietsache das Mietverhältnis außerordentlich mit der gesetzlichen Frist kündigen. Die Kündigung ist unzulässig, wenn der Vertrag für die Lebenszeit des Vermieters oder des Mieters geschlossen worden ist.

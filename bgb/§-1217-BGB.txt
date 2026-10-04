@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1217 — Rechtsverletzung durch den Pfandgläubiger
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE125602377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1217.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Verletzt der Pfandgläubiger die Rechte des Verpfänders in erheblichem Maße und setzt er das verletzende Verhalten ungeachtet einer Abmahnung des Verpfänders fort, so kann der Verpfänder verlangen, dass das Pfand auf Kosten des Pfandgläubigers hinterlegt oder, wenn es sich nicht zur Hinterlegung eignet, an einen gerichtlich zu bestellenden Verwahrer abgeliefert wird.
+(2) Statt der Hinterlegung oder der Ablieferung der Sache an einen Verwahrer kann der Verpfänder die Rückgabe des Pfandes gegen Befriedigung des Gläubigers verlangen. Ist die Forderung unverzinslich und noch nicht fällig, so gebührt dem Pfandgläubiger nur die Summe, welche mit Hinzurechnung der gesetzlichen Zinsen für die Zeit von der Zahlung bis zur Fälligkeit dem Betrag der Forderung gleichkommt.

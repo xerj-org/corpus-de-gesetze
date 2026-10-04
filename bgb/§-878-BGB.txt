@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 878 — Nachträgliche Verfügungsbeschränkungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE090702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__878.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Eine von dem Berechtigten in Gemäßheit der §§ 873, 875, 877 abgegebene Erklärung wird nicht dadurch unwirksam, dass der Berechtigte in der Verfügung beschränkt wird, nachdem die Erklärung für ihn bindend geworden und der Antrag auf Eintragung bei dem Grundbuchamt gestellt worden ist.

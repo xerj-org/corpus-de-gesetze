@@ -1,0 +1,10 @@
+Strafgesetzbuch (StGB) — § 73 — Einziehung von Taterträgen bei Tätern und Teilnehmern
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE017104123
+Normseite: https://www.gesetze-im-internet.de/stgb/__73.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Hat der Täter oder Teilnehmer durch eine rechtswidrige Tat oder für sie etwas erlangt, so ordnet das Gericht dessen Einziehung an.
+(2) Hat der Täter oder Teilnehmer Nutzungen aus dem Erlangten gezogen, so ordnet das Gericht auch deren Einziehung an.
+(3) Das Gericht kann auch die Einziehung der Gegenstände anordnen, die der Täter oder Teilnehmer erworben hat 1. durch Veräußerung des Erlangten oder als Ersatz für dessen Zerstörung, Beschädigung oder Entziehung oder 2. auf Grund eines erlangten Rechts.

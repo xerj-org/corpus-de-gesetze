@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 675a — Informationspflichten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE243504123
+Normseite: https://www.gesetze-im-internet.de/bgb/__675a.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Wer zur Besorgung von Geschäften öffentlich bestellt ist oder sich dazu öffentlich erboten hat, stellt für regelmäßig anfallende standardisierte Geschäftsvorgänge (Standardgeschäfte) unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung in Textform zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.

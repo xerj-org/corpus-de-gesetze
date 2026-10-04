@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 2295 — Rücktritt bei Aufhebung der Gegenverpflichtung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE224002377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2295.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Erblasser kann von einer vertragsmäßigen Verfügung zurücktreten, wenn die Verfügung mit Rücksicht auf eine rechtsgeschäftliche Verpflichtung des Bedachten, dem Erblasser für dessen Lebenszeit wiederkehrende Leistungen zu entrichten, insbesondere Unterhalt zu gewähren, getroffen ist und die Verpflichtung vor dem Tode des Erblassers aufgehoben wird.

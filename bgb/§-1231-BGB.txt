@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1231 — Herausgabe des Pfandes zum Verkauf
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE127002377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1231.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ist der Pfandgläubiger nicht im Alleinbesitz des Pfandes, so kann er nach dem Eintritt der Verkaufsberechtigung die Herausgabe des Pfandes zum Zwecke des Verkaufs fordern. Auf Verlangen des Verpfänders hat anstelle der Herausgabe die Ablieferung an einen gemeinschaftlichen Verwahrer zu erfolgen; der Verwahrer hat sich bei der Ablieferung zu verpflichten, das Pfand zum Verkauf bereitzustellen.

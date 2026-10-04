@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 103 — Verteilung der Lasten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE009402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__103.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Wer verpflichtet ist, die Lasten einer Sache oder eines Rechts bis zu einer bestimmten Zeit oder von einer bestimmten Zeit an zu tragen, hat, sofern nicht ein anderes bestimmt ist, die regelmäßig wiederkehrenden Lasten nach dem Verhältnis der Dauer seiner Verpflichtung, andere Lasten insoweit zu tragen, als sie während der Dauer seiner Verpflichtung zu entrichten sind.

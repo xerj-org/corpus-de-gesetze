@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 68d — Nachträgliche Entscheidungen; Überprüfungsfrist
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE015905360
+Normseite: https://www.gesetze-im-internet.de/stgb/__68d.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Das Gericht kann Entscheidungen nach § 68a Abs. 1 und 5, den §§ 68b und 68c Abs. 1 Satz 2 und Abs. 2 und 3 auch nachträglich treffen, ändern oder aufheben.
+(2) Bei einer Weisung gemäß § 68b Absatz 1 Satz 1 Nummer 12 prüft das Gericht spätestens vor Ablauf von zwei Jahren, ob sie aufzuheben ist. § 67e Absatz 3 und 4 gilt entsprechend.

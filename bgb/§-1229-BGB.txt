@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1229 — Verbot der Verfallvereinbarung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE126802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1229.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Eine vor dem Eintritt der Verkaufsberechtigung getroffene Vereinbarung, nach welcher dem Pfandgläubiger, falls er nicht oder nicht rechtzeitig befriedigt wird, das Eigentum an der Sache zufallen oder übertragen werden soll, ist nichtig.

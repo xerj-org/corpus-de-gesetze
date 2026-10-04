@@ -1,0 +1,11 @@
+Bürgerliches Gesetzbuch (BGB) — § 675c — Zahlungsdienste und E-Geld
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE265801123
+Normseite: https://www.gesetze-im-internet.de/bgb/__675c.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Auf einen Geschäftsbesorgungsvertrag, der die Erbringung von Zahlungsdiensten zum Gegenstand hat, sind die §§ 663, 665 bis 670 und 672 bis 674 entsprechend anzuwenden, soweit in diesem Untertitel nichts Abweichendes bestimmt ist.
+(2) Die Vorschriften dieses Untertitels sind auch auf einen Vertrag über die Ausgabe und Nutzung von E-Geld anzuwenden.
+(3) Die Begriffsbestimmungen des Kreditwesengesetzes und des Zahlungsdiensteaufsichtsgesetzes sind anzuwenden.
+(4) Die Vorschriften dieses Untertitels sind mit Ausnahme von § 675d Absatz 2 Satz 2 sowie Absatz 3 nicht auf einen Vertrag über die Erbringung von Kontoinformationsdiensten anzuwenden.

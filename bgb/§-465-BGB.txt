@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 465 — Unwirksame Vereinbarungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE045802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__465.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Eine Vereinbarung des Verpflichteten mit dem Dritten, durch welche der Kauf von der Nichtausübung des Vorkaufsrechts abhängig gemacht oder dem Verpflichteten für den Fall der Ausübung des Vorkaufsrechts der Rücktritt vorbehalten wird, ist dem Vorkaufsberechtigten gegenüber unwirksam.

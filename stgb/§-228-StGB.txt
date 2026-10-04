@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 228 — Einwilligung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE041004307
+Normseite: https://www.gesetze-im-internet.de/stgb/__228.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Wer eine Körperverletzung mit Einwilligung der verletzten Person vornimmt, handelt nur dann rechtswidrig, wenn die Tat trotz der Einwilligung gegen die guten Sitten verstößt.

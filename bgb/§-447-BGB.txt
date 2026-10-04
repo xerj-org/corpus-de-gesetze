@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 447 — Gefahrübergang beim Versendungskauf
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE044002377
+Normseite: https://www.gesetze-im-internet.de/bgb/__447.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Versendet der Verkäufer auf Verlangen des Käufers die verkaufte Sache nach einem anderen Ort als dem Erfüllungsort, so geht die Gefahr auf den Käufer über, sobald der Verkäufer die Sache dem Spediteur, dem Frachtführer oder der sonst zur Ausführung der Versendung bestimmten Person oder Anstalt ausgeliefert hat.
+(2) Hat der Käufer eine besondere Anweisung über die Art der Versendung erteilt und weicht der Verkäufer ohne dringenden Grund von der Anweisung ab, so ist der Verkäufer dem Käufer für den daraus entstehenden Schaden verantwortlich.

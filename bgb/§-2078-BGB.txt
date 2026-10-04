@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 2078 — Anfechtung wegen Irrtums oder Drohung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE203102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2078.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Eine letztwillige Verfügung kann angefochten werden, soweit der Erblasser über den Inhalt seiner Erklärung im Irrtum war oder eine Erklärung dieses Inhalts überhaupt nicht abgeben wollte und anzunehmen ist, dass er die Erklärung bei Kenntnis der Sachlage nicht abgegeben haben würde.
+(2) Das Gleiche gilt, soweit der Erblasser zu der Verfügung durch die irrige Annahme oder Erwartung des Eintritts oder Nichteintritts eines Umstands oder widerrechtlich durch Drohung bestimmt worden ist.
+(3) Die Vorschrift des § 122 findet keine Anwendung.

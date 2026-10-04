@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 172 — Vollmachtsurkunde
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE016402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__172.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der besonderen Mitteilung einer Bevollmächtigung durch den Vollmachtgeber steht es gleich, wenn dieser dem Vertreter eine Vollmachtsurkunde ausgehändigt hat und der Vertreter sie dem Dritten vorlegt.
+(2) Die Vertretungsmacht bleibt bestehen, bis die Vollmachtsurkunde dem Vollmachtgeber zurückgegeben oder für kraftlos erklärt wird.

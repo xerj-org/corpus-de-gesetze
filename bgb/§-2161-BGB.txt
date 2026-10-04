@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 2161 — Wegfall des Beschwerten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE211402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2161.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ein Vermächtnis bleibt, sofern nicht ein anderer Wille des Erblassers anzunehmen ist, wirksam, wenn der Beschwerte nicht Erbe oder Vermächtnisnehmer wird. Beschwert ist in diesem Falle derjenige, welchem der Wegfall des zunächst Beschwerten unmittelbar zustatten kommt.

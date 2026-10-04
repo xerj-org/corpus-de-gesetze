@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 7 — Geltung für Auslandstaten in anderen Fällen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE007403377
+Normseite: https://www.gesetze-im-internet.de/stgb/__7.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Das deutsche Strafrecht gilt für Taten, die im Ausland gegen einen Deutschen begangen werden, wenn die Tat am Tatort mit Strafe bedroht ist oder der Tatort keiner Strafgewalt unterliegt.
+(2) Für andere Taten, die im Ausland begangen werden, gilt das deutsche Strafrecht, wenn die Tat am Tatort mit Strafe bedroht ist oder der Tatort keiner Strafgewalt unterliegt und wenn der Täter 1. zur Zeit der Tat Deutscher war oder es nach der Tat geworden ist oder  2. zur Zeit der Tat Ausländer war, im Inland betroffen und, obwohl das Auslieferungsgesetz seine Auslieferung nach der Art der Tat zuließe, nicht ausgeliefert wird, weil ein Auslieferungsersuchen innerhalb angemessener Frist nicht gestellt oder abgelehnt wird oder die Auslieferung nicht ausführbar ist.

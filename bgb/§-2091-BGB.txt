@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 2091 — Unbestimmte Bruchteile
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE204402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2091.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Sind mehrere Erben eingesetzt, ohne dass die Erbteile bestimmt sind, so sind sie zu gleichen Teilen eingesetzt, soweit sich nicht aus den §§ 2066 bis 2069 ein anderes ergibt.

@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1182 — Übergang bei Befriedigung aus der Gesamthypothek
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE122102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1182.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Soweit im Falle einer Gesamthypothek der Eigentümer des Grundstücks, aus dem der Gläubiger befriedigt wird, von dem Eigentümer eines der anderen Grundstücke oder einem Rechtsvorgänger dieses Eigentümers Ersatz verlangen kann, geht die Hypothek an dem Grundstück dieses Eigentümers auf ihn über. Die Hypothek kann jedoch, wenn der Gläubiger nur teilweise befriedigt wird, nicht zum Nachteil der dem Gläubiger verbleibenden Hypothek und, wenn das Grundstück mit einem im Range gleich- oder nachstehenden Recht belastet ist, nicht zum Nachteil dieses Rechts geltend gemacht werden.

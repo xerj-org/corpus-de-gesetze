@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1362 — Eigentumsvermutung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE134403360
+Normseite: https://www.gesetze-im-internet.de/bgb/__1362.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Zugunsten der Gläubiger eines der Ehegatten wird vermutet, dass die im Besitz eines oder beider Ehegatten befindlichen beweglichen Sachen dem Schuldner gehören. Diese Vermutung gilt nicht, wenn die Ehegatten getrennt leben und sich die Sachen im Besitz des Ehegatten befinden, der nicht Schuldner ist. Inhaberpapiere und Orderpapiere, die mit Blankoindossament versehen sind, stehen den beweglichen Sachen gleich.
+(2) Für die ausschließlich zum persönlichen Gebrauch eines Ehegatten bestimmten Sachen wird im Verhältnis der Ehegatten zueinander und zu den Gläubigern vermutet, dass sie dem Ehegatten gehören, für dessen Gebrauch sie bestimmt sind.

@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 162 — Internationale Gerichte; nationale Untersuchungsausschüsse
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE066000140
+Normseite: https://www.gesetze-im-internet.de/stgb/__162.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die §§ 153 bis 161 sind auch auf falsche Angaben in einem Verfahren vor einem internationalen Gericht, das durch einen für die Bundesrepublik Deutschland verbindlichen Rechtsakt errichtet worden ist, anzuwenden.
+(2) Die §§ 153 und 157 bis 160, soweit sie sich auf falsche uneidliche Aussagen beziehen, sind auch auf falsche Angaben vor einem Untersuchungsausschuss eines Gesetzgebungsorgans des Bundes oder eines Landes anzuwenden.

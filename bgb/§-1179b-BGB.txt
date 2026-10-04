@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1179b — Löschungsanspruch bei eigenem Recht
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE121802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1179b.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer als Gläubiger einer Hypothek im Grundbuch eingetragen oder nach Maßgabe des § 1155 als Gläubiger ausgewiesen ist, kann von dem Eigentümer die Löschung dieser Hypothek verlangen, wenn sie im Zeitpunkt ihrer Eintragung mit dem Eigentum in einer Person vereinigt ist oder eine solche Vereinigung später eintritt.
+(2) § 1179a Abs. 1 Satz 2, 3, Abs. 2, 5 ist entsprechend anzuwenden.

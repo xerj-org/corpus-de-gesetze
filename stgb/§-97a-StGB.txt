@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 97a — Verrat illegaler Geheimnisse
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE022402307
+Normseite: https://www.gesetze-im-internet.de/stgb/__97a.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Wer ein Geheimnis, das wegen eines der in § 93 Abs. 2 bezeichneten Verstöße kein Staatsgeheimnis ist, einer fremden Macht oder einem ihrer Mittelsmänner mitteilt und dadurch die Gefahr eines schweren Nachteils für die äußere Sicherheit der Bundesrepublik Deutschland herbeiführt, wird wie ein Landesverräter (§ 94) bestraft. § 96 Abs. 1 in Verbindung mit § 94 Abs. 1 Nr. 1 ist auf Geheimnisse der in Satz 1 bezeichneten Art entsprechend anzuwenden.

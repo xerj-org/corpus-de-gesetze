@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 152 — Annahme bei notarieller Beurkundung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE014402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__152.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Wird ein Vertrag notariell beurkundet, ohne dass beide Teile gleichzeitig anwesend sind, so kommt der Vertrag mit der nach § 128 erfolgten Beurkundung der Annahme zustande, wenn nicht ein anderes bestimmt ist. Die Vorschrift des § 151 Satz 2 findet Anwendung.

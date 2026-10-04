@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 155 — Versteckter Einigungsmangel
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE014702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__155.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Haben sich die Parteien bei einem Vertrag, den sie als geschlossen ansehen, über einen Punkt, über den eine Vereinbarung getroffen werden sollte, in Wirklichkeit nicht geeinigt, so gilt das Vereinbarte, sofern anzunehmen ist, dass der Vertrag auch ohne eine Bestimmung über diesen Punkt geschlossen sein würde.

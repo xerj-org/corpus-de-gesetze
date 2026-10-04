@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 566e — Mitteilung des Eigentumsübergangs durch den Vermieter
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE247801377
+Normseite: https://www.gesetze-im-internet.de/bgb/__566e.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Teilt der Vermieter dem Mieter mit, dass er das Eigentum an dem vermieteten Wohnraum auf einen Dritten übertragen hat, so muss er in Ansehung der Mietforderung dem Mieter gegenüber die mitgeteilte Übertragung gegen sich gelten lassen, auch wenn sie nicht erfolgt oder nicht wirksam ist.
+(2) Die Mitteilung kann nur mit Zustimmung desjenigen zurückgenommen werden, der als der neue Eigentümer bezeichnet worden ist.

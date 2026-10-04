@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 643 — Kündigung bei unterlassener Mitwirkung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE065902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__643.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Unternehmer ist im Falle des § 642 berechtigt, dem Besteller zur Nachholung der Handlung eine angemessene Frist mit der Erklärung zu bestimmen, dass er den Vertrag kündige, wenn die Handlung nicht bis zum Ablauf der Frist vorgenommen werde. Der Vertrag gilt als aufgehoben, wenn nicht die Nachholung bis zum Ablauf der Frist erfolgt.

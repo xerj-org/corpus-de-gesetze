@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 50 — Zusammentreffen von Milderungsgründen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE011902307
+Normseite: https://www.gesetze-im-internet.de/stgb/__50.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ein Umstand, der allein oder mit anderen Umständen die Annahme eines minder schweren Falles begründet und der zugleich ein besonderer gesetzlicher Milderungsgrund nach § 49 ist, darf nur einmal berücksichtigt werden.

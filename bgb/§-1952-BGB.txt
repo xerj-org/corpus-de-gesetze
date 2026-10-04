@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 1952 — Vererblichkeit des Ausschlagungsrechts
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE190402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1952.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Das Recht des Erben, die Erbschaft auszuschlagen, ist vererblich.
+(2) Stirbt der Erbe vor dem Ablauf der Ausschlagungsfrist, so endigt die Frist nicht vor dem Ablauf der für die Erbschaft des Erben vorgeschriebenen Ausschlagungsfrist.
+(3) Von mehreren Erben des Erben kann jeder den seinem Erbteil entsprechenden Teil der Erbschaft ausschlagen.

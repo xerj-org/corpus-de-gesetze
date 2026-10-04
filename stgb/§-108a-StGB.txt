@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 108a — Wählertäuschung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE024502307
+Normseite: https://www.gesetze-im-internet.de/stgb/__108a.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer durch Täuschung bewirkt, daß jemand bei der Stimmabgabe über den Inhalt seiner Erklärung irrt oder gegen seinen Willen nicht oder ungültig wählt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+(2) Der Versuch ist strafbar.

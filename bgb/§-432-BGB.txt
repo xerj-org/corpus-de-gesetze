@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 432 — Mehrere Gläubiger einer unteilbaren Leistung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE042502377
+Normseite: https://www.gesetze-im-internet.de/bgb/__432.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Haben mehrere eine unteilbare Leistung zu fordern, so kann, sofern sie nicht Gesamtgläubiger sind, der Schuldner nur an alle gemeinschaftlich leisten und jeder Gläubiger nur die Leistung an alle fordern. Jeder Gläubiger kann verlangen, dass der Schuldner die geschuldete Sache für alle Gläubiger hinterlegt oder, wenn sie sich nicht zur Hinterlegung eignet, an einen gerichtlich zu bestellenden Verwahrer abliefert.
+(2) Im Übrigen wirkt eine Tatsache, die nur in der Person eines der Gläubiger eintritt, nicht für und gegen die übrigen Gläubiger.

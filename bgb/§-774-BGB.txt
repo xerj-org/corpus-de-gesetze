@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 774 — Gesetzlicher Forderungsübergang
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE080202377
+Normseite: https://www.gesetze-im-internet.de/bgb/__774.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Soweit der Bürge den Gläubiger befriedigt, geht die Forderung des Gläubigers gegen den Hauptschuldner auf ihn über. Der Übergang kann nicht zum Nachteil des Gläubigers geltend gemacht werden. Einwendungen des Hauptschuldners aus einem zwischen ihm und dem Bürgen bestehenden Rechtsverhältnis bleiben unberührt.
+(2) Mitbürgen haften einander nur nach § 426.

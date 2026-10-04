@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 248 — Zinseszinsen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE024102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__248.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Eine im Voraus getroffene Vereinbarung, dass fällige Zinsen wieder Zinsen tragen sollen, ist nichtig.
+(2) Sparkassen, Kreditanstalten und Inhaber von Bankgeschäften können im Voraus vereinbaren, dass nicht erhobene Zinsen von Einlagen als neue verzinsliche Einlagen gelten sollen. Kreditanstalten, die berechtigt sind, für den Betrag der von ihnen gewährten Darlehen verzinsliche Schuldverschreibungen auf den Inhaber auszugeben, können sich bei solchen Darlehen die Verzinsung rückständiger Zinsen im Voraus versprechen lassen.

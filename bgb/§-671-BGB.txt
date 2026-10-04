@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 671 — Widerruf; Kündigung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE069802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__671.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Auftrag kann von dem Auftraggeber jederzeit widerrufen, von dem Beauftragten jederzeit gekündigt werden.
+(2) Der Beauftragte darf nur in der Art kündigen, dass der Auftraggeber für die Besorgung des Geschäfts anderweit Fürsorge treffen kann, es sei denn, dass ein wichtiger Grund für die unzeitige Kündigung vorliegt. Kündigt er ohne solchen Grund zur Unzeit, so hat er dem Auftraggeber den daraus entstehenden Schaden zu ersetzen.
+(3) Liegt ein wichtiger Grund vor, so ist der Beauftragte zur Kündigung auch dann berechtigt, wenn er auf das Kündigungsrecht verzichtet hat.

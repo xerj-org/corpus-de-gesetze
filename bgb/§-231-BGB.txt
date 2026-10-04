@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 231 — Irrtümliche Selbsthilfe
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE022402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__231.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Wer eine der in § 229 bezeichneten Handlungen in der irrigen Annahme vornimmt, dass die für den Ausschluss der Widerrechtlichkeit erforderlichen Voraussetzungen vorhanden seien, ist dem anderen Teil zum Schadensersatz verpflichtet, auch wenn der Irrtum nicht auf Fahrlässigkeit beruht.

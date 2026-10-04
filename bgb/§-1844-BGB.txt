@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1844 — Hinterlegung von Wertgegenständen auf Anordnung des Betreuungsgerichts
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE181203360
+Normseite: https://www.gesetze-im-internet.de/bgb/__1844.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Das Betreuungsgericht kann anordnen, dass der Betreuer Wertgegenstände des Betreuten bei einer Hinterlegungsstelle oder einer anderen geeigneten Stelle hinterlegt, wenn dies zur Sicherung des Vermögens des Betreuten geboten ist.

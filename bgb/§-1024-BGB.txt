@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1024 — Zusammentreffen mehrerer Nutzungsrechte
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE105602377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1024.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Trifft eine Grunddienstbarkeit mit einer anderen Grunddienstbarkeit oder einem sonstigen Nutzungsrecht an dem Grundstück dergestalt zusammen, dass die Rechte nebeneinander nicht oder nicht vollständig ausgeübt werden können, und haben die Rechte gleichen Rang, so kann jeder Berechtigte eine den Interessen aller Berechtigten nach billigem Ermessen entsprechende Regelung der Ausübung verlangen.

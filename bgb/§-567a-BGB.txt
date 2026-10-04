@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 567a — Veräußerung oder Belastung vor der Überlassung des Wohnraums
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE247901377
+Normseite: https://www.gesetze-im-internet.de/bgb/__567a.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Hat vor der Überlassung des vermieteten Wohnraums an den Mieter der Vermieter den Wohnraum an einen Dritten veräußert oder mit einem Recht belastet, durch dessen Ausübung der vertragsgemäße Gebrauch dem Mieter entzogen oder beschränkt wird, so gilt das Gleiche wie in den Fällen des § 566 Abs. 1 und des § 567, wenn der Erwerber dem Vermieter gegenüber die Erfüllung der sich aus dem Mietverhältnis ergebenden Pflichten übernommen hat.

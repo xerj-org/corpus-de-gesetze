@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 170 — Verletzung der Unterhaltspflicht
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE062501307
+Normseite: https://www.gesetze-im-internet.de/stgb/__170.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer sich einer gesetzlichen Unterhaltspflicht entzieht, so daß der Lebensbedarf des Unterhaltsberechtigten gefährdet ist oder ohne die Hilfe anderer gefährdet wäre, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+(2) Wer einer Schwangeren zum Unterhalt verpflichtet ist und ihr diesen Unterhalt in verwerflicher Weise vorenthält und dadurch den Schwangerschaftsabbruch bewirkt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.

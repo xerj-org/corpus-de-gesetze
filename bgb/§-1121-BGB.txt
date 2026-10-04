@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1121 — Enthaftung durch Veräußerung und Entfernung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE115802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1121.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Erzeugnisse und sonstige Bestandteile des Grundstücks sowie Zubehörstücke werden von der Haftung frei, wenn sie veräußert und von dem Grundstück entfernt werden, bevor sie zugunsten des Gläubigers in Beschlag genommen worden sind.
+(2) Erfolgt die Veräußerung vor der Entfernung, so kann sich der Erwerber dem Gläubiger gegenüber nicht darauf berufen, dass er in Ansehung der Hypothek in gutem Glauben gewesen sei. Entfernt der Erwerber die Sache von dem Grundstück, so ist eine vor der Entfernung erfolgte Beschlagnahme ihm gegenüber nur wirksam, wenn er bei der Entfernung in Ansehung der Beschlagnahme nicht in gutem Glauben ist.

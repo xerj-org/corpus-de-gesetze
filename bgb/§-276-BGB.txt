@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 276 — Verantwortlichkeit des Schuldners
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE026902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__276.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Schuldner hat Vorsatz und Fahrlässigkeit zu vertreten, wenn eine strengere oder mildere Haftung weder bestimmt noch aus dem sonstigen Inhalt des Schuldverhältnisses, insbesondere aus der Übernahme einer Garantie oder eines Beschaffungsrisikos, zu entnehmen ist. Die Vorschriften der §§ 827 und 828 finden entsprechende Anwendung.
+(2) Fahrlässig handelt, wer die im Verkehr erforderliche Sorgfalt außer Acht lässt.
+(3) Die Haftung wegen Vorsatzes kann dem Schuldner nicht im Voraus erlassen werden.

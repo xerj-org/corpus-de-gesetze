@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1225 — Forderungsübergang auf den Verpfänder
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE126402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1225.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ist der Verpfänder nicht der persönliche Schuldner, so geht, soweit er den Pfandgläubiger befriedigt, die Forderung auf ihn über. Die für einen Bürgen geltenden Vorschrift des § 774 findet entsprechende Anwendung.

@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1234 — Verkaufsandrohung; Wartefrist
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE127302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1234.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Pfandgläubiger hat dem Eigentümer den Verkauf vorher anzudrohen und dabei den Geldbetrag zu bezeichnen, wegen dessen der Verkauf stattfinden soll. Die Androhung kann erst nach dem Eintritt der Verkaufsberechtigung erfolgen; sie darf unterbleiben, wenn sie untunlich ist.
+(2) Der Verkauf darf nicht vor dem Ablauf eines Monats nach der Androhung erfolgen. Ist die Androhung untunlich, so wird der Monat von dem Eintritt der Verkaufsberechtigung an berechnet.

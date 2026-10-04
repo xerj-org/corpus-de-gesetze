@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 650s — Teilabnahme
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE278200123
+Normseite: https://www.gesetze-im-internet.de/bgb/__650s.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Unternehmer kann ab der Abnahme der letzten Leistung des bauausführenden Unternehmers oder der bauausführenden Unternehmer eine Teilabnahme der von ihm bis dahin erbrachten Leistungen verlangen.

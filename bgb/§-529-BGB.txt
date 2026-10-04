@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 529 — Ausschluss des Rückforderungsanspruchs
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE052302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__529.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Anspruch auf Herausgabe des Geschenkes ist ausgeschlossen, wenn der Schenker seine Bedürftigkeit vorsätzlich oder durch grobe Fahrlässigkeit herbeigeführt hat oder wenn zur Zeit des Eintritts seiner Bedürftigkeit seit der Leistung des geschenkten Gegenstandes zehn Jahre verstrichen sind.
+(2) Das Gleiche gilt, soweit der Beschenkte bei Berücksichtigung seiner sonstigen Verpflichtungen außerstande ist, das Geschenk herauszugeben, ohne dass sein standesmäßiger Unterhalt oder die Erfüllung der ihm kraft Gesetzes obliegenden Unterhaltspflichten gefährdet wird.

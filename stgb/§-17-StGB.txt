@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 17 — Verbotsirrtum
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE008402307
+Normseite: https://www.gesetze-im-internet.de/stgb/__17.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Fehlt dem Täter bei Begehung der Tat die Einsicht, Unrecht zu tun, so handelt er ohne Schuld, wenn er diesen Irrtum nicht vermeiden konnte. Konnte der Täter den Irrtum vermeiden, so kann die Strafe nach § 49 Abs. 1 gemildert werden.

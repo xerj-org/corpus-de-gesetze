@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 435 — Rechtsmangel
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE042802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__435.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Die Sache ist frei von Rechtsmängeln, wenn Dritte in Bezug auf die Sache keine oder nur die im Kaufvertrag übernommenen Rechte gegen den Käufer geltend machen können. Einem Rechtsmangel steht es gleich, wenn im Grundbuch ein Recht eingetragen ist, das nicht besteht.

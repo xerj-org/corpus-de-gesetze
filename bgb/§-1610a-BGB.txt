@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1610a — Deckungsvermutung bei schadensbedingten Mehraufwendungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE237902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1610a.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Werden für Aufwendungen infolge eines Körper- oder Gesundheitsschadens Sozialleistungen in Anspruch genommen, wird bei der Feststellung eines Unterhaltsanspruchs vermutet, dass die Kosten der Aufwendungen nicht geringer sind als die Höhe dieser Sozialleistungen.

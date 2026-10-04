@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1156 — Rechtsverhältnis zwischen Eigentümer und neuem Gläubiger
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE119302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1156.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Die für die Übertragung der Forderung geltenden Vorschriften der §§ 406 bis 408 finden auf das Rechtsverhältnis zwischen dem Eigentümer und dem neuen Gläubiger in Ansehung der Hypothek keine Anwendung. Der neue Gläubiger muss jedoch eine dem bisherigen Gläubiger gegenüber erfolgte Kündigung des Eigentümers gegen sich gelten lassen, es sei denn, dass die Übertragung zur Zeit der Kündigung dem Eigentümer bekannt oder im Grundbuch eingetragen ist.

@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 290 — Verzinsung des Wertersatzes
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE028302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__290.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ist der Schuldner zum Ersatz des Wertes eines Gegenstands verpflichtet, der während des Verzugs untergegangen ist oder aus einem während des Verzugs eingetretenen Grund nicht herausgegeben werden kann, so kann der Gläubiger Zinsen des zu ersetzenden Betrags von dem Zeitpunkt an verlangen, welcher der Bestimmung des Wertes zugrunde gelegt wird. Das Gleiche gilt, wenn der Schuldner zum Ersatz der Minderung des Wertes eines während des Verzugs verschlechterten Gegenstands verpflichtet ist.

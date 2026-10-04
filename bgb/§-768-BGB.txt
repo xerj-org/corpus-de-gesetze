@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 768 — Einreden des Bürgen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE079602377
+Normseite: https://www.gesetze-im-internet.de/bgb/__768.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Bürge kann die dem Hauptschuldner zustehenden Einreden geltend machen. Stirbt der Hauptschuldner, so kann sich der Bürge nicht darauf berufen, dass der Erbe für die Verbindlichkeit nur beschränkt haftet.
+(2) Der Bürge verliert eine Einrede nicht dadurch, dass der Hauptschuldner auf sie verzichtet.

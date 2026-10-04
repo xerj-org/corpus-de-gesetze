@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 141 — Bestätigung des nichtigen Rechtsgeschäfts
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE013302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__141.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wird ein nichtiges Rechtsgeschäft von demjenigen, welcher es vorgenommen hat, bestätigt, so ist die Bestätigung als erneute Vornahme zu beurteilen.
+(2) Wird ein nichtiger Vertrag von den Parteien bestätigt, so sind diese im Zweifel verpflichtet, einander zu gewähren, was sie haben würden, wenn der Vertrag von Anfang an gültig gewesen wäre.

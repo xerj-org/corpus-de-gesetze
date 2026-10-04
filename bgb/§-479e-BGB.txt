@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 479e — Unzulässige Handlungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE293800360
+Normseite: https://www.gesetze-im-internet.de/bgb/__479e.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Die Hersteller dürfen keine Hardware- oder Softwaretechniken einsetzen, die die Reparatur von Waren, die in den Anwendungsbereich des § 479a fallen, behindern, es sei denn, dies ist durch legitime und objektive Faktoren wie den Schutz der Rechte des geistigen Eigentums gerechtfertigt. Die Hersteller dürfen insbesondere die Verwendung von Originalersatzteilen, gebrauchten Ersatzteilen, kompatiblen Ersatzteilen oder Ersatzteilen, die mittels 3-D-Druck hergestellt wurden, durch unabhängige Reparaturbetriebe nicht behindern, wenn diese Ersatzteile im Einklang mit der Rechtsordnung, beispielsweise mit den Anforderungen an die Produktsicherheit oder mit den Rechten des geistigen Eigentums, stehen.

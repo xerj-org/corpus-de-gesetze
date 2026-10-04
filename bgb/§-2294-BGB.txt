@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 2294 — Rücktritt bei Verfehlungen des Bedachten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE223902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2294.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Erblasser kann von einer vertragsmäßigen Verfügung zurücktreten, wenn sich der Bedachte einer Verfehlung schuldig macht, die den Erblasser zur Entziehung des Pflichtteils berechtigt oder, falls der Bedachte nicht zu den Pflichtteilsberechtigten gehört, zu der Entziehung berechtigen würde, wenn der Bedachte ein Abkömmling des Erblassers wäre.

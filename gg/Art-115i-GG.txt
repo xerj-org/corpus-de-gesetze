@@ -1,0 +1,9 @@
+Grundgesetz für die Bundesrepublik Deutschland (GG) — Art 115i
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-05-06
+Dokumentnummer: BJNR000010949BJNE015600314
+Normseite: https://www.gesetze-im-internet.de/gg/art_115i.html
+Quell-Zip: https://www.gesetze-im-internet.de/gg/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Sind die zuständigen Bundesorgane außerstande, die notwendigen Maßnahmen zur Abwehr der Gefahr zu treffen, und erfordert die Lage unabweisbar ein sofortiges selbständiges Handeln in einzelnen Teilen des Bundesgebietes, so sind die Landesregierungen oder die von ihnen bestimmten Behörden oder Beauftragten befugt, für ihren Zuständigkeitsbereich Maßnahmen im Sinne des Artikels 115f Abs. 1 zu treffen.
+(2) Maßnahmen nach Absatz 1 können durch die Bundesregierung, im Verhältnis zu Landesbehörden und nachgeordneten Bundesbehörden auch durch die Ministerpräsidenten der Länder, jederzeit aufgehoben werden.

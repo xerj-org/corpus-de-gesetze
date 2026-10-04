@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 579 — Fälligkeit der Miete
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE059303377
+Normseite: https://www.gesetze-im-internet.de/bgb/__579.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Miete für ein Grundstück und für bewegliche Sachen ist am Ende der Mietzeit zu entrichten. Ist die Miete nach Zeitabschnitten bemessen, so ist sie nach Ablauf der einzelnen Zeitabschnitte zu entrichten. Die Miete für ein Grundstück ist, sofern sie nicht nach kürzeren Zeitabschnitten bemessen ist, jeweils nach Ablauf eines Kalendervierteljahrs am ersten Werktag des folgenden Monats zu entrichten.
+(2) Für Mietverhältnisse über Räume gilt § 556b Abs. 1 entsprechend.

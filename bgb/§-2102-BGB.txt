@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 2102 — Nacherbe und Ersatzerbe
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE205502377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2102.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Einsetzung als Nacherbe enthält im Zweifel auch die Einsetzung als Ersatzerbe.
+(2) Ist zweifelhaft, ob jemand als Ersatzerbe oder als Nacherbe eingesetzt ist, so gilt er als Ersatzerbe.

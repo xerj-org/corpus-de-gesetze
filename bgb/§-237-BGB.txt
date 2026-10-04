@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 237 — Bewegliche Sachen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE023002377
+Normseite: https://www.gesetze-im-internet.de/bgb/__237.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Mit einer beweglichen Sache kann Sicherheit nur in Höhe von zwei Dritteln des Schätzungswerts geleistet werden. Sachen, deren Verderb zu besorgen oder deren Aufbewahrung mit besonderen Schwierigkeiten verbunden ist, können zurückgewiesen werden.

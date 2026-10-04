@@ -1,0 +1,11 @@
+Strafgesetzbuch (StGB) — § 271 — Mittelbare Falschbeurkundung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE046404307
+Normseite: https://www.gesetze-im-internet.de/stgb/__271.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer bewirkt, daß Erklärungen, Verhandlungen oder Tatsachen, welche für Rechte oder Rechtsverhältnisse von Erheblichkeit sind, in öffentlichen Urkunden, Büchern, Dateien oder Registern als abgegeben oder geschehen beurkundet oder gespeichert werden, während sie überhaupt nicht oder in anderer Weise oder von einer Person in einer ihr nicht zustehenden Eigenschaft oder von einer anderen Person abgegeben oder geschehen sind, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+(2) Ebenso wird bestraft, wer eine falsche Beurkundung oder Datenspeicherung der in Absatz 1 bezeichneten Art zur Täuschung im Rechtsverkehr gebraucht.
+(3) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen Dritten zu bereichern oder eine andere Person zu schädigen, so ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
+(4) Der Versuch ist strafbar.

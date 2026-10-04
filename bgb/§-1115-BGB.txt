@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1115 — Eintragung der Hypothek
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE115202377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1115.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Bei der Eintragung der Hypothek müssen der Gläubiger, der Geldbetrag der Forderung und, wenn die Forderung verzinslich ist, der Zinssatz, wenn andere Nebenleistungen zu entrichten sind, ihr Geldbetrag im Grundbuch angegeben werden; im Übrigen kann zur Bezeichnung der Forderung auf die Eintragungsbewilligung Bezug genommen werden.
+(2) Bei der Eintragung der Hypothek für ein Darlehen einer Kreditanstalt, deren Satzung von der zuständigen Behörde öffentlich bekannt gemacht worden ist, genügt zur Bezeichnung der außer den Zinsen satzungsgemäß zu entrichtenden Nebenleistungen die Bezugnahme auf die Satzung.

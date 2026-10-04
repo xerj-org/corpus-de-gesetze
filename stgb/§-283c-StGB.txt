@@ -1,0 +1,10 @@
+Strafgesetzbuch (StGB) — § 283c — Gläubigerbegünstigung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE047902307
+Normseite: https://www.gesetze-im-internet.de/stgb/__283c.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer in Kenntnis seiner Zahlungsunfähigkeit einem Gläubiger eine Sicherheit oder Befriedigung gewährt, die dieser nicht oder nicht in der Art oder nicht zu der Zeit zu beanspruchen hat, und ihn dadurch absichtlich oder wissentlich vor den übrigen Gläubigern begünstigt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+(2) Der Versuch ist strafbar.
+(3) § 283 Abs. 6 gilt entsprechend.

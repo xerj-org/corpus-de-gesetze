@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 405 — Abtretung unter Urkundenvorlegung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE039802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__405.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Hat der Schuldner eine Urkunde über die Schuld ausgestellt, so kann er sich, wenn die Forderung unter Vorlegung der Urkunde abgetreten wird, dem neuen Gläubiger gegenüber nicht darauf berufen, dass die Eingehung oder Anerkennung des Schuldverhältnisses nur zum Schein erfolgt oder dass die Abtretung durch Vereinbarung mit dem ursprünglichen Gläubiger ausgeschlossen sei, es sei denn, dass der neue Gläubiger bei der Abtretung den Sachverhalt kannte oder kennen musste.

@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 583a — Verfügungsbeschränkungen bei Inventar
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE234302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__583a.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Vertragsbestimmungen, die den Pächter eines Betriebs verpflichten, nicht oder nicht ohne Einwilligung des Verpächters über Inventarstücke zu verfügen oder Inventar an den Verpächter zu veräußern, sind nur wirksam, wenn sich der Verpächter verpflichtet, das Inventar bei der Beendigung des Pachtverhältnisses zum Schätzwert zu erwerben.

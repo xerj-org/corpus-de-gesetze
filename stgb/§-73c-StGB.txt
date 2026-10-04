@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 73c — Einziehung des Wertes von Taterträgen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE017403123
+Normseite: https://www.gesetze-im-internet.de/stgb/__73c.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ist die Einziehung eines Gegenstandes wegen der Beschaffenheit des Erlangten oder aus einem anderen Grund nicht möglich oder wird von der Einziehung eines Ersatzgegenstandes nach § 73 Absatz 3 oder nach § 73b Absatz 3 abgesehen, so ordnet das Gericht die Einziehung eines Geldbetrages an, der dem Wert des Erlangten entspricht. Eine solche Anordnung trifft das Gericht auch neben der Einziehung eines Gegenstandes, soweit dessen Wert hinter dem Wert des zunächst Erlangten zurückbleibt.

@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 56a — Bewährungszeit
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE012602307
+Normseite: https://www.gesetze-im-internet.de/stgb/__56a.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Das Gericht bestimmt die Dauer der Bewährungszeit. Sie darf fünf Jahre nicht überschreiten und zwei Jahre nicht unterschreiten.
+(2) Die Bewährungszeit beginnt mit der Rechtskraft der Entscheidung über die Strafaussetzung. Sie kann nachträglich bis auf das Mindestmaß verkürzt oder vor ihrem Ablauf bis auf das Höchstmaß verlängert werden.

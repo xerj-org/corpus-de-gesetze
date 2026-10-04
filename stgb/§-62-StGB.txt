@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 62 — Grundsatz der Verhältnismäßigkeit
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE014202307
+Normseite: https://www.gesetze-im-internet.de/stgb/__62.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Eine Maßregel der Besserung und Sicherung darf nicht angeordnet werden, wenn sie zur Bedeutung der vom Täter begangenen und zu erwartenden Taten sowie zu dem Grad der von ihm ausgehenden Gefahr außer Verhältnis steht.

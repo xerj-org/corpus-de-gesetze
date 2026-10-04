@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 239 — Bürge
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE023202377
+Normseite: https://www.gesetze-im-internet.de/bgb/__239.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Ein Bürge ist tauglich, wenn er ein der Höhe der zu leistenden Sicherheit angemessenes Vermögen besitzt und seinen allgemeinen Gerichtsstand im Inland hat.
+(2) Die Bürgschaftserklärung muss den Verzicht auf die Einrede der Vorausklage enthalten.

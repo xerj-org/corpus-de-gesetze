@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1295 — Freihändiger Verkauf von Orderpapieren
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE132103377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1295.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Hat ein verpfändetes Papier, das durch Indossament übertragen werden kann, einen Börsen- oder Marktpreis, so ist der Gläubiger nach dem Eintritt der Voraussetzungen des § 1228 Abs. 2 berechtigt, das Papier nach § 1221 verkaufen zu lassen. § 1259 findet entsprechende Anwendung.

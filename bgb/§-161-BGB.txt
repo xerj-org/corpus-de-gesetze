@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 161 — Unwirksamkeit von Verfügungen während der Schwebezeit
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE015303377
+Normseite: https://www.gesetze-im-internet.de/bgb/__161.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Hat jemand unter einer aufschiebenden Bedingung über einen Gegenstand verfügt, so ist jede weitere Verfügung, die er während der Schwebezeit über den Gegenstand trifft, im Falle des Eintritts der Bedingung insoweit unwirksam, als sie die von der Bedingung abhängige Wirkung vereiteln oder beeinträchtigen würde. Einer solchen Verfügung steht eine Verfügung gleich, die während der Schwebezeit im Wege der Zwangsvollstreckung oder der Arrestvollziehung oder durch den Insolvenzverwalter erfolgt.
+(2) Dasselbe gilt bei einer auflösenden Bedingung von den Verfügungen desjenigen, dessen Recht mit dem Eintritt der Bedingung endigt.
+(3) Die Vorschriften zugunsten derjenigen, welche Rechte von einem Nichtberechtigten herleiten, finden entsprechende Anwendung.

@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 289 — Zinseszinsverbot
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE028202377
+Normseite: https://www.gesetze-im-internet.de/bgb/__289.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Von Zinsen sind Verzugszinsen nicht zu entrichten. Das Recht des Gläubigers auf Ersatz des durch den Verzug entstehenden Schadens bleibt unberührt.

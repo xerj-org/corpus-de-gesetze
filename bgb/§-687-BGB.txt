@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 687 — Unechte Geschäftsführung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE071402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__687.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Vorschriften der §§ 677 bis 686 finden keine Anwendung, wenn jemand ein fremdes Geschäft in der Meinung besorgt, dass es sein eigenes sei.
+(2) Behandelt jemand ein fremdes Geschäft als sein eigenes, obwohl er weiß, dass er nicht dazu berechtigt ist, so kann der Geschäftsherr die sich aus den §§ 677, 678, 681, 682 ergebenden Ansprüche geltend machen. Macht er sie geltend, so ist er dem Geschäftsführer nach § 684 Satz 1 verpflichtet.

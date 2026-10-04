@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1240 — Gold- und Silbersachen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE127902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1240.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Gold- und Silbersachen dürfen nicht unter dem Gold- oder Silberwert zugeschlagen werden.
+(2) Wird ein genügendes Gebot nicht abgegeben, so kann der Verkauf durch eine zur öffentlichen Versteigerung befugte Person aus freier Hand zu einem den Gold- oder Silberwert erreichenden Preis erfolgen.

@@ -1,0 +1,10 @@
+Strafgesetzbuch (StGB) — § 303a — Datenveränderung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE056603377
+Normseite: https://www.gesetze-im-internet.de/stgb/__303a.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer rechtswidrig Daten (§ 202a Abs. 2) löscht, unterdrückt, unbrauchbar macht oder verändert, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+(2) Der Versuch ist strafbar.
+(3) Für die Vorbereitung einer Straftat nach Absatz 1 gilt § 202c entsprechend.

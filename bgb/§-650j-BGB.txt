@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 650j — Baubeschreibung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE277300123
+Normseite: https://www.gesetze-im-internet.de/bgb/__650j.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Unternehmer hat den Verbraucher über die sich aus Artikel 249 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden Einzelheiten in der dort vorgesehenen Form zu unterrichten, es sei denn, der Verbraucher oder ein von ihm Beauftragter macht die wesentlichen Planungsvorgaben.

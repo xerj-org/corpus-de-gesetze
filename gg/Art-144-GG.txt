@@ -1,0 +1,9 @@
+Grundgesetz für die Bundesrepublik Deutschland (GG) — Art 144
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-05-06
+Dokumentnummer: BJNR000010949BJNE019000314
+Normseite: https://www.gesetze-im-internet.de/gg/art_144.html
+Quell-Zip: https://www.gesetze-im-internet.de/gg/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Dieses Grundgesetz bedarf der Annahme durch die Volksvertretungen in zwei Dritteln der deutschen Länder, in denen es zunächst gelten soll.
+(2) Soweit die Anwendung dieses Grundgesetzes in einem der in Artikel 23 aufgeführten Länder oder in einem Teile eines dieser Länder Beschränkungen unterliegt, hat das Land oder der Teil des Landes das Recht, gemäß Artikel 38 Vertreter in den Bundestag und gemäß Artikel 50 Vertreter in den Bundesrat zu entsenden.

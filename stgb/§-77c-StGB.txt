@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 77c — Wechselseitig begangene Taten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE018902307
+Normseite: https://www.gesetze-im-internet.de/stgb/__77c.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Hat bei wechselseitig begangenen Taten, die miteinander zusammenhängen und nur auf Antrag verfolgbar sind, ein Berechtigter die Strafverfolgung des anderen beantragt, so erlischt das Antragsrecht des anderen, wenn er es nicht bis zur Beendigung des letzten Wortes im ersten Rechtszug ausübt. Er kann den Antrag auch dann noch stellen, wenn für ihn die Antragsfrist schon verstrichen ist.

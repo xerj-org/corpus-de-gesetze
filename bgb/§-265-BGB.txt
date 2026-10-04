@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 265 — Unmöglichkeit bei Wahlschuld
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE025802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__265.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ist eine der Leistungen von Anfang an unmöglich oder wird sie später unmöglich, so beschränkt sich das Schuldverhältnis auf die übrigen Leistungen. Die Beschränkung tritt nicht ein, wenn die Leistung infolge eines Umstands unmöglich wird, den der nicht wahlberechtigte Teil zu vertreten hat.

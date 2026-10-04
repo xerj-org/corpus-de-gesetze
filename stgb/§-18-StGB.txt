@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 18 — Schwerere Strafe bei besonderen Tatfolgen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE008502307
+Normseite: https://www.gesetze-im-internet.de/stgb/__18.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Knüpft das Gesetz an eine besondere Folge der Tat eine schwerere Strafe, so trifft sie den Täter oder den Teilnehmer nur, wenn ihm hinsichtlich dieser Folge wenigstens Fahrlässigkeit zur Last fällt.

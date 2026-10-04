@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 281 — Mißbrauch von Ausweispapieren
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE047403360
+Normseite: https://www.gesetze-im-internet.de/stgb/__281.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer ein Ausweispapier, das für einen anderen ausgestellt ist, zur Täuschung im Rechtsverkehr gebraucht, oder wer zur Täuschung im Rechtsverkehr einem anderen ein Ausweispapier überläßt, das nicht für diesen ausgestellt ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
+(2) Einem Ausweispapier stehen Gesundheitszeugnisse sowie solche Zeugnisse und andere Urkunden gleich, die im Verkehr als Ausweis verwendet werden.

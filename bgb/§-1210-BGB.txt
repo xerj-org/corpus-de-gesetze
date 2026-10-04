@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1210 — Umfang der Haftung des Pfandes
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE124902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1210.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Das Pfand haftet für die Forderung in deren jeweiligem Bestand, insbesondere auch für Zinsen und Vertragsstrafen. Ist der persönliche Schuldner nicht der Eigentümer des Pfandes, so wird durch ein Rechtsgeschäft, das der Schuldner nach der Verpfändung vornimmt, die Haftung nicht erweitert.
+(2) Das Pfand haftet für die Ansprüche des Pfandgläubigers auf Ersatz von Verwendungen, für die dem Pfandgläubiger zu ersetzenden Kosten der Kündigung und der Rechtsverfolgung sowie für die Kosten des Pfandverkaufs.

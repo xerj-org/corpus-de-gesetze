@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 16 — Irrtum über Tatumstände
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE008302307
+Normseite: https://www.gesetze-im-internet.de/stgb/__16.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer bei Begehung der Tat einen Umstand nicht kennt, der zum gesetzlichen Tatbestand gehört, handelt nicht vorsätzlich. Die Strafbarkeit wegen fahrlässiger Begehung bleibt unberührt.
+(2) Wer bei Begehung der Tat irrig Umstände annimmt, welche den Tatbestand eines milderen Gesetzes verwirklichen würden, kann wegen vorsätzlicher Begehung nur nach dem milderen Gesetz bestraft werden.

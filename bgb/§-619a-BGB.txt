@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 619a — Beweislast bei Haftung des Arbeitnehmers
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE262401377
+Normseite: https://www.gesetze-im-internet.de/bgb/__619a.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Abweichend von § 280 Abs. 1 hat der Arbeitnehmer dem Arbeitgeber Ersatz für den aus der Verletzung einer Pflicht aus dem Arbeitsverhältnis entstehenden Schaden nur zu leisten, wenn er die Pflichtverletzung zu vertreten hat.

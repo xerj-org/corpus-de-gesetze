@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 783 — Rechte aus der Anweisung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE081102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__783.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Händigt jemand eine Urkunde, in der er einen anderen anweist, Geld, Wertpapiere oder andere vertretbare Sachen an einen Dritten zu leisten, dem Dritten aus, so ist dieser ermächtigt, die Leistung bei dem Angewiesenen im eigenen Namen zu erheben; der Angewiesene ist ermächtigt, für Rechnung des Anweisenden an den Anweisungsempfänger zu leisten.

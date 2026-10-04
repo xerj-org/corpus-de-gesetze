@@ -1,0 +1,10 @@
+Strafgesetzbuch (StGB) — § 126a — Gefährdendes Verbreiten personenbezogener Daten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE069500360
+Normseite: https://www.gesetze-im-internet.de/stgb/__126a.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer öffentlich, in einer Versammlung oder durch Verbreiten eines Inhalts (§ 11 Absatz 3) personenbezogene Daten einer anderen Person in einer Art und Weise verbreitet, die geeignet und nach den Umständen bestimmt ist, diese Person oder eine ihr nahestehende Person der Gefahr 1. eines gegen sie gerichteten Verbrechens oder 2. einer gegen sie gerichteten sonstigen rechtswidrigen Tat gegen die sexuelle Selbstbestimmung, die körperliche Unversehrtheit, die persönliche Freiheit oder gegen eine Sache von bedeutendem Wert auszusetzen, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+(2) Handelt es sich um nicht allgemein zugängliche Daten, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+(3) § 86 Absatz 4 gilt entsprechend.

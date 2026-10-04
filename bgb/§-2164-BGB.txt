@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 2164 — Erstreckung auf Zubehör und Ersatzansprüche
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE211702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2164.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Das Vermächtnis einer Sache erstreckt sich im Zweifel auf das zur Zeit des Erbfalls vorhandene Zubehör.
+(2) Hat der Erblasser wegen einer nach der Anordnung des Vermächtnisses erfolgten Beschädigung der Sache einen Anspruch auf Ersatz der Minderung des Wertes, so erstreckt sich im Zweifel das Vermächtnis auf diesen Anspruch.

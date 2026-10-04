@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 233 — Wirkung der Hinterlegung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE022602377
+Normseite: https://www.gesetze-im-internet.de/bgb/__233.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Mit der Hinterlegung erwirbt der Berechtigte ein Pfandrecht an dem hinterlegten Geld oder an den hinterlegten Wertpapieren und, wenn das Geld oder die Wertpapiere in das Eigentum des Fiskus oder der als Hinterlegungsstelle bestimmten Anstalt übergehen, ein Pfandrecht an der Forderung auf Rückerstattung.

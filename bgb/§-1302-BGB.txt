@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1302 — Verjährung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE132803140
+Normseite: https://www.gesetze-im-internet.de/bgb/__1302.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Die Verjährungsfrist der in den §§ 1298 bis 1301 bestimmten Ansprüche beginnt mit der Auflösung des Verlöbnisses.

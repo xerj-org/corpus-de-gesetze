@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 416 — Übernahme einer Hypothekenschuld
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE040903125
+Normseite: https://www.gesetze-im-internet.de/bgb/__416.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Übernimmt der Erwerber eines Grundstücks durch Vertrag mit dem Veräußerer eine Schuld des Veräußerers, für die eine Hypothek an dem Grundstück besteht, so kann der Gläubiger die Schuldübernahme nur genehmigen, wenn der Veräußerer sie ihm mitteilt. Sind seit dem Empfang der Mitteilung sechs Monate verstrichen, so gilt die Genehmigung als erteilt, wenn nicht der Gläubiger sie dem Veräußerer gegenüber vorher verweigert hat; die Vorschrift des § 415 Abs. 2 Satz 2 findet keine Anwendung.
+(2) Die Mitteilung des Veräußerers kann erst erfolgen, wenn der Erwerber als Eigentümer im Grundbuch eingetragen ist. Sie muss in Textform geschehen und den Hinweis enthalten, dass der Übernehmer an die Stelle des bisherigen Schuldners tritt, wenn nicht der Gläubiger die Verweigerung innerhalb der sechs Monate erklärt.
+(3) Der Veräußerer hat auf Verlangen des Erwerbers dem Gläubiger die Schuldübernahme mitzuteilen. Sobald die Erteilung oder Verweigerung der Genehmigung feststeht, hat der Veräußerer den Erwerber zu benachrichtigen.

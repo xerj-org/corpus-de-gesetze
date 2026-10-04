@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 8 — Zeit der Tat
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE007502307
+Normseite: https://www.gesetze-im-internet.de/stgb/__8.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Eine Tat ist zu der Zeit begangen, zu welcher der Täter oder der Teilnehmer gehandelt hat oder im Falle des Unterlassens hätte handeln müssen. Wann der Erfolg eintritt, ist nicht maßgebend.

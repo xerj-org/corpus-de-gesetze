@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 60 — Absehen von Strafe
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE014002307
+Normseite: https://www.gesetze-im-internet.de/stgb/__60.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Das Gericht sieht von Strafe ab, wenn die Folgen der Tat, die den Täter getroffen haben, so schwer sind, daß die Verhängung einer Strafe offensichtlich verfehlt wäre. Dies gilt nicht, wenn der Täter für die Tat eine Freiheitsstrafe von mehr als einem Jahr verwirkt hat.

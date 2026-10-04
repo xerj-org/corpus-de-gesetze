@@ -1,0 +1,15 @@
+Bürgerliches Gesetzbuch (BGB) — § 232 — Arten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE022503377
+Normseite: https://www.gesetze-im-internet.de/bgb/__232.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer Sicherheit zu leisten hat, kann dies bewirken 
+durch Hinterlegung von Geld oder Wertpapieren, 
+durch Verpfändung von Forderungen, die in das Bundesschuldbuch oder in das Landesschuldbuch eines Landes eingetragen sind, 
+durch Verpfändung beweglicher Sachen, 
+durch Bestellung von Schiffshypotheken an Schiffen oder Schiffsbauwerken, die in einem deutschen Schiffsregister oder Schiffsbauregister eingetragen sind, 
+durch Bestellung von Hypotheken an inländischen Grundstücken, 
+durch Verpfändung von Forderungen, für die eine Hypothek an einem inländischen Grundstück besteht, oder durch Verpfändung von Grundschulden oder Rentenschulden an inländischen Grundstücken.
+(2) Kann die Sicherheit nicht in dieser Weise geleistet werden, so ist die Stellung eines tauglichen Bürgen zulässig.

@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 147 — Inverkehrbringen von Falschgeld
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE030402307
+Normseite: https://www.gesetze-im-internet.de/stgb/__147.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer, abgesehen von den Fällen des § 146, falsches Geld als echt in Verkehr bringt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(2) Der Versuch ist strafbar.

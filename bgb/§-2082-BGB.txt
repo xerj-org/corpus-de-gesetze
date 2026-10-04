@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 2082 — Anfechtungsfrist
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE203502377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2082.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Anfechtung kann nur binnen Jahresfrist erfolgen.
+(2) Die Frist beginnt mit dem Zeitpunkt, in welchem der Anfechtungsberechtigte von dem Anfechtungsgrund Kenntnis erlangt. Auf den Lauf der Frist finden die für die Verjährung geltenden Vorschriften der §§ 206, 210, 211 entsprechende Anwendung.
+(3) Die Anfechtung ist ausgeschlossen, wenn seit dem Erbfall 30 Jahre verstrichen sind.

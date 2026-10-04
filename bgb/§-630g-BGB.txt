@@ -1,0 +1,11 @@
+Bürgerliches Gesetzbuch (BGB) — § 630g — Einsichtnahme in die Behandlungsakte
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE272001129
+Normseite: https://www.gesetze-im-internet.de/bgb/__630g.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Dem Patienten ist auf Verlangen unverzüglich Einsicht in die vollständige, ihn betreffende Behandlungsakte zu gewähren. § 811 ist entsprechend anzuwenden. Der Patient kann auch Abschriften von der Behandlungsakte, einschließlich elektronischer Abschriften, verlangen. Die erste Abschrift wird unentgeltlich zur Verfügung gestellt.
+(2) Das Recht nach Absatz 1 besteht nicht, soweit erhebliche therapeutische Gründe oder sonstige erhebliche Rechte Dritter entgegenstehen. Die Ablehnung der Einsichtnahme ist zu begründen.
+(3) Im Fall des Todes des Patienten stehen die Rechte nach Absatz 1 zur Wahrnehmung der vermögensrechtlichen Interessen seinen Erben mit der Maßgabe zu, dass die Erben die entstandenen Kosten zu erstatten haben. Gleiches gilt für die nächsten Angehörigen des Patienten, soweit sie immaterielle Interessen geltend machen. Die Rechte sind ausgeschlossen, soweit der Einsichtnahme der ausdrückliche oder mutmaßliche Wille des Patienten entgegensteht.
+(4) Datenschutzrechtliche Rechte des Betroffenen bleiben von den Absätzen 1 bis 3 unberührt, soweit in diesem Absatz nichts anderes geregelt ist. Soweit datenschutzrechtliche Auskunftsansprüche und Informationspflichten unentgeltlich zu erfüllen sind, steht dies Entgelten für Einsichtnahmen nach Absatz 1 entgegen. Der Ausschluss des Einsichtsrechts nach Absatz 2 steht im Verhältnis zwischen Behandelndem und Patienten auch datenschutzrechtlichen Auskunftsansprüchen und Informationspflichten entgegen.

@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 632 — Vergütung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE064802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__632.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Eine Vergütung gilt als stillschweigend vereinbart, wenn die Herstellung des Werkes den Umständen nach nur gegen eine Vergütung zu erwarten ist.
+(2) Ist die Höhe der Vergütung nicht bestimmt, so ist bei dem Bestehen einer Taxe die taxmäßige Vergütung, in Ermangelung einer Taxe die übliche Vergütung als vereinbart anzusehen.
+(3) Ein Kostenanschlag ist im Zweifel nicht zu vergüten.

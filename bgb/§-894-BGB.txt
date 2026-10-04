@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 894 — Berichtigung des Grundbuchs
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE092302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__894.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Steht der Inhalt des Grundbuchs in Ansehung eines Rechts an dem Grundstück, eines Rechts an einem solchen Recht oder einer Verfügungsbeschränkung der in § 892 Abs. 1 bezeichneten Art mit der wirklichen Rechtslage nicht im Einklang, so kann derjenige, dessen Recht nicht oder nicht richtig eingetragen oder durch die Eintragung einer nicht bestehenden Belastung oder Beschränkung beeinträchtigt ist, die Zustimmung zu der Berichtigung des Grundbuchs von demjenigen verlangen, dessen Recht durch die Berichtigung betroffen wird.

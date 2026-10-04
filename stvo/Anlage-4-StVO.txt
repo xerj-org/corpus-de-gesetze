@@ -1,0 +1,58 @@
+Straßenverkehrs-Ordnung (StVO) — Anlage 4 — (zu § 43 Absatz 3)
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-05-27
+Dokumentnummer: BJNR036710013BJNE006000000
+Normseite: https://www.gesetze-im-internet.de/stvo_2013/anlage_4.html
+Quell-Zip: https://www.gesetze-im-internet.de/stvo_2013/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(Fundstelle: BGBl. I 2013, 425 - 427)
+1 | 2 | 3
+lfd. Nr. | Zeichen | Ge- oder Verbot
+ Erläuterungen
+Abschnitt 1 Einrichtungen zur Kennzeichnung von Arbeits- und Unfallstellen oder sonstigen vorübergehenden Hindernissen
+1 | Zeichen 600
+[Bild: bgbl1_2013_j0367-1_2200.jpg]
+ Absperrschranke |
+2 | Zeichen 605 |
+ | [Bild: bgbl1_2013_j0367-1_2210.jpg] | [Bild: bgbl1_2013_j0367-1_2220.jpg] |
+ | Leitbake |
+ | Pfeilbake | Schraffenbake |
+3 | Zeichen 628 |
+ | [Bild: bgbl1_2013_j0367-1_2230.jpg] | [Bild: bgbl1_2013_j0367-1_2240.jpg] |
+ | Leitschwelle |
+ | mit Pfeilbake | mit Schraffenbake |
+4 | Zeichen 629 |
+ | [Bild: bgbl1_2013_j0367-1_2250.jpg] | [Bild: bgbl1_2013_j0367-1_2260.jpg] |
+ | Leitbord |
+ | mit Pfeilbake | mit Schraffenbake |
+5 | Zeichen 610
+[Bild: bgbl1_2013_j0367-1_2270.jpg]
+ Leitkegel |
+6 | Zeichen 615
+[Bild: bgbl1_2013_j0367-1_2280.jpg]
+Fahrbare Absperrtafel |
+7 | Zeichen 616
+[Bild: bgbl1_2013_j0367-1_2290.jpg]
+Fahrbare Absperrtafel mit Blinkpfeil |
+zu 1 bis 7 |  | Ge- oder Verbot
+ Die Einrichtungen verbieten das Befahren der so gekennzeichneten Straßenfläche und leiten den Verkehr an dieser Fläche vorbei.
+Erläuterung1. Warnleuchten an diesen Einrichtungen zeigen rotes Licht, wenn die ganze Fahrbahn gesperrt ist, sonst gelbes Licht oder gelbes Blinklicht. 2. Zusammen mit der Absperrtafel können überfahrbare Warnschwellen verwendet sein, die quer zur Fahrtrichtung vor der Absperrtafel ausgelegt sind.
+Abschnitt 2 Einrichtungen zur Kennzeichnung von dauerhaften Hindernissen oder sonstigen gefährlichen Stellen
+8 | Zeichen 625
+[Bild: bgbl1_2013_j0367-1_2300.jpg]
+Richtungstafel in Kurven | Die Richtungstafel in Kurven kann auch in aufgelöster Form angebracht sein.
+9 | Zeichen 626
+[Bild: bgbl1_2013_j0367-1_2310.jpg]
+Leitplatte |
+10 | Zeichen 627
+[Bild: bgbl1_2013_j0367-1_2320.jpg]
+Leitmal | Leitmale kennzeichnen in der Regel den Verkehr einschränkende Gegenstände. Ihre Ausführung richtet sich nach der senkrechten, waagerechten oder gewölbten Anbringung beispielsweise an Bauwerken, Bauteilen und Gerüsten.
+Abschnitt 3 Einrichtung zur Kennzeichnung des Straßenverlaufs
+11 | Zeichen 620
+[Bild: bgbl1_2013_j0367-1_2330.jpg]       [Bild: bgbl1_2013_j0367-1_2340.jpg]
+ Leitpfosten
+ (links)     (rechts) | Um den Verlauf der Straße kenntlich zu machen, können an den Straßenseiten Leitpfosten in der Regel im Abstand von 50 m und in Kurven verdichtet stehen.
+Abschnitt 4 Warntafel zur Kennzeichnung von Fahrzeugen und Anhängern bei Dunkelheit
+12 | Zeichen 630
+[Bild: bgbl1_2013_j0367-1_2350.jpg]
+ Parkwarntafel |

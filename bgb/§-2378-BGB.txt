@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 2378 — Nachlassverbindlichkeiten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE232602377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2378.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Käufer ist dem Verkäufer gegenüber verpflichtet, die Nachlassverbindlichkeiten zu erfüllen, soweit nicht der Verkäufer nach § 2376 dafür haftet, dass sie nicht bestehen.
+(2) Hat der Verkäufer vor dem Verkauf eine Nachlassverbindlichkeit erfüllt, so kann er von dem Käufer Ersatz verlangen.

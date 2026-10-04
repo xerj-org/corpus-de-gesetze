@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 2190 — Ersatzvermächtnisnehmer
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE214402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2190.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Hat der Erblasser für den Fall, dass der zunächst Bedachte das Vermächtnis nicht erwirbt, den Gegenstand des Vermächtnisses einem anderen zugewendet, so finden die für die Einsetzung eines Ersatzerben geltenden Vorschriften der §§ 2097 bis 2099 entsprechende Anwendung.

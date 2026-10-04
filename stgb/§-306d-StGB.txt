@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 306d — Fahrlässige Brandstiftung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE063301307
+Normseite: https://www.gesetze-im-internet.de/stgb/__306d.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer in den Fällen des § 306 Abs. 1 oder des § 306a Abs. 1 fahrlässig handelt oder in den Fällen des § 306a Abs. 2 die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(2) Wer in den Fällen des § 306a Abs. 2 fahrlässig handelt und die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.

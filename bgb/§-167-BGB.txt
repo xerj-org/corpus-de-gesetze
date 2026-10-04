@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 167 — Erteilung der Vollmacht
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE015902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__167.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Erteilung der Vollmacht erfolgt durch Erklärung gegenüber dem zu Bevollmächtigenden oder dem Dritten, dem gegenüber die Vertretung stattfinden soll.
+(2) Die Erklärung bedarf nicht der Form, welche für das Rechtsgeschäft bestimmt ist, auf das sich die Vollmacht bezieht.

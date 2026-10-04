@@ -1,0 +1,10 @@
+Strafgesetzbuch (StGB) — § 306e — Tätige Reue
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE063401307
+Normseite: https://www.gesetze-im-internet.de/stgb/__306e.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Das Gericht kann in den Fällen der §§ 306, 306a und 306b die Strafe nach seinem Ermessen mildern (§ 49 Abs. 2) oder von Strafe nach diesen Vorschriften absehen, wenn der Täter freiwillig den Brand löscht, bevor ein erheblicher Schaden entsteht.
+(2) Nach § 306d wird nicht bestraft, wer freiwillig den Brand löscht, bevor ein erheblicher Schaden entsteht.
+(3) Wird der Brand ohne Zutun des Täters gelöscht, bevor ein erheblicher Schaden entstanden ist, so genügt sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.

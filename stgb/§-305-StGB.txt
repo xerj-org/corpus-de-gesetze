@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 305 — Zerstörung von Bauwerken
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE050702307
+Normseite: https://www.gesetze-im-internet.de/stgb/__305.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer rechtswidrig ein Gebäude, ein Schiff, eine Brücke, einen Damm, eine gebaute Straße, eine Eisenbahn oder ein anderes Bauwerk, welche fremdes Eigentum sind, ganz oder teilweise zerstört, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(2) Der Versuch ist strafbar.

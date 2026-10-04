@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1140 — Hypothekenbrief und Unrichtigkeit des Grundbuchs
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE117702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1140.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Soweit die Unrichtigkeit des Grundbuchs aus dem Hypothekenbrief oder einem Vermerk auf dem Brief hervorgeht, ist die Berufung auf die Vorschriften der §§ 892, 893 ausgeschlossen. Ein Widerspruch gegen die Richtigkeit des Grundbuchs, der aus dem Briefe oder einem Vermerk auf dem Briefe hervorgeht, steht einem im Grundbuch eingetragenen Widerspruch gleich.

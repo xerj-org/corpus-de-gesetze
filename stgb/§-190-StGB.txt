@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 190 — Wahrheitsbeweis durch Strafurteil
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE036202307
+Normseite: https://www.gesetze-im-internet.de/stgb/__190.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ist die behauptete oder verbreitete Tatsache eine Straftat, so ist der Beweis der Wahrheit als erbracht anzusehen, wenn der Beleidigte wegen dieser Tat rechtskräftig verurteilt worden ist. Der Beweis der Wahrheit ist dagegen ausgeschlossen, wenn der Beleidigte vor der Behauptung oder Verbreitung rechtskräftig freigesprochen worden ist.

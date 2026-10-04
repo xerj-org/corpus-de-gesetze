@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 562a — Erlöschen des Vermieterpfandrechts
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE246801377
+Normseite: https://www.gesetze-im-internet.de/bgb/__562a.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Das Pfandrecht des Vermieters erlischt mit der Entfernung der Sachen von dem Grundstück, außer wenn diese ohne Wissen oder unter Widerspruch des Vermieters erfolgt. Der Vermieter kann nicht widersprechen, wenn sie den gewöhnlichen Lebensverhältnissen entspricht oder wenn die zurückbleibenden Sachen zur Sicherung des Vermieters offenbar ausreichen.

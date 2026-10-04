@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 144 — Bestätigung des anfechtbaren Rechtsgeschäfts
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE013602377
+Normseite: https://www.gesetze-im-internet.de/bgb/__144.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Anfechtung ist ausgeschlossen, wenn das anfechtbare Rechtsgeschäft von dem Anfechtungsberechtigten bestätigt wird.
+(2) Die Bestätigung bedarf nicht der für das Rechtsgeschäft bestimmten Form.

@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 274 — Wirkungen des Zurückbehaltungsrechts
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE026702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__274.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Gegenüber der Klage des Gläubigers hat die Geltendmachung des Zurückbehaltungsrechts nur die Wirkung, dass der Schuldner zur Leistung gegen Empfang der ihm gebührenden Leistung (Erfüllung Zug um Zug) zu verurteilen ist.
+(2) Auf Grund einer solchen Verurteilung kann der Gläubiger seinen Anspruch ohne Bewirkung der ihm obliegenden Leistung im Wege der Zwangsvollstreckung verfolgen, wenn der Schuldner im Verzug der Annahme ist.

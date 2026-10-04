@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 352 — Aufrechnung nach Nichterfüllung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE035002377
+Normseite: https://www.gesetze-im-internet.de/bgb/__352.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Rücktritt wegen Nichterfüllung einer Verbindlichkeit wird unwirksam, wenn der Schuldner sich von der Verbindlichkeit durch Aufrechnung befreien konnte und unverzüglich nach dem Rücktritt die Aufrechnung erklärt.

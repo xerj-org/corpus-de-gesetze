@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 740 — Fehlende Vermögensfähigkeit; anwendbare Vorschriften
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE076803360
+Normseite: https://www.gesetze-im-internet.de/bgb/__740.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Eine nicht rechtsfähige Gesellschaft hat kein Vermögen.
+(2) Auf das Rechtsverhältnis der Gesellschafter untereinander sind die §§ 708, 709, 710, 711, 711a, 712, die §§ 714, 715, 715a, 716, 717 Absatz 1 sowie § 718 entsprechend anzuwenden.

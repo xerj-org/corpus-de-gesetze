@@ -1,0 +1,13 @@
+Strafgesetzbuch (StGB) — § 211 — Mord
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE038302307
+Normseite: https://www.gesetze-im-internet.de/stgb/__211.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Mörder wird mit lebenslanger Freiheitsstrafe bestraft.
+(2) Mörder ist, wer 
+aus Mordlust, zur Befriedigung des Geschlechtstriebs, aus Habgier oder sonst aus niedrigen Beweggründen, 
+heimtückisch oder grausam oder mit gemeingefährlichen Mitteln oder 
+um eine andere Straftat zu ermöglichen oder zu verdecken, 
+einen Menschen tötet.

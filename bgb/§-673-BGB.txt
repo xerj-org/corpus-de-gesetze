@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 673 — Tod des Beauftragten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE070002377
+Normseite: https://www.gesetze-im-internet.de/bgb/__673.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Auftrag erlischt im Zweifel durch den Tod des Beauftragten. Erlischt der Auftrag, so hat der Erbe des Beauftragten den Tod dem Auftraggeber unverzüglich anzuzeigen und, wenn mit dem Aufschub Gefahr verbunden ist, die Besorgung des übertragenen Geschäfts fortzusetzen, bis der Auftraggeber anderweit Fürsorge treffen kann; der Auftrag gilt insoweit als fortbestehend.

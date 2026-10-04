@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1198 — Zulässige Umwandlungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE123702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1198.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Eine Hypothek kann in eine Grundschuld, eine Grundschuld kann in eine Hypothek umgewandelt werden. Die Zustimmung der im Range gleich- oder nachstehenden Berechtigten ist nicht erforderlich.

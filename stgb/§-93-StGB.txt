@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 93 — Begriff des Staatsgeheimnisses
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE021902307
+Normseite: https://www.gesetze-im-internet.de/stgb/__93.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Staatsgeheimnisse sind Tatsachen, Gegenstände oder Erkenntnisse, die nur einem begrenzten Personenkreis zugänglich sind und vor einer fremden Macht geheimgehalten werden müssen, um die Gefahr eines schweren Nachteils für die äußere Sicherheit der Bundesrepublik Deutschland abzuwenden.
+(2) Tatsachen, die gegen die freiheitliche demokratische Grundordnung oder unter Geheimhaltung gegenüber den Vertragspartnern der Bundesrepublik Deutschland gegen zwischenstaatlich vereinbarte Rüstungsbeschränkungen verstoßen, sind keine Staatsgeheimnisse.

@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 2381 — Ersatz von Verwendungen und Aufwendungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE232902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2381.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Käufer hat dem Verkäufer die notwendigen Verwendungen zu ersetzen, die der Verkäufer vor dem Verkauf auf die Erbschaft gemacht hat.
+(2) Für andere vor dem Verkauf gemachte Aufwendungen hat der Käufer insoweit Ersatz zu leisten, als durch sie der Wert der Erbschaft zur Zeit des Verkaufs erhöht ist.

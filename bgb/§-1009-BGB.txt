@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1009 — Belastung zugunsten eines Miteigentümers
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE104102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1009.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die gemeinschaftliche Sache kann auch zugunsten eines Miteigentümers belastet werden.
+(2) Die Belastung eines gemeinschaftlichen Grundstücks zugunsten des jeweiligen Eigentümers eines anderen Grundstücks sowie die Belastung eines anderen Grundstücks zugunsten der jeweiligen Eigentümer des gemeinschaftlichen Grundstücks wird nicht dadurch ausgeschlossen, dass das andere Grundstück einem Miteigentümer des gemeinschaftlichen Grundstücks gehört.

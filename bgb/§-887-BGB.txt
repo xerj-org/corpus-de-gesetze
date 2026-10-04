@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 887 — Aufgebot des Vormerkungsgläubigers
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE091603140
+Normseite: https://www.gesetze-im-internet.de/bgb/__887.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ist der Gläubiger, dessen Anspruch durch die Vormerkung gesichert ist, unbekannt, so kann er im Wege des Aufgebotsverfahrens mit seinem Recht ausgeschlossen werden, wenn die im § 1170 für die Ausschließung eines Hypothekengläubigers bestimmten Voraussetzungen vorliegen. Mit der Rechtskraft des Ausschließungsbeschlusses erlischt die Wirkung der Vormerkung.

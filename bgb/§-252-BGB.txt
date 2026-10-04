@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 252 — Entgangener Gewinn
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE024502377
+Normseite: https://www.gesetze-im-internet.de/bgb/__252.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der zu ersetzende Schaden umfasst auch den entgangenen Gewinn. Als entgangen gilt der Gewinn, welcher nach dem gewöhnlichen Lauf der Dinge oder nach den besonderen Umständen, insbesondere nach den getroffenen Anstalten und Vorkehrungen, mit Wahrscheinlichkeit erwartet werden konnte.

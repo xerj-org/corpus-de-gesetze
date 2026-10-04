@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 408 — Mehrfache Abtretung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE040102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__408.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wird eine abgetretene Forderung von dem bisherigen Gläubiger nochmals an einen Dritten abgetreten, so findet, wenn der Schuldner an den Dritten leistet oder wenn zwischen dem Schuldner und dem Dritten ein Rechtsgeschäft vorgenommen oder ein Rechtsstreit anhängig wird, zugunsten des Schuldners die Vorschrift des § 407 dem früheren Erwerber gegenüber entsprechende Anwendung.
+(2) Das Gleiche gilt, wenn die bereits abgetretene Forderung durch gerichtlichen Beschluss einem Dritten überwiesen wird oder wenn der bisherige Gläubiger dem Dritten gegenüber anerkennt, dass die bereits abgetretene Forderung kraft Gesetzes auf den Dritten übergegangen sei.

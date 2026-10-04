@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 406 — Aufrechnung gegenüber dem neuen Gläubiger
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE039902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__406.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Schuldner kann eine ihm gegen den bisherigen Gläubiger zustehende Forderung auch dem neuen Gläubiger gegenüber aufrechnen, es sei denn, dass er bei dem Erwerb der Forderung von der Abtretung Kenntnis hatte oder dass die Forderung erst nach der Erlangung der Kenntnis und später als die abgetretene Forderung fällig geworden ist.

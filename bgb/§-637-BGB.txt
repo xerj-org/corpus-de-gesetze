@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 637 — Selbstvornahme
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE065302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__637.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Besteller kann wegen eines Mangels des Werkes nach erfolglosem Ablauf einer von ihm zur Nacherfüllung bestimmten angemessenen Frist den Mangel selbst beseitigen und Ersatz der erforderlichen Aufwendungen verlangen, wenn nicht der Unternehmer die Nacherfüllung zu Recht verweigert.
+(2) § 323 Abs. 2 findet entsprechende Anwendung. Der Bestimmung einer Frist bedarf es auch dann nicht, wenn die Nacherfüllung fehlgeschlagen oder dem Besteller unzumutbar ist.
+(3) Der Besteller kann von dem Unternehmer für die zur Beseitigung des Mangels erforderlichen Aufwendungen Vorschuss verlangen.

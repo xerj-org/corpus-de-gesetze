@@ -1,0 +1,445 @@
+Straßenverkehrs-Ordnung (StVO) — Anlage 2 — (zu § 41 Absatz 1)
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-05-27
+Dokumentnummer: BJNR036710013BJNE005804123
+Normseite: https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html
+Quell-Zip: https://www.gesetze-im-internet.de/stvo_2013/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(Fundstelle: BGBl. I 2013, 394 - 410;
+bzgl. der einzelnen Änderungen vgl. Fußnoten)
+1 | 2 | 3
+lfd. Nr. | Zeichen und Zusatzzeichen | Ge- oder Verbote
+ Erläuterungen
+Abschnitt 1 Wartegebote und Haltgebote
+1 | Zeichen 201
+[Bild: bgbl1_2013_j0367-1_0510.jpg]
+ Andreaskreuz | Ge- oder Verbot1. Wer ein Fahrzeug führt, muss dem Schienenverkehr Vorrang gewähren. 2. Wer ein Fahrzeug führt, darf bis zu 10 m vor diesem Zeichen nicht halten, wenn es dadurch verdeckt wird. 3. Wer ein Fahrzeug führt, darf vor und hinter diesem Zeichen a) innerhalb geschlossener Ortschaften (Zeichen 310 und 311) bis zu je 5 m, b) außerhalb geschlossener Ortschaften bis zu je 50 m nicht parken. 4. Ein Zusatzzeichen mit schwarzem Pfeil zeigt an, dass das Andreaskreuz nur für den Straßenverkehr in Richtung dieses Pfeils gilt. Erläuterung
+ Das Zeichen (auch liegend) befindet sich vor dem Bahnübergang, in der Regel unmittelbar davor. Ein Blitzpfeil in der Mitte des Andreaskreuzes zeigt an, dass die Bahnstrecke eine Spannung führende Fahrleitung hat.
+2 | Zeichen 205
+[Bild: bgbl1_2013_j0367-1_0520.jpg]
+ Vorfahrt gewähren. | Ge- oder Verbot1. Wer ein Fahrzeug führt, muss Vorfahrt gewähren. 2. Wer ein Fahrzeug führt, darf bis zu 10 m vor diesem Zeichen nicht halten, wenn es dadurch verdeckt wird. Erläuterung
+ Das Zeichen steht unmittelbar vor der Kreuzung oder Einmündung. Es kann durch dasselbe Zeichen mit Zusatzzeichen, das die Entfernung angibt, angekündigt sein.
+2.1 | [Bild: bgbl1_2013_j0367-1_0530.jpg] | Ge- oder Verbot
+ Ist das Zusatzzeichen zusammen mit dem Zeichen 205 angeordnet, bedeutet es:
+ Wer ein Fahrzeug führt, muss Vorfahrt gewähren und dabei auf Radverkehr und Elektrokleinstfahrzeuge im Sinne der eKFV von links und rechts achten.
+Erläuterung
+ Das Zusatzzeichen steht über dem Zeichen 205.
+2.2 | [Bild: bgbl1_2013_j0367-1_0540.jpg] | Ge- oder Verbot
+ Ist das Zusatzzeichen zusammen mit dem Zeichen 205 angeordnet, bedeutet es:
+ Wer ein Fahrzeug führt, muss der Straßenbahn Vorfahrt gewähren.
+Erläuterung
+ Das Zusatzzeichen steht über dem Zeichen 205.
+3 | Zeichen 206
+[Bild: bgbl1_2013_j0367-1_0550.jpg]
+ Halt. Vorfahrt gewähren. | Ge- oder Verbot1. Wer ein Fahrzeug führt, muss anhalten und Vorfahrt gewähren. 2. Wer ein Fahrzeug führt, darf bis zu 10 m vor diesem Zeichen nicht halten, wenn es dadurch verdeckt wird. 3. Ist keine Haltlinie (Zeichen 294) vorhanden, ist dort anzuhalten, wo die andere Straße zu übersehen ist.
+3.1 | [Bild: bgbl1_2013_j0367-1_0560.jpg] | Erläuterung
+ Das Zusatzzeichen kündigt zusammen mit dem Zeichen 205 das Haltgebot in der angegebenen Entfernung an.
+3.2 | [Bild: bgbl1_2013_j0367-1_0570.jpg] | Ge- oder Verbot
+ Ist das Zusatzzeichen zusammen mit dem Zeichen 206 angeordnet, bedeutet es:
+ Wer ein Fahrzeug führt, muss anhalten und Vorfahrt gewähren und dabei auf Radverkehr und Elektrokleinstfahrzeuge im Sinne der eKFV von links und rechts achten.
+Erläuterung
+ Das Zusatzzeichen steht über dem Zeichen 206.
+Zu 2
+ und 3 | [Bild: bgbl1_2013_j0367-1_0580.jpg] | Erläuterung
+ Das Zusatzzeichen gibt zusammen mit den Zeichen 205 oder 206 den Verlauf der Vorfahrtstraße (abknickende Vorfahrt) bekannt.
+4 | Zeichen 208
+[Bild: bgbl1_2013_j0367-1_0590.jpg]
+ Vorrang des
+ Gegenverkehrs | Ge- oder Verbot
+ Wer ein Fahrzeug führt, hat dem Gegenverkehr Vorrang zu gewähren.
+Abschnitt 2 Vorgeschriebene Fahrtrichtungen
+zu 5
+ bis 7 |  | Ge- oder Verbot
+ Wer ein Fahrzeug führt, muss der vorgeschriebenen Fahrtrichtung folgen.
+Erläuterung
+ Andere als die dargestellten Fahrtrichtungen werden entsprechend vorgeschrieben. Auf Anlage 2 laufende Nummer 70 wird hingewiesen.
+5 | Zeichen 209
+[Bild: bgbl1_2013_j0367-1_0600.jpg]
+ Rechts |
+6 | Zeichen 211
+[Bild: bgbl1_2013_j0367-1_0610.jpg]
+ Hier rechts |
+7 | Zeichen 214
+[Bild: bgbl1_2013_j0367-1_0620.jpg]
+ Geradeaus oder rechts |
+8 | Zeichen 215
+[Bild: bgbl1_2013_j0367-1_0630.jpg]
+ Kreisverkehr | Ge- oder Verbot1. Wer ein Fahrzeug führt, muss der vorgeschriebenen Fahrtrichtung im Kreisverkehr rechts folgen. 2. Wer ein Fahrzeug führt, darf die Mittelinsel des Kreisverkehrs nicht überfahren. Ausgenommen von diesem Verbot sind nur Fahrzeuge, denen wegen ihrer Abmessungen das Befahren sonst nicht möglich wäre. Mit ihnen darf die Mittelinsel und Fahrbahnbegrenzung überfahren werden, wenn eine Gefährdung anderer am Verkehr Teilnehmenden ausgeschlossen ist. 3. Es darf innerhalb des Kreisverkehrs auf der Fahrbahn nicht gehalten werden.
+9 | Zeichen 220
+[Bild: bgbl1_2013_j0367-1_0640.jpg]
+ Einbahnstraße | Ge- oder Verbot
+ Wer ein Fahrzeug führt, darf die Einbahnstraße nur in Richtung des Pfeils befahren.
+Erläuterung
+ Das Zeichen schreibt für den Fahrzeugverkehr auf der Fahrbahn die Fahrtrichtung vor.
+9.1 | [Bild: bgbl1_2013_j0367-1_0650.jpg] | Ge- oder Verbot
+ Ist Zeichen 220 mit diesem Zusatzzeichen angeordnet, bedeutet dies:
+ Wer ein Fahrzeug führt, muss beim Einbiegen und im Verlauf einer Einbahnstraße auf Radverkehr und Elektrokleinstfahrzeuge im Sinne der eKFV entgegen der Fahrtrichtung achten.
+Erläuterung
+ Das Zusatzzeichen zeigt an, dass Radverkehr in der Gegenrichtung zugelassen ist. Beim Vorbeifahren an einer für den gegenläufigen Radverkehr freigegebenen Einbahnstraße bleibt gegenüber dem ausfahrenden Radfahrer der Grundsatz, dass Vorfahrt hat, wer von rechts kommt (§ 8 Absatz 1 Satz 1) unberührt. Dies gilt auch für den ausfahrenden Radverkehr. Mündet eine Einbahnstraße für den gegenläufig zugelassenen Radverkehr in eine Vorfahrtstraße, steht für den aus der Einbahnstraße ausfahrenden Radverkehr das Zeichen 205.
+Abschnitt 3 Vorgeschriebene Vorbeifahrt
+10 | Zeichen 222
+[Bild: bgbl1_2013_j0367-1_0660.jpg]
+ Rechts vorbei | Ge- oder Verbot
+ Wer ein Fahrzeug führt, muss der vorgeschriebenen Vorbeifahrt folgen.
+Erläuterung
+ „Links vorbei“ wird entsprechend vorgeschrieben.
+Abschnitt 4 Seitenstreifen als Fahrstreifen, Haltestellen und Taxenstände
+Zu 11
+ bis 13 |  | Erläuterung
+ Wird das Zeichen 223.1, 223.2 oder 223.3 für eine Fahrbahn mit mehr als zwei Fahrstreifen angeordnet, zeigen die Zeichen die entsprechende Anzahl der Pfeile.
+11 | Zeichen 223.1
+[Bild: bgbl1_2013_j0367-1_0670.jpg]
+ Seitenstreifen befahren | Ge- oder Verbot
+ Das Zeichen gibt den Seitenstreifen als Fahrstreifen frei; dieser ist wie ein rechter Fahrstreifen zu befahren.
+11.1 | [Bild: bgbl1_2013_j0367-1_0680.jpg] | Erläuterung
+ Das Zeichen 223.1 mit dem Zusatzzeichen kündigt die Aufhebung der Anordnung an.
+12 | Zeichen 223.2
+[Bild: bgbl1_2013_j0367-1_0690.jpg]
+ Seitenstreifen nicht mehr befahren | Ge- oder Verbot
+ Das Zeichen hebt die Freigabe des Seitenstreifens als Fahrstreifen auf.
+13 | Zeichen 223.3
+[Bild: bgbl1_2013_j0367-1_0700.jpg]
+ Seitenstreifen räumen | Ge- oder Verbot
+ Das Zeichen ordnet die Räumung des Seitenstreifens an.
+14 | Zeichen 224
+[Bild: bgbl1_2013_j0367-1_0710.jpg]
+ Haltestelle | Ge- oder Verbot
+ Wer ein Fahrzeug führt, darf bis zu 15 m vor und hinter dem Zeichen nicht parken.
+Erläuterung
+ Das Zeichen kennzeichnet eine Haltestelle des Linienverkehrs und für Schulbusse. Das Zeichen mit dem Zusatzzeichen „Schulbus“ (Angabe der tageszeitlichen Benutzung) auf einer gemeinsamen weißen Trägerfläche kennzeichnet eine Haltestelle nur für Schulbusse.
+15 | Zeichen 229
+[Bild: bgbl1_2013_j0367-1_0720.jpg]
+ Taxenstand | Ge- oder Verbot
+ Wer ein Fahrzeug führt, darf an Taxenständen nicht halten, ausgenommen sind für die Fahrgastbeförderung bereitgehaltene Taxen.
+Erläuterung
+ Die Länge des Taxenstandes wird durch die Angabe der Zahl der vorgesehenen Taxen oder das am Anfang der Strecke aufgestellte Zeichen mit einem zur Fahrbahn weisenden waagerechten weißen Pfeil und durch ein am Ende aufgestelltes Zeichen mit einem solchen von der Fahrbahn wegweisenden Pfeil oder durch eine Grenzmarkierung für Halt- und Parkverbote (Zeichen 299) gekennzeichnet.
+15.1 | Zeichen 230
+[Bild: bgbl1_2024_j02990_0010.jpg]
+ Ladebereich | Ge- oder Verbot
+1. Das Halten und Parken ist nur zum Be- und Entladen von Fahrzeugen zulässig. 2. Das Be- und Entladen muss ohne Verzögerung durchgeführt werden. 
+Erläuterung
+Die Länge des Ladebereichs wird durch das am Anfang der Strecke aufgestellte Zeichen mit einem zur Fahrbahn weisenden waagerechten weißen Pfeil und durch ein am Ende aufgestelltes Zeichen mit einem solchen von der Fahrbahn wegweisenden Pfeil oder durch Markierung gekennzeichnet.
+Abschnitt 5 Sonderwege
+16 | Zeichen 237
+[Bild: bgbl1_2013_j0367-1_0730.jpg]
+ Radweg | Ge- oder Verbot1. Der Radverkehr darf nicht die Fahrbahn, sondern muss den Radweg benutzen (Radwegbenutzungspflicht). 2. Anderer Verkehr darf ihn nicht benutzen. 3. Ist durch Zusatzzeichen die Benutzung eines Radwegs für eine andere Verkehrsart erlaubt, muss diese auf den Radverkehr Rücksicht nehmen und der andere Fahrzeugverkehr muss erforderlichenfalls die Geschwindigkeit an den Radverkehr anpassen. 4. § 2 Absatz 4 Satz 6 bleibt unberührt.
+17 | Zeichen 238
+[Bild: bgbl1_2013_j0367-1_0740.jpg]
+ Reitweg | Ge- oder Verbot1. Wer reitet, darf nicht die Fahrbahn, sondern muss den Reitweg benutzen. Dies gilt auch für das Führen von Pferden (Reitwegbenutzungspflicht). 2. Anderer Verkehr darf ihn nicht benutzen. 3. Ist durch Zusatzzeichen die Benutzung eines Reitwegs für eine andere Verkehrsart erlaubt, muss diese auf den Reitverkehr Rücksicht nehmen und der Fahrzeugverkehr muss erforderlichenfalls die Geschwindigkeit an den Reitverkehr anpassen.
+18 | Zeichen 239
+[Bild: bgbl1_2013_j0367-1_0750.jpg]
+ Gehweg | Ge- oder Verbot1. Anderer als Fußgängerverkehr darf den Gehweg nicht nutzen. 2. Ist durch Zusatzzeichen die Benutzung eines Gehwegs für eine andere Verkehrsart erlaubt, muss diese auf den Fußgängerverkehr Rücksicht nehmen. Der Fußgängerverkehr darf weder gefährdet noch behindert werden. Wenn nötig, muss der Fahrverkehr warten; er darf nur mit Schrittgeschwindigkeit fahren. Erläuterung
+ Das Zeichen kennzeichnet einen Gehweg (§ 25 Absatz 1 Satz 1), wo eine Klarstellung notwendig ist.
+19 | Zeichen 240
+[Bild: bgbl1_2013_j0367-1_0760.jpg]
+ Gemeinsamer Geh- und Radweg | Ge- oder Verbot1. Der Radverkehr darf nicht die Fahrbahn, sondern muss den gemeinsamen Geh- und Radweg benutzen (Radwegbenutzungspflicht). Dabei ist auf den Fußverkehr Rücksicht zu nehmen. Der Fußverkehr darf weder gefährdet noch behindert werden. Erforderlichenfalls ist die Geschwindigkeit an den Fußverkehr anzupassen. 2. Anderer Verkehr darf ihn nicht benutzen. 3. Ist durch Zusatzzeichen die Benutzung eines gemeinsamen Geh- und Radwegs für eine andere Verkehrsart erlaubt, muss diese auf den Fußgänger- und Radverkehr Rücksicht nehmen. Erforderlichenfalls muss der Fahrverkehr die Geschwindigkeit an den Fußgängerverkehr anpassen. 4. § 2 Absatz 4 Satz 6 bleibt unberührt. Erläuterung
+ Das Zeichen kennzeichnet auch den Gehweg (§ 25 Absatz 1 Satz 1).
+20 | Zeichen 241
+[Bild: bgbl1_2013_j0367-1_0770.jpg]
+ Getrennter Rad- und Gehweg | Ge- oder Verbot1. Der Radverkehr darf nicht die Fahrbahn, sondern muss den Radweg des getrennten Rad- und Gehwegs benutzen (Radwegbenutzungspflicht). 2. Anderer Verkehr darf ihn nicht benutzen. 3. Ist durch Zusatzzeichen die Benutzung eines getrennten Geh- und Radwegs für eine andere Verkehrsart erlaubt, darf diese nur den für den Radverkehr bestimmten Teil des getrennten Geh- und Radwegs befahren. 4. Die andere Verkehrsart muss auf den Radverkehr Rücksicht nehmen. Erforderlichenfalls muss anderer Fahrzeugverkehr die Geschwindigkeit an den Radverkehr anpassen. 5. § 2 Absatz 4 Satz 6 bleibt unberührt. Erläuterung
+ Das Zeichen kennzeichnet auch den Gehweg (§ 25 Absatz 1 Satz 1).
+21 | Zeichen 242.1
+[Bild: bgbl1_2013_j0367-1_0780.jpg]
+ Beginn einer Fußgängerzone | Ge- oder Verbot1. Anderer als Fußgängerverkehr darf die Fußgängerzone nicht benutzen. 2. Ist durch Zusatzzeichen die Benutzung einer Fußgängerzone für eine andere Verkehrsart erlaubt, dann gilt für den Fahrverkehr Nummer 2 zu Zeichen 239 entsprechend.
+22 | Zeichen 242.2
+[Bild: bgbl1_2013_j0367-1_0790.jpg]
+ Ende einer Fußgängerzone |
+23 | Zeichen 244.1
+[Bild: bgbl1_2013_j0367-1_0800.jpg]
+ Beginn einer Fahrradstraße | Ge- oder Verbot1. Anderer Fahrzeugverkehr als Radverkehr sowie Elektrokleinstfahrzeuge im Sinne der eKFV darf Fahrradstraßen nicht benutzen, es sei denn, dies ist durch Zusatzzeichen erlaubt. Die freigegebenen Verkehrsarten können auch gemeinsam auf einem Zusatzzeichen abgebildet sein. Das Überqueren einer Fahrradstraße durch anderen Fahrzeugverkehr an einer Kreuzung zum Erreichen der weiterführenden Straße ist gestattet. 2. Für den Fahrverkehr gilt eine Höchstgeschwindigkeit von 30 km/h. Der Radverkehr darf weder gefährdet noch behindert werden. Wenn nötig, muss der Kraftfahrzeugverkehr die Geschwindigkeit weiter verringern. 3. Das Nebeneinanderfahren mit Fahrrädern ist erlaubt. 4. Im Übrigen gelten die Vorschriften über die Fahrbahnbenutzung und über die Vorfahrt.
+24 | Zeichen 244.2
+[Bild: bgbl1_2013_j0367-1_0810.jpg]
+ Ende einer Fahrradstraße |
+24.1 | Zeichen 244.3
+[Bild: bgbl1_2020_j0814-1_0080.jpg]
+Beginn einer Fahrradzone | Ge- oder Verbot1. Anderer Fahrzeugverkehr als Radverkehr sowie Elektrokleinstfahrzeuge im Sinne der eKFV darf Fahrradzonen nicht benutzen, es sei denn, dies ist durch Zusatzzeichen erlaubt. Die freigegebenen Verkehrsarten können auch gemeinsam auf einem Zusatzzeichen abgebildet sein. 2. Für den Fahrverkehr gilt eine Höchstgeschwindigkeit von 30 km/h. Der Radverkehr darf weder gefährdet noch behindert werden. Wenn nötig, muss der Kraftfahrzeugverkehr die Geschwindigkeit weiter verringern. 3. Das Nebeneinanderfahren mit Fahrrädern und Elektrokleinstfahrzeugen im Sinne der eKFV ist erlaubt. 4. Im Übrigen gelten die Vorschriften über die Fahrbahnbenutzung und über die Vorfahrt.
+24.2 | Zeichen 244.4
+[Bild: bgbl1_2020_j0814-1_0090.jpg]
+Ende einer Fahrradzone |
+25 | Zeichen 245
+[Bild: bgbl1_2013_j0367-1_0820.jpg]
+ Bussonderfahrstreifen | Ge- oder Verbot1. Anderer Fahrverkehr als Omnibusse des Linienverkehrs sowie nach dem Personenbeförderungsrecht mit dem Schulbus-Schild zu kennzeichnende Fahrzeuge des Schüler- und Behindertenverkehrs dürfen Bussonderfahrstreifen nicht benutzen. 2. Mit Krankenfahrzeugen, Taxen, Fahrrädern und Bussen im Gelegenheitsverkehr darf der Sonderfahrstreifen nur benutzt werden, wenn dies durch Zusatzzeichen angezeigt ist. 3. Taxen dürfen an Bushaltestellen (Zeichen 224) zum sofortigen Ein- und Aussteigen von Fahrgästen halten. 4. Mit elektrisch betriebenen Fahrzeugen darf der Bussonderfahrstreifen nur benutzt werden, wenn dies durch Zusatzzeichen angezeigt ist. 5. Zur Erprobung unterschiedlicher Mobilitätsformen (§ 45 Absatz 9 Satz 4 Nummer 7a) darf der Bussonderfahrstreifen nur benutzt werden, wenn dies durch Zusatzzeichen, welches die besondere Mobilitätsform näher bezeichnet, angezeigt ist.
+25.1 | [Bild: bgbl1_2015_j1573-1_0030.jpg] | Ge- oder Verbot
+Mit diesem Zusatzzeichen sind elektrisch betriebene Fahrzeuge auf dem Bussonderfahrstreifen zugelassen.
+Abschnitt 6 Verkehrsverbote
+26 |  | Ge- oder Verbot
+ Die nachfolgenden Zeichen 250 bis 261 (Verkehrsverbote) untersagen die Verkehrsteilnahme ganz oder teilweise mit dem angegebenen Inhalt.
+ |  | Erläuterung
+ Für die Zeichen 250 bis 259 gilt: 1. Durch Verkehrszeichen gleicher Art mit Sinnbildern nach § 39 Absatz 7 können andere Verkehrsarten verboten werden. 2. Zwei der nachstehenden Verbote können auf einem Schild vereinigt sein.
+27 | [Bild: bgbl1_2013_j0367-1_0830.jpg] | Ge- oder Verbot
+ Ist auf einem Zusatzzeichen eine Masse, wie „7,5 t“, angegeben, gilt das Verbot nur, soweit die zulässige Gesamtmasse dieser Verkehrsmittel einschließlich ihrer Anhänger die angegebene Grenze überschreitet.
+27.1 | [Bild: bgbl1_2015_j1573-1_0040.jpg] | Ge- oder Verbot
+Mit diesem Zusatzzeichen sind elektrisch betriebene Fahrzeuge von Verkehrsverboten (Zeichen 250, 251, 253, 255, 260) ausgenommen.
+28 | Zeichen 250
+[Bild: bgbl1_2013_j0367-1_0840.jpg]
+ Verbot für Fahrzeuge aller Art | Ge- oder Verbot1. Verbot für Fahrzeuge aller Art. Das Zeichen gilt nicht für Handfahrzeuge, abweichend von § 28 Absatz 2 auch nicht für Reiter, Führer von Pferden sowie Treiber und Führer von Vieh. 2. Krafträder und Fahrräder dürfen geschoben werden. 3. Durch Zusatzzeichen können besondere Mobilitätsformen zu Erprobungszwecken (§ 45 Absatz 9 Satz 4 Nummer 7a) befristet bis zum 31. Dezember 2028 vom Verkehrsverbot ausgenommen werden.
+29 | Zeichen 251
+[Bild: bgbl1_2013_j0367-1_0850.jpg]
+ Verbot für Kraftwagen | Ge- oder Verbot
+ Verbot für Kraftwagen und sonstige mehrspurige Kraftfahrzeuge
+30 | Zeichen 253
+[Bild: bgbl1_2013_j0367-1_0860.jpg]
+ Verbot für Kraftfahrzeuge über 3,5 t | Ge- oder Verbot
+ Verbot für Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t, einschließlich ihrer Anhänger, und für Zugmaschinen. Ausgenommen sind Personenkraftwagen und Kraftomnibusse.
+Erläuterung
+ Das Zeichen kann in einer Überleitungstafel oder in einer Verschwenkungstafel oder in einer Fahrstreifentafel integriert sein. Dann bezieht sich das Verbot nur auf den jeweiligen Fahrstreifen, für den das Verbot angeordnet ist.
+30.1 | [Bild: bgbl1_2013_j0367-1_0870.jpg]
+[Bild: bgbl1_2013_j0367-1_0830.jpg] | Ge- oder Verbot
+ Wird Zeichen 253 mit diesen Zusatzzeichen angeordnet, bedeutet dies: 1. Das Verbot ist auf den Durchgangsverkehr mit Nutzfahrzeugen, einschließlich ihrer Anhänger, mit einer zulässigen Gesamtmasse ab 7,5 t beschränkt. 2. Durchgangsverkehr liegt nicht vor, soweit die jeweilige Fahrt a) dazu dient, ein Grundstück an der vom Verkehrsverbot betroffenen Straße oder an einer Straße, die durch die vom Verkehrsverbot betroffene Straße erschlossen wird, zu erreichen oder zu verlassen, b) dem Güterverkehr im Sinne des § 1 Absatz 1 des Güterkraftverkehrsgesetzes in einem Gebiet innerhalb eines Umkreise von 75 km, gerechnet in der Luftlinie vom Mittelpunkt des zu Beginn einer Fahrt ersten Beladeorts des jeweiligen Fahrzeugs (Ortsmittelpunkt), dient; dabei gehören alle Gemeinden, deren Ortsmittelpunkt innerhalb des Gebietes liegt, zu dem Gebiet, oder c) mit im Bundesfernstraßenmautgesetz bezeichneten Fahrzeugen, die nicht der Mautpflicht unterliegen, durchgeführt wird.
+ |  | 3. Ausgenommen von dem Verkehrsverbot ist eine Fahrt, die auf ausgewiesenen Umleitungsstrecken (Zeichen 421, 442, 454 bis 457.2 oder Zeichen 460 und 466) durchgeführt wird, um besonderen Verkehrslagen Rechnung zu tragen. Erläuterung
+ Diese Kombination ist nur mit Zeichen 253 zulässig.
+31 | Zeichen 254
+[Bild: bgbl1_2013_j0367-1_0890.jpg]
+ Verbot für Radverkehr | Ge- oder Verbot
+ Verbot für den Radverkehr und den Verkehr mit Elektrokleinstfahrzeugen im Sinne der eKFV
+32 | Zeichen 255
+[Bild: bgbl1_2013_j0367-1_0900.jpg]
+ Verbot für Krafträder | Ge- oder Verbot
+ Verbot für Krafträder, auch mit Beiwagen, Kleinkrafträder und Mofas
+33 | Zeichen 259
+[Bild: bgbl1_2013_j0367-1_0910.jpg]
+ Verbot für Fußgänger | Ge- oder Verbot
+ Verbot für den Fußgängerverkehr
+34 | Zeichen 260
+[Bild: bgbl1_2013_j0367-1_0920.jpg]
+ Verbot für Kraftfahrzeuge | Ge- oder Verbot
+ Verbot für Krafträder, auch mit Beiwagen, Kleinkrafträder und Mofas sowie für Kraftwagen und sonstige mehrspurige Kraftfahrzeuge
+35 | Zeichen 261
+[Bild: bgbl1_2013_j0367-1_0930.jpg]
+ Verbot für kennzeichnungspflichtige
+ Kraftfahrzeuge mit gefährlichen Gütern | Ge- oder Verbot
+ Verbot für kennzeichnungspflichtige Kraftfahrzeuge mit gefährlichen Gütern
+zu 36
+ bis 40 |  | Ge- oder Verbot
+ Die nachfolgenden Zeichen 262 bis 266 verbieten die Verkehrsteilnahme für Fahrzeuge, deren Maße oder Massen, einschließlich Ladung, eine auf dem jeweiligen Zeichen angegebene tatsächliche Grenze überschreiten.
+Erläuterung
+ Die angegebenen Grenzen stellen nur Beispiele dar.
+36 | Zeichen 262
+[Bild: bgbl1_2013_j0367-1_0940.jpg]
+ Tatsächliche Masse | Ge- oder Verbot
+ Die Beschränkung durch Zeichen 262 gilt bei Fahrzeugkombinationen für das einzelne Fahrzeug, bei Sattelkraftfahrzeugen gesondert für die Sattelzugmaschine einschließlich Sattellast und für die tatsächlich vorhandenen Achslasten des Sattelanhängers.
+Erläuterung
+ Das Zeichen kann in einer Überleitungstafel oder in einer Verschwenkungstafel oder in einer Fahrstreifentafel integriert sein. Dann bezieht sich das Verbot nur auf den jeweiligen Fahrstreifen, für den das Verbot angeordnet ist.
+37 | Zeichen 263
+[Bild: bgbl1_2013_j0367-1_0950.jpg]
+ Tatsächliche Achslast | Erläuterung
+ Das Zeichen kann in einer Überleitungstafel oder in einer Verschwenkungstafel oder in einer Fahrstreifentafel integriert sein. Dann bezieht sich das Verbot nur auf den jeweiligen Fahrstreifen, für den das Verbot angeordnet ist.
+38 | Zeichen 264
+[Bild: bgbl1_2013_j0367-1_0960.jpg]
+ Tatsächliche Breite | Erläuterung
+ Die tatsächliche Breite gibt das Maß einschließlich der Fahrzeugaußenspiegel an. Das Zeichen kann in einer Überleitungstafel oder in einer Verschwenkungstafel oder in einer Fahrstreifentafel integriert sein. Dann bezieht sich das Verbot nur auf den jeweiligen Fahrstreifen, für den das Verbot angeordnet ist.
+39 | Zeichen 265
+[Bild: bgbl1_2013_j0367-1_0970.jpg]
+ Tatsächliche Höhe | Erläuterung
+ Das Zeichen kann in einer Überleitungstafel oder in einer Verschwenkungstafel oder in einer Fahrstreifentafel integriert sein. Dann bezieht sich das Verbot nur auf den jeweiligen Fahrstreifen, für den das Verbot angeordnet ist.
+40 | Zeichen 266
+[Bild: bgbl1_2013_j0367-1_0980.jpg]
+ Tatsächliche Länge | Ge- oder Verbot
+ Das Verbot gilt bei Fahrzeugkombinationen für die Gesamtlänge.
+41 | Zeichen 267
+[Bild: bgbl1_2013_j0367-1_0990.jpg]
+ Verbot der Einfahrt | Ge- oder Verbot
+ Wer ein Fahrzeug führt, darf nicht in die Fahrbahn einfahren, für die das Zeichen angeordnet ist.
+Erläuterung
+ Das Zeichen steht auf der rechten Seite der Fahrbahn, für die es gilt, oder auf beiden Seiten dieser Fahrbahn.
+41.1 | [Bild: bgbl1_2013_j0367-1_1000.jpg] | Ge- oder Verbot
+ Durch das Zusatzzeichen zu dem Zeichen 267 ist die Einfahrt für den Radverkehr und Elektrokleinstfahrzeuge im Sinne der eKFV zugelassen.
+42 | Zeichen 268
+[Bild: bgbl1_2013_j0367-1_1010.jpg]
+ Schneeketten vorgeschrieben | Ge- oder Verbot
+ Wer ein Fahrzeug führt, darf die Straße nur mit Schneeketten befahren.
+43 | Zeichen 269
+[Bild: bgbl1_2013_j0367-1_1020.jpg]
+ Verbot für Fahrzeuge mit
+ wassergefährdender Ladung | Ge- oder Verbot
+ Wer ein Fahrzeug führt, darf die Straße mit mehr als 20 l wassergefährdender Ladung nicht benutzen.
+44 | Zeichen 270.1
+[Bild: bgbl1_2013_j0367-1_1030.jpg]
+ Beginn einer
+ Verkehrsverbotszone zur
+ Verminderung schädlicher
+ Luftverunreinigungen in einer Zone | Ge- oder Verbot1. Die Teilnahme am Verkehr mit einem Kraftfahrzeug innerhalb einer so gekennzeichneten Zone ist verboten. 2. § 1 Absatz 2 sowie § 2 Absatz 3 in Verbindung mit Anhang 3 der Verordnung zur Kennzeichnung der Kraftfahrzeuge mit geringem Beitrag zur Schadstoffbelastung vom 10. Oktober 2006 (BGBl. I S. 2218), die durch Artikel 1 der Verordnung vom 5. Dezember 2007 (BGBl. I S. 2793) geändert worden ist, bleiben unberührt. Die Ausnahmen können im Einzelfall oder allgemein durch Zusatzzeichen oder Allgemeinverfügung zugelassen sein. 3. Von dem Verbot der Verkehrsteilnahme sind zudem Kraftfahrzeuge zur Beförderung schwerbehinderter Menschen mit außergewöhnlicher Gehbehinderung, beidseitiger Amelie oder Phokomelie oder mit vergleichbaren Funktionseinschränkungen sowie blinde Menschen ausgenommen. Erläuterung
+ Die Umweltzone ist zur Vermeidung von schädlichen Umwelteinwirkungen durch Luftverunreinigungen in einem Luftreinhalteplan oder einem Plan für kurzfristig zu ergreifende Maßnahmen nach § 47 Absatz 1 oder 2 des Bundes-Immissionsschutzgesetzes festgesetzt und auf Grund des § 40 Absatz 1 des Bundes-Immissionsschutzgesetzes angeordnet. Die Kennzeichnung der Umweltzone erfolgt auf Grund von § 45 Absatz 1f.
+45 | Zeichen 270.2
+[Bild: bgbl1_2013_j0367-1_1040.jpg]
+ Ende einer
+ Verkehrsverbotszone zur
+ Verminderung schädlicher
+ Luftverunreinigungen in einer Zone |
+46 | [Bild: bgbl1_2013_j0367-1_1050.jpg]
+ Freistellung vom
+ Verkehrsverbot nach
+ § 40 Absatz 1 des
+ Bundes-Immissionsschutzgesetzes | Ge- oder Verbot
+ Das Zusatzzeichen zum Zeichen 270.1 nimmt Kraftfahrzeuge vom Verkehrsverbot aus, die mit einer auf dem Zusatzzeichen in der jeweiligen Farbe angezeigten Plakette nach § 3 der Verordnung zur Kennzeichnung der Kraftfahrzeuge mit geringem Beitrag zur Schadstoffbelastung ausgestattet sind.
+47 | Zeichen 272
+[Bild: bgbl1_2013_j0367-1_1060.jpg]
+ Verbot des Wendens | Ge- oder Verbot
+ Wer ein Fahrzeug führt, darf hier nicht wenden.
+48 | Zeichen 273
+[Bild: bgbl1_2013_j0367-1_1070.jpg]
+ Verbot des Unterschreitens
+ des angegebenen Mindestabstandes | Ge- oder Verbot
+ Wer ein Kraftfahrzeug mit einer zulässigen Gesamtmasse über 3,5 t oder eine Zugmaschine führt, darf den angegebenen Mindestabstand zu einem vorausfahrenden Kraftfahrzeug gleicher Art nicht unterschreiten. Personenkraftwagen und Kraftomnibusse sind ausgenommen.
+Abschnitt 7 Geschwindigkeitsbeschränkungen und Überholverbote
+49 | Zeichen 274
+[Bild: bgbl1_2013_j0367-1_1080.jpg]
+ Zulässige
+ Höchstgeschwindigkeit | Ge- oder Verbot1. Wer ein Fahrzeug führt, darf nicht schneller als mit der jeweils angegebenen Höchstgeschwindigkeit fahren. 2. Sind durch das Zeichen innerhalb geschlossener Ortschaften bestimmte Geschwindigkeiten über 50 km/h zugelassen, gilt das für Fahrzeuge aller Art. 3. Außerhalb geschlossener Ortschaften bleiben die für bestimmte Fahrzeugarten geltenden Höchstgeschwindigkeiten (§ 3 Absatz 3 Nummer 2 Buchstabe a und b und § 18 Absatz 5) unberührt, wenn durch das Zeichen eine höhere Geschwindigkeit zugelassen ist. 
+Erläuterung
+ Das Zeichen kann in einer Fahrstreifentafel oder einer Einengungstafel oder einer Aufweitungstafel integriert sein. Dann bezieht sich die zulässige Höchstgeschwindigkeit nur auf den jeweiligen Fahrstreifen, für den die Höchstgeschwindigkeit angeordnet ist.
+49.1 | [Bild: bgbl1_2013_j0367-1_1090.jpg] | Ge- oder Verbot
+ Das Zusatzzeichen zu dem Zeichen 274 verbietet Fahrzeugführenden, bei nasser Fahrbahn die angegebene Geschwindigkeit zu überschreiten.
+50 | Zeichen 274.1
+[Bild: bgbl1_2013_j0367-1_1100.jpg]
+ Beginn einer Tempo 30-Zone | Ge- oder Verbot
+ Wer ein Fahrzeug führt, darf innerhalb dieser Zone nicht schneller als mit der angegebenen Höchstgeschwindigkeit fahren.
+Erläuterung
+ Mit dem Zeichen können in verkehrsberuhigten Geschäftsbereichen auch Zonengeschwindigkeitsbeschränkungen von weniger als 30 km/h angeordnet sein.
+51 | Zeichen 274.2
+[Bild: bgbl1_2013_j0367-1_1110.jpg]
+ Ende einer Tempo 30-Zone |
+52 | Zeichen 275
+[Bild: bgbl1_2013_j0367-1_1120.jpg]
+ Vorgeschriebene
+ Mindestgeschwindigkeit | Ge- oder Verbot
+ Wer ein Fahrzeug führt, darf nicht langsamer als mit der angegebenen Mindestgeschwindigkeit fahren, sofern nicht Straßen-, Verkehrs-, Sicht- oder Wetterverhältnisse dazu verpflichten. Es verbietet, mit Fahrzeugen, die nicht so schnell fahren können oder dürfen, einen so gekennzeichneten Fahrstreifen zu benutzen.
+Erläuterung
+ Das Zeichen kann in einer Fahrstreifentafel oder einer Aufweitungstafel integriert sein. Dann bezieht sich die vorgeschriebene Mindestgeschwindigkeit nur auf den jeweiligen Fahrstreifen, für den die Mindestgeschwindigkeit angeordnet ist.
+Zu 53, 54 und 54.4 |  | Ge- oder Verbot
+ Die nachfolgenden Zeichen 276 und 277 verbieten Kraftfahrzeugen das Überholen von mehrspurigen Kraftfahrzeugen und Krafträdern mit Beiwagen. Ist auf einem Zusatzzeichen eine Masse, wie „7,5 t“ angegeben, gilt das Verbot nur, soweit die zulässige Gesamtmasse dieser Kraftfahrzeuge, einschließlich ihrer Anhänger, die angegebene Grenze überschreitet. Soll mehrspurigen Kraftfahrzeugen und Krafträdern mit Beiwagen das Überholen von einspurigen Fahrzeugen verboten werden, ist Zeichen 277.1 angeordnet.
+53 | Zeichen 276
+[Bild: bgbl1_2013_j0367-1_1130.jpg]
+ Überholverbot für
+ Kraftfahrzeuge aller Art |
+54 | Zeichen 277
+[Bild: bgbl1_2013_j0367-1_1140.jpg]
+ Überholverbot für
+ Kraftfahrzeuge über 3,5 t | Ge- oder Verbot
+ Überholverbot für Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t, einschließlich ihrer Anhänger, und für Zugmaschinen. Ausgenommen sind Personenkraftwagen und Kraftomnibusse.
+54.1 | [Bild: bgbl1_2013_j0367-1_1150.jpg] | Ge- oder Verbot
+ Mit dem Zusatzzeichen gilt das durch Zeichen 277 angeordnete Überholverbot auch für Kraftfahrzeuge über 2,8 t, einschließlich ihrer Anhänger.
+54.2 | [Bild: bgbl1_2013_j0367-1_1160.jpg] | Ge- oder Verbot
+ Mit dem Zusatzzeichen gilt das durch Zeichen 277 angeordnete Überholverbot auch für Kraftomnibusse und Personenkraftwagen mit Anhänger.
+54.3 | [Bild: bgbl1_2013_j0367-1_1170.jpg] | Erläuterung
+ Das Zusatzzeichen zu dem Zeichen 274, 276, 277 oder 277.1 gibt die Länge einer Geschwindigkeitsbeschränkung oder eines Überholverbots an.
+54.4 | Zeichen 277.1
+[Bild: bgbl1_2020_j0814-1_0100.jpg]
+Verbot des Überholens
+ von einspurigen Fahrzeugen
+ für mehrspurige Kraftfahrzeuge
+ und Krafträder mit Beiwagen | Ge- oder Verbot
+ Wer ein mehrspuriges Kraftfahrzeug führt, darf ein- und mehrspurige Fahrzeuge nicht überholen.
+55 |  | Erläuterung
+ Das Ende einer streckenbezogenen Geschwindigkeitsbeschränkung oder eines Überholverbots ist nicht gekennzeichnet, wenn das Verbot nur für eine kurze Strecke gilt und auf einem Zusatzzeichen die Länge des Verbots angegeben ist. Es ist auch nicht gekennzeichnet, wenn das Verbotszeichen zusammen mit einem Gefahrzeichen angebracht ist und sich aus der Örtlichkeit zweifelsfrei ergibt, von wo an die angezeigte Gefahr nicht mehr besteht. Sonst ist es gekennzeichnet durch die Zeichen 278 bis 282.
+56 | Zeichen 278
+[Bild: bgbl1_2013_j0367-1_1180.jpg]
+ Ende der zulässigen
+ Höchstgeschwindigkeit | Erläuterung
+ Das Zeichen kann in einer Fahrstreifentafel oder einer Einengungstafel oder Aufweitungstafel integriert sein. Dann bezieht sich das Zeichen nur auf den jeweiligen Fahrstreifen, für den die zulässige Höchstgeschwindigkeit vorher angeordnet worden war.
+57 | Zeichen 279
+[Bild: bgbl1_2013_j0367-1_1190.jpg]
+ Ende der vorgeschriebenen
+ Mindestgeschwindigkeit | Erläuterung
+ Das Zeichen kann in einer Fahrstreifentafel oder einer Einengungstafel integriert sein. Dann bezieht sich das Zeichen nur auf den jeweiligen Fahrstreifen, für den die vorgeschriebene Mindestgeschwindigkeit vorher angeordnet worden war.
+58 | Zeichen 280
+[Bild: bgbl1_2013_j0367-1_1200.jpg]
+ Ende des Überholverbots
+ für Kraftfahrzeuge aller Art |
+59 | Zeichen 281
+[Bild: bgbl1_2013_j0367-1_1210.jpg]
+ Ende des Überholverbots
+ für Kraftfahrzeuge über 3,5 t |
+59.1 | Zeichen 281.1
+[Bild: bgbl1_2020_j0814-1_0110.jpg]
+Ende des Verbots des Überholens
+ von einspurigen Fahrzeugen
+ für mehrspurige Kraftfahrzeuge
+ und Krafträder mit Beiwagen |
+60 | Zeichen 282
+[Bild: bgbl1_2013_j0367-1_1220.jpg]
+ Ende sämtlicher streckenbezogener
+ Geschwindigkeitsbeschränkungen
+ und Überholverbote | Erläuterung
+ Das Zeichen kann in einer Fahrstreifentafel oder einer Aufweitungstafel integriert sein. Dann bezieht sich das Zeichen nur auf den jeweiligen Fahrstreifen, für den die streckenbezogenen Geschwindigkeitsbeschränkungen und Überholverbote vorher angeordnet worden waren.
+Abschnitt 8 Halt- und Parkverbote
+61 |  | Ge- oder Verbot1. Die durch die nachfolgenden Zeichen 283 und 286 angeordneten Haltverbote gelten nur auf der Straßenseite, auf der die Zeichen angebracht sind. Sie gelten bis zur nächsten Kreuzung oder Einmündung auf der gleichen Straßenseite oder bis durch Verkehrszeichen für den ruhenden Verkehr eine andere Regelung vorgegeben wird. 2. Mobile, vorübergehend angeordnete Haltverbote durch Zeichen 283 und 286 heben Verkehrszeichen auf, die das Parken erlauben. Erläuterung
+ Der Anfang der Verbotsstrecke kann durch einen zur Fahrbahn weisenden waagerechten weißen Pfeil im Zeichen, das Ende durch einen solchen von der Fahrbahn wegweisenden Pfeil gekennzeichnet sein. Bei in der Verbotsstrecke wiederholten Zeichen weist eine Pfeilspitze zur Fahrbahn, die zweite Pfeilspitze von ihr weg.
+62 | Zeichen 283
+[Bild: bgbl1_2013_j0367-1_1230.jpg]
+ Absolutes Haltverbot | Ge- oder Verbot
+ Das Halten auf der Fahrbahn ist verboten.
+62.1 | [Bild: bgbl1_2013_j0367-1_1240.jpg] | Ge- oder Verbot
+ Das mit dem Zeichen 283 angeordnete Zusatzzeichen verbietet das Halten von Fahrzeugen auch auf dem Seitenstreifen.
+62.2 | [Bild: bgbl1_2013_j0367-1_1250.jpg] | Ge- oder Verbot
+ Das mit dem Zeichen 283 angeordnete Zusatzzeichen verbietet das Halten von Fahrzeugen nur auf dem Seitenstreifen.
+63 | Zeichen 286
+[Bild: bgbl1_2013_j0367-1_1260.jpg]
+ Eingeschränktes Haltverbot | Ge- oder Verbot1. Wer ein Fahrzeug führt, darf nicht länger als drei Minuten auf der Fahrbahn halten, ausgenommen zum Ein- oder Aussteigen oder zum Be- oder Entladen. 2. Ladegeschäfte müssen ohne Verzögerung durchgeführt werden.
+63.1 | [Bild: bgbl1_2013_j0367-1_1270.jpg] | Ge- oder Verbot
+ Mit dem Zusatzzeichen zu Zeichen 286 darf auch auf dem Seitenstreifen nicht länger als drei Minuten gehalten werden, ausgenommen zum Ein- oder Aussteigen oder zum Be- oder Entladen.
+63.2 | [Bild: bgbl1_2013_j0367-1_1280.jpg] | Ge- oder Verbot
+ Mit dem Zusatzzeichen zu Zeichen 286 darf nur auf dem Seitenstreifen nicht länger als drei Minuten gehalten werden, ausgenommen zum Ein- oder Aussteigen oder zum Be- oder Entladen.
+63.3 | [Bild: bgbl1_2013_j0367-1_1290.jpg] | Ge- oder Verbot1. Das Zusatzzeichen zu Zeichen 286 nimmt schwerbehinderte Menschen mit außergewöhnlicher Gehbehinderung, beidseitiger Amelie oder Phokomelie oder mit vergleichbaren Funktionseinschränkungen sowie blinde Menschen, jeweils mit besonderem Parkausweis Nummer …, vom Haltverbot aus. 2. Die Ausnahme gilt nur, soweit der Parkausweis gut lesbar ausgelegt oder angebracht ist.
+63.4 | [Bild: bgbl1_2013_j0367-1_1300.jpg] | Ge- oder Verbot1. Das Zusatzzeichen zu Zeichen 286 nimmt Bewohner mit besonderem Parkausweis vom Haltverbot aus. 2. Die Ausnahme gilt nur, soweit der Parkausweis gut lesbar ausgelegt oder angebracht ist.
+63.5 | [Bild: bgbl1_2015_j1573-1_0050.jpg] | Ge- oder Verbot
+Durch das Zusatzzeichen zu Zeichen 286 wird das Parken für elektrisch betriebene Fahrzeuge innerhalb der gekennzeichneten Flächen erlaubt.
+63.6 | [Bild: bgbl1_2020_j0814-1_0120.jpg] | Ge- oder Verbot
+ Durch das Zusatzzeichen zu Zeichen 286 wird das Parken für Carsharingfahrzeuge (§ 39 Absatz 11) innerhalb der gekennzeichneten Flächen erlaubt.
+64 | Zeichen 290.1
+[Bild: bgbl1_2013_j0367-1_1310.jpg]
+ Beginn eines
+ Eingeschränkten Haltverbots
+ für eine Zone | Ge- oder Verbot1. Wer ein Fahrzeug führt, darf innerhalb der gekennzeichneten Zone nicht länger als drei Minuten halten, ausgenommen zum Ein- oder Aussteigen oder zum Be- oder Entladen. 2. Innerhalb der gekennzeichneten Zone gilt das eingeschränkte Haltverbot auf allen öffentlichen Verkehrsflächen, sofern nicht abweichende Regelungen durch Verkehrszeichen oder Verkehrseinrichtungen getroffen sind. 3. Durch Zusatzzeichen kann das Parken für Bewohner mit Parkausweis oder mit Parkschein oder Parkscheibe (Bild 318) innerhalb gekennzeichneter Flächen erlaubt sein. 4. Durch Zusatzzeichen kann das Parken mit Parkschein oder Parkscheibe (Bild 318) innerhalb gekennzeichneter Flächen erlaubt sein. Dabei ist der Parkausweis, der Parkschein oder die Parkscheibe gut lesbar auszulegen oder anzubringen.
+64.1 | [Bild: bgbl1_2015_j1573-1_0060.jpg] | Ge- oder Verbot
+Durch das Zusatzzeichen zu Zeichen 290.1 wird das Parken für elektrisch betriebene Fahrzeuge innerhalb der gekennzeichneten Flächen erlaubt.
+64.2 | [Bild: bgbl1_2020_j0814-1_0130.jpg] | Ge- oder Verbot
+ Durch das Zusatzzeichen zu Zeichen 290.1 wird das Parken für Carsharingfahrzeuge (§ 39 Absatz 11) innerhalb der gekennzeichneten Flächen erlaubt.
+65 | Zeichen 290.2
+[Bild: bgbl1_2013_j0367-1_1320.jpg]
+ Ende eines
+ eingeschränkten Haltverbots
+ für eine Zone |
+Abschnitt 9 Markierungen
+66 | Zeichen 293
+[Bild: bgbl1_2013_j0367-1_1330.jpg]
+ Fußgängerüberweg | Ge- oder Verbot
+ Wer ein Fahrzeug führt, darf auf Fußgängerüberwegen sowie bis zu 5 m davor nicht halten.
+67 | Zeichen 294
+[Bild: bgbl1_2013_j0367-1_1340.jpg]
+ Haltlinie | Ge- oder Verbot
+ Ergänzend zu Halt- oder Wartegeboten, die durch Zeichen 206, durch Polizeibeamte, Lichtzeichen oder Schranken gegeben werden, ordnet sie an:
+ Wer ein Fahrzeug führt, muss hier anhalten. Erforderlichenfalls ist an der Stelle, wo die Straße eingesehen werden kann, in die eingefahren werden soll (Sichtlinie), erneut anzuhalten.
+68 | Zeichen 295
+[Bild: bgbl1_2013_j0367-1_1350.jpg]
+ Fahrstreifenbegrenzung,
+Begrenzung von Fahrbahnen und Sonderwegen | Ge- oder Verbot1. a) Wer ein Fahrzeug führt, darf die durchgehende Linie auch nicht teilweise überfahren. b) Trennt die durchgehende Linie den Teil der Fahrbahn oder des Sonderwegs für den Gegenverkehr ab, ist rechts von ihr zu fahren. c) Grenzt sie einen befestigten Seitenstreifen ab, müssen außerorts landwirtschaftliche Zug- und Arbeitsmaschinen, Fuhrwerke und ähnlich langsame Fahrzeuge möglichst rechts von ihr fahren. d) Wer ein Fahrzeug führt, darf auf der Fahrbahn nicht parken, wenn zwischen dem abgestellten Fahrzeug und der Fahrstreifenbegrenzungslinie kein Fahrstreifen von mindestens 3 m mehr verbleibt. 2. a) Wer ein Fahrzeug führt, darf links von der durchgehenden Fahrbahnbegrenzungslinie nicht halten, wenn rechts ein Seitenstreifen oder Sonderweg vorhanden ist. b) Wer ein Fahrzeug führt, darf die Fahrbahnbegrenzung der Mittelinsel des Kreisverkehrs nicht überfahren. c) Ausgenommen von dem Verbot zum Überfahren der Fahrbahnbegrenzung der Mittelinsel des Kreisverkehrs sind nur Fahrzeuge, denen wegen ihrer Abmessungen das Befahren sonst nicht möglich wäre. Mit ihnen darf die Mittelinsel überfahren werden, wenn eine Gefährdung anderer am Verkehr Teilnehmenden ausgeschlossen ist. 3. a) Wird durch Zeichen 223.1 das Befahren eines Seitenstreifens angeordnet, darf die Fahrbahnbegrenzung wie eine Leitlinie zur Markierung von Fahrstreifen einer durchgehenden Fahrbahn (Zeichen 340) überfahren werden. b) Grenzt sie einen Sonderweg ab, darf sie nur überfahren werden, wenn dahinter anders nicht erreichbare Parkstände angelegt sind oder sich Grundstückszufahrten befinden und das Benutzen von Sonderwegen weder gefährdet noch behindert wird. c) Die Linie zur Begrenzung von Fahrbahnen oder Sonderwegen darf überfahren werden, wenn sich dahinter eine nicht anders erreichbare Grundstückszufahrt befindet. Erläuterung1. Als Fahrstreifenbegrenzung trennt das Zeichen den für den Gegenverkehr bestimmten Teil der Fahrbahn oder mehrere Fahrstreifen für den gleichgerichteten Verkehr voneinander ab. Die Fahrstreifenbegrenzung kann zur Abtrennung des Gegenverkehrs aus einer Doppellinie bestehen. Die Doppellinie kann voneinander abgesetzt aufgebracht sein, dann kann der verbleibende Zwischenraum in grüner Farbe ausgefüllt sein, was weder einen Mittelstreifen noch eine bauliche Trennung darstellt. 2. Als Fahrbahnbegrenzung kann die durchgehende Linie auch einen Seitenstreifen oder Sonderweg abgrenzen. 3. Als Begrenzung eines Sonderwegs kennzeichnet sie den Verlauf des für den Radverkehr bestimmten Teils des Sonderwegs.
+69 | Zeichen 296
+[Bild: bgbl1_2013_j0367-1_1360.jpg]
+ Fahrstreifen B Fahrstreifen A
+Einseitige
+ Fahrstreifenbegrenzung | Ge- oder Verbot1. Wer ein Fahrzeug führt, darf die durchgehende Linie nicht überfahren oder auf ihr fahren. 2. Wer ein Fahrzeug führt, darf nicht auf der Fahrbahn parken, wenn zwischen dem parkenden Fahrzeug und der durchgehenden Fahrstreifenbegrenzungslinie kein Fahrstreifen von mindestens 3 m mehr verbleibt. 3. Für Fahrzeuge auf dem Fahrstreifen B ordnet die Markierung an:
+ Fahrzeuge auf dem Fahrstreifen B dürfen die Markierung überfahren, wenn der Verkehr dadurch nicht gefährdet wird.
+70 | Zeichen 297
+[Bild: bgbl1_2013_j0367-1_1370.jpg]
+ Pfeilmarkierungen | Ge- oder Verbot1. Wer ein Fahrzeug führt, muss der Fahrtrichtung auf der folgenden Kreuzung oder Einmündung folgen, wenn zwischen den Pfeilen Leitlinien (Zeichen 340) oder Fahrstreifenbegrenzungen (Zeichen 295) markiert sind. 2. Wer ein Fahrzeug führt, darf auf der mit Pfeilen markierten Strecke der Fahrbahn nicht halten (§ 12 Absatz 1). Erläuterung
+ Pfeile empfehlen, sich rechtzeitig einzuordnen und in Fahrstreifen nebeneinander zu fahren. Fahrzeuge, die sich eingeordnet haben, dürfen auch rechts überholt werden.
+71 | Zeichen 297.1
+[Bild: bgbl1_2013_j0367-1_1380.jpg]
+ Vorankündigungspfeil | Erläuterung
+ Mit dem Vorankündigungspfeil wird eine Fahrstreifenbegrenzung angekündigt oder das Ende eines Fahrstreifens angezeigt. Die Ausführung des Pfeils kann von der gezeigten abweichen.
+72 | Zeichen 298
+[Bild: bgbl1_2013_j0367-1_1390.jpg]
+ Sperrfläche | Ge- oder Verbot
+ Wer ein Fahrzeug führt, darf Sperrflächen nicht benutzen.
+73 | Zeichen 299
+[Bild: bgbl1_2013_j0367-1_1400.jpg]
+ Grenzmarkierung für
+ Halt- oder Parkverbote | Ge- oder Verbot
+ Wer ein Fahrzeug führt, darf innerhalb einer Grenzmarkierung für Halt- oder Parkverbote nicht halten oder parken.
+Erläuterung
+ Grenzmarkierungen bezeichnen, verlängern oder verkürzen ein an anderer Stelle vorgeschriebenes Halt- oder Parkverbot.
+74 | Parkflächenmarkierung | Ge- oder Verbot
+ Eine Parkflächenmarkierung erlaubt das Parken; auf Gehwegen aber nur Fahrzeugen mit einer zulässigen Gesamtmasse bis zu 2,8 t. Die durch die Parkflächenmarkierung angeordnete Aufstellung ist einzuhalten. Wo sie mit durchgehenden Linien markiert ist, darf diese überfahren werden.
+Erläuterung
+ Sind Parkflächen auf Straßen erkennbar abgegrenzt, wird damit angeordnet, wie Fahrzeuge aufzustellen sind.

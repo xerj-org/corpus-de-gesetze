@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1131 — Zuschreibung eines Grundstücks
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE116802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1131.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Wird ein Grundstück nach § 890 Abs. 2 einem anderen Grundstück im Grundbuch zugeschrieben, so erstrecken sich die an diesem Grundstück bestehenden Hypotheken auf das zugeschriebene Grundstück. Rechte, mit denen das zugeschriebene Grundstück belastet ist, gehen diesen Hypotheken im Range vor.

@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 692 — Änderung der Aufbewahrung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE071902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__692.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Verwahrer ist berechtigt, die vereinbarte Art der Aufbewahrung zu ändern, wenn er den Umständen nach annehmen darf, dass der Hinterleger bei Kenntnis der Sachlage die Änderung billigen würde. Der Verwahrer hat vor der Änderung dem Hinterleger Anzeige zu machen und dessen Entschließung abzuwarten, wenn nicht mit dem Aufschub Gefahr verbunden ist.

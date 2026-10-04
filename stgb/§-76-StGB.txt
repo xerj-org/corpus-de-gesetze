@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 76 — Nachträgliche Anordnung der Einziehung des Wertersatzes
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE018404123
+Normseite: https://www.gesetze-im-internet.de/stgb/__76.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ist die Anordnung der Einziehung eines Gegenstandes unzureichend oder nicht ausführbar, weil nach der Anordnung eine der in den §§ 73c oder 74c bezeichneten Voraussetzungen eingetreten oder bekanntgeworden ist, so kann das Gericht die Einziehung des Wertersatzes nachträglich anordnen.

@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 297 — Unvermögen des Schuldners
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE029002377
+Normseite: https://www.gesetze-im-internet.de/bgb/__297.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Gläubiger kommt nicht in Verzug, wenn der Schuldner zur Zeit des Angebots oder im Falle des § 296 zu der für die Handlung des Gläubigers bestimmten Zeit außerstande ist, die Leistung zu bewirken.

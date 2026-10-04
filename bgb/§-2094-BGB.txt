@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 2094 — Anwachsung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE204702377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2094.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Sind mehrere Erben in der Weise eingesetzt, dass sie die gesetzliche Erbfolge ausschließen, und fällt einer der Erben vor oder nach dem Eintritt des Erbfalls weg, so wächst dessen Erbteil den übrigen Erben nach dem Verhältnis ihrer Erbteile an. Sind einige der Erben auf einen gemeinschaftlichen Erbteil eingesetzt, so tritt die Anwachsung zunächst unter ihnen ein.
+(2) Ist durch die Erbeinsetzung nur über einen Teil der Erbschaft verfügt und findet in Ansehung des übrigen Teils die gesetzliche Erbfolge statt, so tritt die Anwachsung unter den eingesetzten Erben nur ein, soweit sie auf einen gemeinschaftlichen Erbteil eingesetzt sind.
+(3) Der Erblasser kann die Anwachsung ausschließen.

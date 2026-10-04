@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 47 — Kurze Freiheitsstrafe nur in Ausnahmefällen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE011602307
+Normseite: https://www.gesetze-im-internet.de/stgb/__47.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Eine Freiheitsstrafe unter sechs Monaten verhängt das Gericht nur, wenn besondere Umstände, die in der Tat oder der Persönlichkeit des Täters liegen, die Verhängung einer Freiheitsstrafe zur Einwirkung auf den Täter oder zur Verteidigung der Rechtsordnung unerläßlich machen.
+(2) Droht das Gesetz keine Geldstrafe an und kommt eine Freiheitsstrafe von sechs Monaten oder darüber nicht in Betracht, so verhängt das Gericht eine Geldstrafe, wenn nicht die Verhängung einer Freiheitsstrafe nach Absatz 1 unerläßlich ist. Droht das Gesetz ein erhöhtes Mindestmaß der Freiheitsstrafe an, so bestimmt sich das Mindestmaß der Geldstrafe in den Fällen des Satzes 1 nach dem Mindestmaß der angedrohten Freiheitsstrafe; dabei entsprechen dreißig Tagessätze einem Monat Freiheitsstrafe.

@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 249 — Art und Umfang des Schadensersatzes
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE024203301
+Normseite: https://www.gesetze-im-internet.de/bgb/__249.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer zum Schadensersatz verpflichtet ist, hat den Zustand herzustellen, der bestehen würde, wenn der zum Ersatz verpflichtende Umstand nicht eingetreten wäre.
+(2) Ist wegen Verletzung einer Person oder wegen Beschädigung einer Sache Schadensersatz zu leisten, so kann der Gläubiger statt der Herstellung den dazu erforderlichen Geldbetrag verlangen. Bei der Beschädigung einer Sache schließt der nach Satz 1 erforderliche Geldbetrag die Umsatzsteuer nur mit ein, wenn und soweit sie tatsächlich angefallen ist.

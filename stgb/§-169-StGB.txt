@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 169 — Personenstandsfälschung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE032703377
+Normseite: https://www.gesetze-im-internet.de/stgb/__169.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer ein Kind unterschiebt oder den Personenstand eines anderen gegenüber einer zur Führung von Personenstandsregistern oder zur Feststellung des Personenstands zuständigen Behörde falsch angibt oder unterdrückt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+(2) Der Versuch ist strafbar.

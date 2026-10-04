@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 78a — Beginn
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE019302307
+Normseite: https://www.gesetze-im-internet.de/stgb/__78a.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Die Verjährung beginnt, sobald die Tat beendet ist. Tritt ein zum Tatbestand gehörender Erfolg erst später ein, so beginnt die Verjährung mit diesem Zeitpunkt.

@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 26 — Vorstand und Vertretung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE001703140
+Normseite: https://www.gesetze-im-internet.de/bgb/__26.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Verein muss einen Vorstand haben. Der Vorstand vertritt den Verein gerichtlich und außergerichtlich; er hat die Stellung eines gesetzlichen Vertreters. Der Umfang der Vertretungsmacht kann durch die Satzung mit Wirkung gegen Dritte beschränkt werden.
+(2) Besteht der Vorstand aus mehreren Personen, so wird der Verein durch die Mehrheit der Vorstandsmitglieder vertreten. Ist eine Willenserklärung gegenüber einem Verein abzugeben, so genügt die Abgabe gegenüber einem Mitglied des Vorstands.

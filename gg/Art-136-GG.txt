@@ -1,0 +1,9 @@
+Grundgesetz für die Bundesrepublik Deutschland (GG) — Art 136
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-05-06
+Dokumentnummer: BJNR000010949BJNE018100314
+Normseite: https://www.gesetze-im-internet.de/gg/art_136.html
+Quell-Zip: https://www.gesetze-im-internet.de/gg/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Bundesrat tritt erstmalig am Tage des ersten Zusammentrittes des Bundestages zusammen.
+(2) Bis zur Wahl des ersten Bundespräsidenten werden dessen Befugnisse von dem Präsidenten des Bundesrates ausgeübt. Das Recht der Auflösung des Bundestages steht ihm nicht zu.

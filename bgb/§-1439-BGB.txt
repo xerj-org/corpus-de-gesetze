@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1439 — Keine Haftung bei Erwerb einer Erbschaft
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE140502377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1439.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Das Gesamtgut haftet nicht für Verbindlichkeiten, die durch den Erwerb einer Erbschaft entstehen, wenn der Ehegatte, der Erbe ist, das Gesamtgut nicht verwaltet und die Erbschaft während der Gütergemeinschaft als Vorbehaltsgut oder als Sondergut erwirbt; das Gleiche gilt beim Erwerb eines Vermächtnisses.

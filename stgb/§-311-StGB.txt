@@ -1,0 +1,10 @@
+Strafgesetzbuch (StGB) — § 311 — Freisetzen ionisierender Strahlen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE051504360
+Normseite: https://www.gesetze-im-internet.de/stgb/__311.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer unter Verletzung verwaltungsrechtlicher Pflichten (§ 330d Absatz 1 Nummer 4, 5, Absatz 2) 1. ionisierende Strahlen freisetzt oder 2. Kernspaltungsvorgänge bewirkt, die geeignet sind, Leib oder Leben eines anderen Menschen, fremde Sachen von bedeutendem Wert zu schädigen oder erhebliche Schäden an Tieren oder Pflanzen, Gewässern, der Luft oder dem Boden herbeizuführen, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(2) Der Versuch ist strafbar.
+(3) Wer fahrlässig 1. beim Betrieb einer Anlage, insbesondere einer Betriebsstätte, eine Handlung im Sinne des Absatzes 1 in einer Weise begeht, die geeignet ist, eine Schädigung außerhalb des zur Anlage gehörenden Bereichs herbeizuführen oder 2. in sonstigen Fällen des Absatzes 1 unter grober Verletzung verwaltungsrechtlicher Pflichten handelt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.

@@ -1,0 +1,8 @@
+Strafgesetzbuch (StGB) — § 74a — Einziehung von Tatprodukten, Tatmitteln und Tatobjekten bei anderen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE017703123
+Normseite: https://www.gesetze-im-internet.de/stgb/__74a.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Verweist ein Gesetz auf diese Vorschrift, können Gegenstände abweichend von § 74 Absatz 3 auch dann eingezogen werden, wenn derjenige, dem sie zur Zeit der Entscheidung gehören oder zustehen, 1. mindestens leichtfertig dazu beigetragen hat, dass sie als Tatmittel verwendet worden oder Tatobjekt gewesen sind, oder 2. sie in Kenntnis der Umstände, welche die Einziehung zugelassen hätten, in verwerflicher Weise erworben hat.

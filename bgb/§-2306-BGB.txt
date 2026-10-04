@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 2306 — Beschränkungen und Beschwerungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE225203140
+Normseite: https://www.gesetze-im-internet.de/bgb/__2306.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Ist ein als Erbe berufener Pflichtteilsberechtigter durch die Einsetzung eines Nacherben, die Ernennung eines Testamentsvollstreckers oder eine Teilungsanordnung beschränkt oder ist er mit einem Vermächtnis oder einer Auflage beschwert, so kann er den Pflichtteil verlangen, wenn er den Erbteil ausschlägt; die Ausschlagungsfrist beginnt erst, wenn der Pflichtteilsberechtigte von der Beschränkung oder der Beschwerung Kenntnis erlangt.
+(2) Einer Beschränkung der Erbeinsetzung steht es gleich, wenn der Pflichtteilsberechtigte als Nacherbe eingesetzt ist.

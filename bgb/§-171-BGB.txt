@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 171 — Wirkungsdauer bei Kundgebung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE016302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__171.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Hat jemand durch besondere Mitteilung an einen Dritten oder durch öffentliche Bekanntmachung kundgegeben, dass er einen anderen bevollmächtigt habe, so ist dieser auf Grund der Kundgebung im ersteren Falle dem Dritten gegenüber, im letzteren Falle jedem Dritten gegenüber zur Vertretung befugt.
+(2) Die Vertretungsmacht bleibt bestehen, bis die Kundgebung in derselben Weise, wie sie erfolgt ist, widerrufen wird.

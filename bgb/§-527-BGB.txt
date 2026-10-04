@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 527 — Nichtvollziehung der Auflage
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE052102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__527.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Unterbleibt die Vollziehung der Auflage, so kann der Schenker die Herausgabe des Geschenkes unter den für das Rücktrittsrecht bei gegenseitigen Verträgen bestimmten Voraussetzungen nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung insoweit fordern, als das Geschenk zur Vollziehung der Auflage hätte verwendet werden müssen.
+(2) Der Anspruch ist ausgeschlossen, wenn ein Dritter berechtigt ist, die Vollziehung der Auflage zu verlangen.

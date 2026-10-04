@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 359 — Einwendungen bei verbundenen Verträgen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE262204123
+Normseite: https://www.gesetze-im-internet.de/bgb/__359.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Verbraucher kann die Rückzahlung des Darlehens verweigern, soweit Einwendungen aus dem verbundenen Vertrag ihn gegenüber dem Unternehmer, mit dem er den verbundenen Vertrag geschlossen hat, zur Verweigerung seiner Leistung berechtigen würden. Dies gilt nicht bei Einwendungen, die auf einer Vertragsänderung beruhen, welche zwischen diesem Unternehmer und dem Verbraucher nach Abschluss des Darlehensvertrags vereinbart wurde. Kann der Verbraucher Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst verweigern, wenn die Nacherfüllung fehlgeschlagen ist.
+(2) Absatz 1 ist nicht anzuwenden auf Darlehensverträge, die der Finanzierung des Erwerbs von Finanzinstrumenten dienen, oder wenn das finanzierte Entgelt weniger als 200 Euro beträgt.

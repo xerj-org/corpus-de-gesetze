@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 278 — Ausstellen unrichtiger Gesundheitszeugnisse
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE047103360
+Normseite: https://www.gesetze-im-internet.de/stgb/__278.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wer zur Täuschung im Rechtsverkehr als Arzt oder andere approbierte Medizinalperson ein unrichtiges Zeugnis über den Gesundheitszustand eines Menschen ausstellt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+(2) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung von unrichtigem Ausstellen von Gesundheitszeugnissen verbunden hat, Impfnachweise oder Testzertifikate betreffend übertragbare Krankheiten unrichtig ausstellt.

@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 2105 — Gesetzliche Erben als Vorerben
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE205803301
+Normseite: https://www.gesetze-im-internet.de/bgb/__2105.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Hat der Erblasser angeordnet, dass der eingesetzte Erbe die Erbschaft erst mit dem Eintritt eines bestimmten Zeitpunkts oder Ereignisses erhalten soll, ohne zu bestimmen, wer bis dahin Erbe sein soll, so sind die gesetzlichen Erben des Erblassers die Vorerben.
+(2) Das Gleiche gilt, wenn die Persönlichkeit des Erben durch ein erst nach dem Erbfall eintretendes Ereignis bestimmt werden soll oder wenn die Einsetzung einer zur Zeit des Erbfalls noch nicht gezeugten Person oder einer zu dieser Zeit noch nicht entstandenen juristischen Person als Erbe nach § 2101 als Nacherbeinsetzung anzusehen ist.

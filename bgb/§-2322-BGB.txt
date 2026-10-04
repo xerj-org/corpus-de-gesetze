@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 2322 — Kürzung von Vermächtnissen und Auflagen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE226802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2322.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ist eine von dem Pflichtteilsberechtigten ausgeschlagene Erbschaft oder ein von ihm ausgeschlagenes Vermächtnis mit einem Vermächtnis oder einer Auflage beschwert, so kann derjenige, welchem die Ausschlagung zustatten kommt, das Vermächtnis oder die Auflage soweit kürzen, dass ihm der zur Deckung der Pflichtteilslast erforderliche Betrag verbleibt.

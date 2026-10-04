@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 356e — Widerrufsrecht bei Verbraucherbauverträgen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE275701129
+Normseite: https://www.gesetze-im-internet.de/bgb/__356e.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Bei einem Verbraucherbauvertrag (§ 650i Absatz 1) beginnt die Widerrufsfrist nicht, bevor der Unternehmer den Verbraucher gemäß Artikel 249 § 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein Widerrufsrecht belehrt hat. Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem in § 355 Absatz 2 Satz 2 genannten Zeitpunkt.

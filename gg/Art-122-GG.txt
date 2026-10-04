@@ -1,0 +1,9 @@
+Grundgesetz für die Bundesrepublik Deutschland (GG) — Art 122
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-05-06
+Dokumentnummer: BJNR000010949BJNE016600314
+Normseite: https://www.gesetze-im-internet.de/gg/art_122.html
+Quell-Zip: https://www.gesetze-im-internet.de/gg/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Vom Zusammentritt des Bundestages an werden die Gesetze ausschließlich von den in diesem Grundgesetze anerkannten gesetzgebenden Gewalten beschlossen.
+(2) Gesetzgebende und bei der Gesetzgebung beratend mitwirkende Körperschaften, deren Zuständigkeit nach Absatz 1 endet, sind mit diesem Zeitpunkt aufgelöst.

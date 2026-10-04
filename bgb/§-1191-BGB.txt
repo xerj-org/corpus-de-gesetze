@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1191 — Gesetzlicher Inhalt der Grundschuld
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE123002377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1191.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Ein Grundstück kann in der Weise belastet werden, dass an denjenigen, zu dessen Gunsten die Belastung erfolgt, eine bestimmte Geldsumme aus dem Grundstück zu zahlen ist (Grundschuld).
+(2) Die Belastung kann auch in der Weise erfolgen, dass Zinsen von der Geldsumme sowie andere Nebenleistungen aus dem Grundstück zu entrichten sind.

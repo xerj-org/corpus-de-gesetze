@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 306 — Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE259901377
+Normseite: https://www.gesetze-im-internet.de/bgb/__306.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Sind Allgemeine Geschäftsbedingungen ganz oder teilweise nicht Vertragsbestandteil geworden oder unwirksam, so bleibt der Vertrag im Übrigen wirksam.
+(2) Soweit die Bestimmungen nicht Vertragsbestandteil geworden oder unwirksam sind, richtet sich der Inhalt des Vertrags nach den gesetzlichen Vorschriften.
+(3) Der Vertrag ist unwirksam, wenn das Festhalten an ihm auch unter Berücksichtigung der nach Absatz 2 vorgesehenen Änderung eine unzumutbare Härte für eine Vertragspartei darstellen würde.

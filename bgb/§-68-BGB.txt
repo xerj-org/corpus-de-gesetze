@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 68 — Vertrauensschutz durch Vereinsregister
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE005902377
+Normseite: https://www.gesetze-im-internet.de/bgb/__68.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Wird zwischen den bisherigen Mitgliedern des Vorstands und einem Dritten ein Rechtsgeschäft vorgenommen, so kann die Änderung des Vorstands dem Dritten nur entgegengesetzt werden, wenn sie zur Zeit der Vornahme des Rechtsgeschäfts im Vereinsregister eingetragen oder dem Dritten bekannt ist. Ist die Änderung eingetragen, so braucht der Dritte sie nicht gegen sich gelten zu lassen, wenn er sie nicht kennt, seine Unkenntnis auch nicht auf Fahrlässigkeit beruht.

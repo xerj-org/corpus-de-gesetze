@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1099 — Mitteilungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE113603377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1099.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Gelangt das Grundstück in das Eigentum eines Dritten, so kann dieser in gleicher Weise wie der Verpflichtete dem Berechtigten den Inhalt des Kaufvertrags mit der im § 469 Abs. 2 bestimmten Wirkung mitteilen.
+(2) Der Verpflichtete hat den neuen Eigentümer zu benachrichtigen, sobald die Ausübung des Vorkaufsrechts erfolgt oder ausgeschlossen ist.

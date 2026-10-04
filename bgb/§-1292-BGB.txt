@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1292 — Verpfändung von Orderpapieren
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE131802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1292.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Zur Verpfändung eines Wechsels oder eines anderen Papiers, das durch Indossament übertragen werden kann, genügt die Einigung des Gläubigers und des Pfandgläubigers und die Übergabe des indossierten Papiers.

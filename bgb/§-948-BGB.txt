@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 948 — Vermischung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE098002377
+Normseite: https://www.gesetze-im-internet.de/bgb/__948.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Werden bewegliche Sachen miteinander untrennbar vermischt oder vermengt, so finden die Vorschriften des § 947 entsprechende Anwendung.
+(2) Der Untrennbarkeit steht es gleich, wenn die Trennung der vermischten oder vermengten Sachen mit unverhältnismäßigen Kosten verbunden sein würde.

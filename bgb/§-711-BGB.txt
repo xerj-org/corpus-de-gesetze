@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 711 — Übertragung und Übergang von Gesellschaftsanteilen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE073903360
+Normseite: https://www.gesetze-im-internet.de/bgb/__711.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Übertragung eines Gesellschaftsanteils bedarf der Zustimmung der anderen Gesellschafter. Die Gesellschaft kann eigene Anteile nicht erwerben.
+(2) Ist im Gesellschaftsvertrag vereinbart, dass im Fall des Todes eines Gesellschafters die Gesellschaft mit seinem Erben fortgesetzt werden soll, geht der Anteil auf den Erben über. Sind mehrere Erben vorhanden, fällt der Gesellschaftsanteil kraft Gesetzes jedem Erben entsprechend der Erbquote zu. Die Vorschriften über die Erbengemeinschaft finden insoweit keine Anwendung.

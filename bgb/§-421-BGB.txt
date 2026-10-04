@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 421 — Gesamtschuldner
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE041402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__421.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Schulden mehrere eine Leistung in der Weise, dass jeder die ganze Leistung zu bewirken verpflichtet, der Gläubiger aber die Leistung nur einmal zu fordern berechtigt ist (Gesamtschuldner), so kann der Gläubiger die Leistung nach seinem Belieben von jedem der Schuldner ganz oder zu einem Teil fordern. Bis zur Bewirkung der ganzen Leistung bleiben sämtliche Schuldner verpflichtet.

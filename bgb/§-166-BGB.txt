@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 166 — Willensmängel; Wissenszurechnung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE015802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__166.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Soweit die rechtlichen Folgen einer Willenserklärung durch Willensmängel oder durch die Kenntnis oder das Kennenmüssen gewisser Umstände beeinflusst werden, kommt nicht die Person des Vertretenen, sondern die des Vertreters in Betracht.
+(2) Hat im Falle einer durch Rechtsgeschäft erteilten Vertretungsmacht (Vollmacht) der Vertreter nach bestimmten Weisungen des Vollmachtgebers gehandelt, so kann sich dieser in Ansehung solcher Umstände, die er selbst kannte, nicht auf die Unkenntnis des Vertreters berufen. Dasselbe gilt von Umständen, die der Vollmachtgeber kennen musste, sofern das Kennenmüssen der Kenntnis gleichsteht.

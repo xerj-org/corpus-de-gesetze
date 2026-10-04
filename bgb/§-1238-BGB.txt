@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1238 — Verkaufsbedingungen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE127703125
+Normseite: https://www.gesetze-im-internet.de/bgb/__1238.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Das Pfand darf nur mit der Bestimmung verkauft werden, dass der Käufer den Kaufpreis sofort zu entrichten hat und seiner Rechte verlustig sein soll, wenn dies nicht geschieht.
+(2) Erfolgt der Verkauf ohne diese Bestimmung, so ist der Kaufpreis als von dem Pfandgläubiger empfangen anzusehen; die Rechte des Pfandgläubigers gegen den Ersteher bleiben unberührt. Unterbleibt die sofortige Entrichtung des Kaufpreises, so gilt das Gleiche, wenn nicht vor dem Schluss des Versteigerungstermins von dem Vorbehalt der Rechtsverwirkung Gebrauch gemacht wird.

@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 71 — Selbständige Anordnung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE016902307
+Normseite: https://www.gesetze-im-internet.de/stgb/__71.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Unterbringung in einem psychiatrischen Krankenhaus oder in einer Entziehungsanstalt kann das Gericht auch selbständig anordnen, wenn das Strafverfahren wegen Schuldunfähigkeit oder Verhandlungsunfähigkeit des Täters undurchführbar ist.
+(2) Dasselbe gilt für die Entziehung der Fahrerlaubnis und das Berufsverbot.

@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 864 — Erlöschen der Besitzansprüche
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE089302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__864.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Ein nach den §§ 861, 862 begründeter Anspruch erlischt mit dem Ablauf eines Jahres nach der Verübung der verbotenen Eigenmacht, wenn nicht vorher der Anspruch im Wege der Klage geltend gemacht wird.
+(2) Das Erlöschen tritt auch dann ein, wenn nach der Verübung der verbotenen Eigenmacht durch rechtskräftiges Urteil festgestellt wird, dass dem Täter ein Recht an der Sache zusteht, vermöge dessen er die Herstellung eines seiner Handlungsweise entsprechenden Besitzstands verlangen kann.

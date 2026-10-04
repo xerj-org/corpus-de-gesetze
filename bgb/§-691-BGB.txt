@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 691 — Hinterlegung bei Dritten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE071802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__691.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Verwahrer ist im Zweifel nicht berechtigt, die hinterlegte Sache bei einem Dritten zu hinterlegen. Ist die Hinterlegung bei einem Dritten gestattet, so hat der Verwahrer nur ein ihm bei dieser Hinterlegung zur Last fallendes Verschulden zu vertreten. Für das Verschulden eines Gehilfen ist er nach § 278 verantwortlich.

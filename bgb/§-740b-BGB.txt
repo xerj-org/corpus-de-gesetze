@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 740b — Auseinandersetzung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE291700360
+Normseite: https://www.gesetze-im-internet.de/bgb/__740b.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Nach der Beendigung der nicht rechtsfähigen Gesellschaft findet die Auseinandersetzung unter den Gesellschaftern statt.
+(2) Auf die Auseinandersetzung sind § 736d Absatz 2, 4, 5 und 6 und § 737 entsprechend anzuwenden.

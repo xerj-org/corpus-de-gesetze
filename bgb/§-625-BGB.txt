@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 625 — Stillschweigende Verlängerung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE064102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__625.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Wird das Dienstverhältnis nach dem Ablauf der Dienstzeit von dem Verpflichteten mit Wissen des anderen Teiles fortgesetzt, so gilt es als auf unbestimmte Zeit verlängert, sofern nicht der andere Teil unverzüglich widerspricht.

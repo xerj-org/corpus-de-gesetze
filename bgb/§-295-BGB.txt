@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 295 — Wörtliches Angebot
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE028802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__295.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Ein wörtliches Angebot des Schuldners genügt, wenn der Gläubiger ihm erklärt hat, dass er die Leistung nicht annehmen werde, oder wenn zur Bewirkung der Leistung eine Handlung des Gläubigers erforderlich ist, insbesondere wenn der Gläubiger die geschuldete Sache abzuholen hat. Dem Angebot der Leistung steht die Aufforderung an den Gläubiger gleich, die erforderliche Handlung vorzunehmen.

@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 142 — Wirkung der Anfechtung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE013402377
+Normseite: https://www.gesetze-im-internet.de/bgb/__142.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Wird ein anfechtbares Rechtsgeschäft angefochten, so ist es als von Anfang an nichtig anzusehen.
+(2) Wer die Anfechtbarkeit kannte oder kennen musste, wird, wenn die Anfechtung erfolgt, so behandelt, wie wenn er die Nichtigkeit des Rechtsgeschäfts gekannt hätte oder hätte kennen müssen.

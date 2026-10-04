@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 594b — Vertrag über mehr als 30 Jahre
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE235602377
+Normseite: https://www.gesetze-im-internet.de/bgb/__594b.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Wird ein Pachtvertrag für eine längere Zeit als 30 Jahre geschlossen, so kann nach 30 Jahren jeder Vertragsteil das Pachtverhältnis spätestens am dritten Werktag eines Pachtjahrs für den Schluss des nächsten Pachtjahrs kündigen. Die Kündigung ist nicht zulässig, wenn der Vertrag für die Lebenszeit des Verpächters oder des Pächters geschlossen ist.

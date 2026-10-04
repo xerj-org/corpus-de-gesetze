@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 694 — Schadensersatzpflicht des Hinterlegers
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE072102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__694.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Hinterleger hat den durch die Beschaffenheit der hinterlegten Sache dem Verwahrer entstehenden Schaden zu ersetzen, es sei denn, dass er die Gefahr drohende Beschaffenheit der Sache bei der Hinterlegung weder kennt noch kennen muss oder dass er sie dem Verwahrer angezeigt oder dieser sie ohne Anzeige gekannt hat.

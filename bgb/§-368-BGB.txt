@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 368 — Quittung
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE036102377
+Normseite: https://www.gesetze-im-internet.de/bgb/__368.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Der Gläubiger hat gegen Empfang der Leistung auf Verlangen ein schriftliches Empfangsbekenntnis (Quittung) zu erteilen. Hat der Schuldner ein rechtliches Interesse, dass die Quittung in anderer Form erteilt wird, so kann er die Erteilung in dieser Form verlangen.

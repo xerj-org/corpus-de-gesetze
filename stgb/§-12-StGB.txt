@@ -1,0 +1,10 @@
+Strafgesetzbuch (StGB) — § 12 — Verbrechen und Vergehen
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE007902307
+Normseite: https://www.gesetze-im-internet.de/stgb/__12.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Verbrechen sind rechtswidrige Taten, die im Mindestmaß mit Freiheitsstrafe von einem Jahr oder darüber bedroht sind.
+(2) Vergehen sind rechtswidrige Taten, die im Mindestmaß mit einer geringeren Freiheitsstrafe oder die mit Geldstrafe bedroht sind.
+(3) Schärfungen oder Milderungen, die nach den Vorschriften des Allgemeinen Teils oder für besonders schwere oder minder schwere Fälle vorgesehen sind, bleiben für die Einteilung außer Betracht.

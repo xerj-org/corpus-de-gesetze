@@ -1,0 +1,9 @@
+Strafgesetzbuch (StGB) — § 9 — Ort der Tat
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-28
+Dokumentnummer: BJNR001270871BJNE007602307
+Normseite: https://www.gesetze-im-internet.de/stgb/__9.html
+Quell-Zip: https://www.gesetze-im-internet.de/stgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Eine Tat ist an jedem Ort begangen, an dem der Täter gehandelt hat oder im Falle des Unterlassens hätte handeln müssen oder an dem der zum Tatbestand gehörende Erfolg eingetreten ist oder nach der Vorstellung des Täters eintreten sollte.
+(2) Die Teilnahme ist sowohl an dem Ort begangen, an dem die Tat begangen ist, als auch an jedem Ort, an dem der Teilnehmer gehandelt hat oder im Falle des Unterlassens hätte handeln müssen oder an dem nach seiner Vorstellung die Tat begangen werden sollte. Hat der Teilnehmer an einer Auslandstat im Inland gehandelt, so gilt für die Teilnahme das deutsche Strafrecht, auch wenn die Tat nach dem Recht des Tatorts nicht mit Strafe bedroht ist.

@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 589 — Nutzungsüberlassung an Dritte
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE060403377
+Normseite: https://www.gesetze-im-internet.de/bgb/__589.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Der Pächter ist ohne Erlaubnis des Verpächters nicht berechtigt, 1. die Nutzung der Pachtsache einem Dritten zu überlassen, insbesondere die Sache weiter zu verpachten, 2. die Pachtsache ganz oder teilweise einem landwirtschaftlichen Zusammenschluss zum Zwecke der gemeinsamen Nutzung zu überlassen.
+(2) Überlässt der Pächter die Nutzung der Pachtsache einem Dritten, so hat er ein Verschulden, das dem Dritten bei der Nutzung zur Last fällt, zu vertreten, auch wenn der Verpächter die Erlaubnis zur Überlassung erteilt hat.

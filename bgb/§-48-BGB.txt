@@ -1,0 +1,10 @@
+Bürgerliches Gesetzbuch (BGB) — § 48 — Liquidatoren
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE003903140
+Normseite: https://www.gesetze-im-internet.de/bgb/__48.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Die Liquidation erfolgt durch den Vorstand. Zu Liquidatoren können auch andere Personen bestellt werden; für die Bestellung sind die für die Bestellung des Vorstands geltenden Vorschriften maßgebend.
+(2) Die Liquidatoren haben die rechtliche Stellung des Vorstands, soweit sich nicht aus dem Zwecke der Liquidation ein anderes ergibt.
+(3) Sind mehrere Liquidatoren vorhanden, so sind sie nur gemeinschaftlich zur Vertretung befugt und können Beschlüsse nur einstimmig fassen, sofern nicht ein anderes bestimmt ist.

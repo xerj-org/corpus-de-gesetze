@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 2345 — Vermächtnisunwürdigkeit; Pflichtteilsunwürdigkeit
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE229302377
+Normseite: https://www.gesetze-im-internet.de/bgb/__2345.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Hat sich ein Vermächtnisnehmer einer der in § 2339 Abs. 1 bezeichneten Verfehlungen schuldig gemacht, so ist der Anspruch aus dem Vermächtnis anfechtbar. Die Vorschriften der §§ 2082, 2083, 2339 Abs. 2 und der §§ 2341, 2343 finden Anwendung.
+(2) Das Gleiche gilt für einen Pflichtteilsanspruch, wenn der Pflichtteilsberechtigte sich einer solchen Verfehlung schuldig gemacht hat.

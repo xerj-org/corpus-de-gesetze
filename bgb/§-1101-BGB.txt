@@ -1,0 +1,8 @@
+Bürgerliches Gesetzbuch (BGB) — § 1101 — Befreiung des Berechtigten
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE113802377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1101.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+Soweit der Berechtigte nach § 1100 dem Käufer oder dessen Rechtsnachfolger den Kaufpreis zu erstatten hat, wird er von der Verpflichtung zur Zahlung des aus dem Vorkauf geschuldeten Kaufpreises frei.

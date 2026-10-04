@@ -1,0 +1,9 @@
+Bürgerliches Gesetzbuch (BGB) — § 1105 — Gesetzlicher Inhalt der Reallast
+Quelle: gesetze-im-internet.de, konsolidierte Fassung, XML-Stand: 2026-09-26
+Dokumentnummer: BJNR001950896BJNE114203377
+Normseite: https://www.gesetze-im-internet.de/bgb/__1105.html
+Quell-Zip: https://www.gesetze-im-internet.de/bgb/xml.zip
+Lizenz: amtlicher Gesetzestext — § 5 UrhG (urheberrechtsfrei); https://www.gesetze-im-internet.de/
+
+(1) Ein Grundstück kann in der Weise belastet werden, dass an denjenigen, zu dessen Gunsten die Belastung erfolgt, wiederkehrende Leistungen aus dem Grundstück zu entrichten sind (Reallast). Als Inhalt der Reallast kann auch vereinbart werden, dass die zu entrichtenden Leistungen sich ohne weiteres an veränderte Verhältnisse anpassen, wenn anhand der in der Vereinbarung festgelegten Voraussetzungen Art und Umfang der Belastung des Grundstücks bestimmt werden können.
+(2) Die Reallast kann auch zugunsten des jeweiligen Eigentümers eines anderen Grundstücks bestellt werden.
